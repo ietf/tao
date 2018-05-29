@@ -6,9 +6,9 @@ The current version of this web page can always be found at http://www.ietf.org/
 This web page is in English. There is a list of translations of the Tao of the IETF.
 1. Introduction
 
-Since its early years, attendance at Internet Engineering Task Force (IETF) face-to-face meetings has grown phenomenally. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular attendees. When the meetings were smaller, it was relatively easy for a newcomer to get into the swing of things. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
+Since its early years, attendance at Internet Engineering Task Force (IETF) face-to-face meetings has grown phenomenally and it now stabilizing. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular attendees. When the meetings were smaller, it was relatively easy for a newcomer to find their feet. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
 
-This document describes many aspects of the IETF, with the goal of explaining to newcomers how the IETF works. This will give them a warm, fuzzy feeling and enable them to make the meeting and the Working Group discussions more productive for everyone. This document started out fairly short, but expanded over time in response to suggestions from IETF novices about what more they would have wanted to know before attending their first face-to-face meeting or becoming active in their first Working Group.
+This document describes many aspects of the IETF, with the goal of explaining to newcomers how the IETF works. This will enable them to make the meeting and the Working Group discussions more productive for everyone. This document started out fairly short, but expanded over time in response to suggestions from IETF novices about what more they would have wanted to know before attending their first face-to-face meeting or becoming active in their first Working Group.
 
 Of course, it's true that many IETF participants don't go to the face-to-face meetings at all. Instead, they're active on the mailing list of various IETF Working Groups. Since the inner workings of Working Groups can be hard for newcomers to understand, this document provides the mundane bits of information that newcomers will need in order to become active participants.
 
@@ -67,7 +67,7 @@ In many ways, the IETF runs on the beliefs of its participants. One of the "foun
 
 The IETF is really about its participants. Because the IETF welcomes all interested individuals, IETF participants come from all over the world and from many different parts of the Internet industry. The IETF conducts its work solely in English. See Section 3.12 for information about the ways that many people fit into the IETF.
 
-One more thing that is important for newcomers: the IETF in no way "runs the Internet", despite what some people mistakenly might say. The IETF makes voluntary standards that are often adopted by Internet users, but it does not control, or even patrol, the Internet. If your interest in the IETF is because you want to be part of the overseers, you may be badly disappointed by the IETF.
+One more thing that is important for newcomers: the IETF in no way "runs the Internet", despite what some people mistakenly might say. The IETF makes voluntary standards that are often adopted by Internet users, network operators and equipment vendors, but it does not control, or even patrol, the Internet. If your interest in the IETF is because you want to be part of the overseers, you may be badly disappointed by the IETF.
 2.1 Humble Beginnings
 
 The first IETF meeting was held in January 1986 at Linkabit in San Diego, with 21 attendees. The 4th IETF, held at SRI in Menlo Park in October 1986, was the first that vendors attended. The concept of Working Groups was introduced at the 5th IETF meeting at the NASA Ames Research Center in California in February 1987. The 7th IETF, held at MITRE in McLean, Virginia, in July 1987, was the first meeting with more than 100 attendees.
@@ -78,13 +78,13 @@ After the Internet Society (ISOC) was formed in January 1992, the IAB proposed t
 
 The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first IETF meeting held in Europe, and the US/non-US attendee split was nearly 50/50. The IETF first met in Asia (in Adelaide, Australia) in 2000.
 
-Currently, the IETF meets in North America, Europe, and Asia. The intention is to meet once a year in each region, although due to scheduling issues there are often more meetings in North America and fewer in Asia and Europe. The number of non-US attendees continues to be high — about 50%, even at meetings held in the United States.
+Currently, the IETF meets in North America, Europe, and Asia. We have also met in Latin America, but this is currently not part of the rotation schedule. The intention is to meet once a year in North America, Europe, and Asia, although due to scheduling and logistical issues this might vary. The number of non-US attendees continues to be high — about 60%, even at meetings held in the United States (https://datatracker.ietf.org/stats/meeting/continent/).
 2.2 The Hierarchy
 2.2.1 ISOC (Internet Society)
 
-The Internet Society is an international, non-profit, membership organization that fosters the expansion of the Internet. One of the ways that ISOC does this is through financial and legal support of the other "I" groups described here, particularly the IETF. ISOC provides insurance coverage for many of the people holding leadership positions in the IETF process and acts as a public relations channel for the times that one of the "I" groups wants to say something to the press. The ISOC is one of the major unsung heroes of the Internet.
+The Internet Society is an international, non-profit, membership organization that fosters the expansion of the Internet. One of the ways that ISOC does this is through financial and legal support of the other "I" groups described here, particularly the IETF. ISOC provides insurance coverage for many of the people holding leadership positions in the IETF process and acts as a public relations channel for the times that one of the "I" groups wants to say something to the press.
 
-Starting in spring 2005, the ISOC also became home base for the IETF's directly employed administrative staff. This is described in more detail in [BCP101], "Structure of the IETF Administrative Support Activity (IASA)". The staff initially includes only an Administrative Director (IAD) who works full-time overseeing IETF meeting planning, operational aspects of support services (the secretariat, IANA (the Internet Assigned Numbers Authority), and the RFC Editor, which are described later in this section), and the budget. He or she (currently it's a he) leads the IETF Administrative Support Activity (IASA), which takes care of tasks such as collecting meeting fees and paying invoices, and also supports the tools for the work of IETF working groups, the IESG, the IAB, and the IRTF (more about these later in this section).
+Starting in spring 2005, the ISOC also became home base for the IETF's directly employed administrative staff. This is described in more detail in [BCP101], "Structure of the IETF Administrative Support Activity (IASA)". The staff initially includes only an Administrative Director (IAD) who works full-time overseeing IETF meeting planning, operational aspects of support services (the secretariat, IANA (the Internet Assigned Numbers Authority), and the RFC Editor, which are described later in this section), and the budget. He or she (currently it's a she) leads the IETF Administrative Support Activity (IASA), which takes care of tasks such as collecting meeting fees and paying invoices, and also supports the tools for the work of IETF working groups, the IESG, the IAB, and the IRTF (more about these later in this section).
 
 The IETF Administrative Oversight Committee (IAOC) consists of volunteers, all chosen directly or indirectly by the IETF community, as well as appropriate ex officio members from ISOC and IETF leadership. The IASA and the IAD are directed by the IAOC.
 
@@ -98,16 +98,13 @@ Check the IESG web pages, http://www.ietf.org/iesg.html, to find up-to-date info
 The IESG consists of the Area Directors (often called "ADs"), who are selected by the Nominations Committee (which is usually called "the NomCom") and are appointed for two years. The process for choosing the members of the IESG is detailed in [BCP10], "IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees".
 
 The current Areas and abbreviations are shown below.
-Area 	Description
-Applications (APP) 	Protocols seen by user programs, such as email and the web
-General (GEN) 	IETF process, and catch-all for WGs that don't fit in other Areas (which is very few)
-Internet (INT) 	Different ways of moving IP packets and DNS information
-Real-time Applications and Infrastructure (RAI) 	Delay-sensitive interpersonal communications
-Routing (RTG) 	Getting packets to their destinations
-Security (SEC) 	Authentication and privacy
-Transport (TSV) 	Special services for special packets
-
-Because the IESG has a great deal of influence on whether Internet-Drafts become RFCs, many people look at the ADs as somewhat godlike creatures. IETF participants sometimes reverently ask Area Directors for their opinion on a particular subject. However, most ADs are nearly indistinguishable from mere mortals and rarely speak from mountaintops. In fact, when asked for specific technical comments, the ADs may often defer to IETF participants whom they feel have more knowledge than they do on that topic.
+Area 					Description
+Applications and Real-Time Area (art) 	Protocols seen by user programs, such as email and the web and delay-sensitive interpersonal communications
+General (gen) 				IETF process, and catch-all for WGs that don't fit in other Areas (which is very few)
+Internet (int) 				Different ways of moving IP packets and DNS information 	
+Routing (rtg) 				Getting packets to their destinations
+Security (sec) 				Privacy, integrity, authentication, non-repudiation, confidentiality, and access control.
+Transport (TSV) 			Transport for large volumes of traffic at potentially high bandwidths.
 
 The ADs for a particular Area are expected to know more about the combined work of the WGs in that Area than anyone else. On the other hand, the entire IESG reviews each Internet-Draft that is proposed to become an RFC. Any AD may record a "DISCUSS" ballot position against a draft if he or she has serious concerns. If these concerns cannot be resolved by discussion, an override procedure is defined such that at least two IESG members must express concerns before a draft can be blocked from moving forward. These procedures help ensure that an AD's "pet project" doesn't make it onto the standards track if it will have a negative effect on the rest of the IETF protocols and that an AD's "pet peeve" cannot indefinitely block something.
 
@@ -120,7 +117,7 @@ The IAB is responsible for keeping an eye on the "big picture" of the Internet, 
 
 IAB members pay special attention to emerging activities in the IETF. When a new IETF Working Group is proposed, the IAB reviews its charter for architectural consistency and integrity. Even before the group is chartered, the IAB members are more than willing to discuss new ideas with the people proposing them.
 
-The IAB also sponsors and organizes the Internet Research Task Force and convenes invitational workshops that provide in-depth reviews of specific Internet architectural issues. Typically, the workshop reports make recommendations to the IETF community and to the IESG.
+The IAB also sponsors and organizes the Internet Research Task Force and convenes invitational workshops that provide in-depth reviews of specific Internet architectural issues. Typically, the workshop reports make recommendations to the IETF community and to the IESG and keeps the community informed through blogposts and by publishing RFCs.
 
 The IAB also:
 
