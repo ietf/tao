@@ -1,7 +1,7 @@
 Niels ten Oever and Kathleen Moriarty, Editors
 About This Document
 
-The current version of this web page can always be found at http://www.ietf.org/tao.html; that page can also be retrieved protected by TLS. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list. A history of the major versions of the Tao can be found here. This particular version was created on 2012-11-02.
+The current version of this web page can always be found at https://www.ietf.org/about/participate/tao; that page can also be retrieved protected by TLS. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list. A history of the major versions of the Tao can be found here. This particular version was created on 2012-11-02.
 
 This web page is in English. There is a list of translations of the Tao of the IETF.
 1. Introduction
