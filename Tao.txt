@@ -253,7 +253,7 @@ If certain aspects of the IETF still mystify you (even after you finish reading 
 
 During registration you will also be offered to be linked to a mentor. This is also organized by the EDU team, you will be paired with volunteers who have experience in the IETF and can help you hit the ground running. Ideally you have a call with your mentor before the meeting, a meeting during the beginning of the meeting and check in some time during the meeting, so they can help you with any questions you might have.
 
-You'll find more about the EDU team at http://www.ietf.org/edu/.
+You'll find more about the EDU team at https://datatracker.ietf.org/group/emodir/about.
 3.12 Where Do I Fit In?
 
 The IETF is different things to different people. There are many people who have been very active in the IETF who have never attended an IETF meeting. You should not feel obligated to come to an IETF meeting just to get a feel for the IETF. The following guidelines (based on stereotypes of people in various industries) might help you decide whether you actually want to come and, if so, what might be the best use of your time at your first meeting.
@@ -318,7 +318,7 @@ The role of the WG chairs is described in both [BCP11] and [BCP25].
 
 As volunteer cat-herders, a chair's first job is to determine the WG consensus goals and milestones, keeping the charter up to date. Next, often with the help of WG secretaries or document editors, the chair must manage WG discussion, both on the list and by scheduling meetings when appropriate. Sometimes discussions get stuck on contentious points and the chair may need to steer people toward productive interaction and then declare when rough consensus has been met and the discussion is over. Sometimes chairs also manage interactions with non-WG participants or the IESG, especially when a WG document approaches publication. Chairs have responsibility for the technical and non-technical quality of WG output. As you can imagine given the mix of secretarial, interpersonal, and technical demands, some Working Group chairs are much better at their jobs than others.
 
-WG chairs are strongly advised to go to the WG leadership training that usually happens on the Sunday preceding the IETF meeting. There is also usually a WG chairs lunch mid-week during the meeting where chair-specific topics are presented and discussed. If you're interested in what they hear there, take a look at the slides at http://edu.ietf.org.
+WG chairs are strongly advised to go to the WG leadership training that usually happens on the Sunday preceding the IETF meeting. There is also usually a WG chairs lunch mid-week during the meeting where chair-specific topics are presented and discussed. If you're interested in what they hear there, take a look at the slides at https://trac.ietf.org/trac/edu.
 4.2 Getting Things Done in a Working Group
 
 One fact that confuses many novices is that the face-to-face WG meetings are much less important in the IETF than they are in most other organizations. Any decision made at a face-to-face meeting must also gain consensus on the WG mailing list. There are numerous examples of important decisions made in WG meetings that are later overturned on the mailing list, often because someone who couldn't attend the meeting pointed out a serious flaw in the logic used to come to the decision. Finally, WG meetings aren't "drafting sessions", as they are in some other standards bodies: in the IETF, drafting is done elsewhere.
