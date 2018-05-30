@@ -444,7 +444,7 @@ When you submit an Internet-Draft, you give some publication rights to the IETF.
 
 There is a very useful checking tool at https://tools.ietf.org/tools/idnits. Using this tool before you turn in an Internet-Draft will help prevent the draft from being rejected due to errors in form and formatting.
 
-An I-D should have approximately the same format as an RFC. Contrary to many people's beliefs, an I-D does not need to look exactly like an RFC, but if you can use the same formatting procedures used by the RFC Editor when you create your I-Ds, it will simplify the RFC Editor's work when your draft is published as an RFC. [RFC2223], "Instructions to RFC Authors", describes the submission format. There is also a tool called "xml2rfc", available from http://xml.resource.org, that takes XML-formatted text and turns it into a valid Internet-Draft.
+An I-D should have approximately the same format as an RFC. Contrary to many people's beliefs, an I-D does not need to look exactly like an RFC, but if you can use the same formatting procedures used by the RFC Editor when you create your I-Ds, it will simplify the RFC Editor's work when your draft is published as an RFC. [RFC2223], "Instructions to RFC Authors", describes the submission format. There is also a tool called "xml2rfc", available from https://xml2rfc.tools.ietf.org, that takes XML-formatted text and turns it into a valid Internet-Draft.
 
 An Internet-Draft can be either a Working Group draft or an individual submission. Working Group drafts are usually reviewed by the Working Group before being accepted as a WG item, although the chairs have the final say.
 
