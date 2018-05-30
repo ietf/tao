@@ -200,7 +200,7 @@ Newcomers are encouraged to attend the Newcomer's Tutorial on Sunday afternoon, 
 Later in the afternoon is the Quick Connections session where newcomers have the chance to get to know senior IETF participants, and ask questions. The Quick Connections session is followed by the Newcomer's Meet and Greet, which is only open to newcomers and WG chairs. This is a great place to try to find people knowledgeable in the areas in which you are interested. Feel free to approach any WG chair, not just those in your area, to either learn about their WG or to have them help find you someone in yours.
 3.4 Dress Code
 
-At meetings people generally dress informally. Sometimes newcomers are sometimes embarrassed when they show up Monday morning in suits, to discover that everybody else is wearing T-shirts and jeans (shorts, if weather permits). The general rule is "dress for the weather" (unless you plan to work so hard that you won't go outside, in which case, "dress for comfort" is the rule!).
+At meetings people generally dress informally. Newcomers are sometimes out of place when they show up Monday morning in suits. The general rule is "dress for the weather" (unless you plan to work so hard that you won't go outside, in which case, "dress for comfort") is the rule!
 3.5 WG Meetings
 
 The heart of an IETF meeting is the WG meetings themselves. Different WGs chairs have very different styles, so it is impossible to generalize how a WG meeting will feel. Even though nearly all WGs have agendas for their meetings, some meetings stick tightly to their agenda while others are run more loosely.
