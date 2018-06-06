@@ -54,6 +54,8 @@ Its mission includes the following:
     Facilitating technology transfer from the Internet Research Task Force (IRTF) to the wider Internet community
     Providing a forum for the exchange of information within the Internet community between vendors, users, researchers, agency contractors, and network managers
 
+The IETF mission further states that the Internet isn't value-neutral, and neither is the IETF.  We want the Internet to be useful for communities that share our commitment to openness and fairness. We embrace technical concepts such as decentralized control, edge-user empowerment and sharing of resources, because those concepts resonate with the core values of the IETF community.  These concepts have little to do with the technology that's possible, and much to do with the technology that we choose to create.
+
 The IETF meeting is not a conference, although there are technical presentations. The IETF is not a traditional standards organization, although many specifications that are produced become standards. The IETF is made up of volunteers, many of whom meet three times a year to fulfill the IETF mission.
 
 There is no membership in the IETF. Anyone may register for a meeting and then attend. The closest thing there is to being an IETF member is being on the IETF or Working Group mailing lists (see Section 2.3). This is where the best information about current IETF activities and focus can be found.
