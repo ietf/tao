@@ -24,27 +24,30 @@ So, why "the Tao"? Pronounced "dow", Tao is the basic principle behind the teach
 1.1 Acronyms and Abbreviations Used in the Tao
 
 Some of the acronyms and abbreviations from this document are listed below.
-Term 	Meaning
-AD 	Area Director
-BCP 	Best Current Practice
-BOF 	Birds of a Feather
-FAQ 	Frequently Asked Question(s)
-FYI 	For Your Information (RFC)
-IAB 	Internet Architecture Board
-IAD 	IETF Administrative Director
-IANA 	Internet Assigned Numbers Authority
-IAOC 	IETF Administrative Oversight Committee
-IASA 	IETF Administrative Support Activity
-ICANN 	Internet Corporation for Assigned Names and Numbers
-I-D 	Internet-Draft
-IESG 	Internet Engineering Steering Group
-IETF 	Internet Engineering Task Force
-IPR 	Intellectual property rights
-IRTF 	Internet Research Task Force
-ISOC 	Internet Society
-RFC 	Request for Comments
-STD 	Standard (RFC)
-WG 	Working Group
+
+| Term   | Meaning                                             |
+|--------|-----------------------------------------------------|
+| AD     | Area Director                                       |
+| BCP    | Best Current Practice                               |
+| BOF    | Birds of a Feather                                  |
+| FAQ    | Frequently Asked Question(s)                        |
+| FYI    | For Your Information (RFC)                          |
+| IAB    | Internet Architecture Board                         |
+| IAD    | IETF Administrative Director                        |
+| IANA   | Internet Assigned Numbers Authority                 |
+| IAOC   | IETF Administrative Oversight Committee             |
+| IASA   | IETF Administrative Support Activity                |
+| ICANN  | Internet Corporation for Assigned Names and Numbers |
+| I-D    | Internet-Draft                                      |
+| IESG   | Internet Engineering Steering Group                 |
+| IETF   | Internet Engineering Task Force                     |
+| IPR    | Intellectual property rights                        |
+| IRTF   | Internet Research Task Force                        |
+| ISOC   | Internet Society                                    |
+| RFC    | Request for Comments                                |
+| STD    | Standard (RFC)                                      |
+| WG     | Working Group                                       |
+
 2. What Is the IETF?
 
 The IETF is a loosely self-organized group of people who contribute to the engineering and evolution of Internet technologies. It is the principal body engaged in the development of new Internet standard specifications. The IETF is unusual in that it exists as a collection of happenings, but is not a corporation and has no board of directors, no members, and no dues; see [RFC 3935], "A Mission Statement for the IETF", for more detail.
@@ -104,13 +107,15 @@ Check the IESG web pages, https://www.ietf.org/about/groups/iesg, to find up-to-
 The IESG consists of the Area Directors (often called "ADs"), who are selected by the Nominations Committee (which is usually called "the NomCom") and are appointed for two years. The process for choosing the members of the IESG is detailed in [BCP10], "IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees".
 
 The current Areas and abbreviations are shown below (more information can be found here: https://www.ietf.org/topics/areas/).
-Area 					Description
-Applications and Real-Time Area (art) 	Protocols seen by user programs, such as email and the web and delay-sensitive interpersonal communications
-General (gen) 				IETF process, and catch-all for WGs that don't fit in other Areas (which is very few)
-Internet (int) 				Different ways of moving IP packets and DNS information 	
-Routing (rtg) 				Getting packets to their destinations
-Security (sec) 				Privacy, integrity, authentication, non-repudiation, confidentiality, and access control.
-Transport (tsv) 			Transport for large volumes of traffic at potentially high bandwidths.
+
+| Area                                   | Description                                                                                                 |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Applications and Real-Time Area (art)  | Protocols seen by user programs, such as email and the web and delay-sensitive interpersonal communications |
+| General (gen)                          | IETF process, and catch-all for WGs that don't fit in other Areas (which is very few)                       |
+| Internet (int)                         | Different ways of moving IP packets and DNS information                                                     |
+| Routing (rtg)                          | Getting packets to their destinations                                                                       |
+| Security (sec)                         | Privacy, integrity, authentication, non-repudiation, confidentiality, and access control.                   |
+| Transport (tsv)                        | Transport for large volumes of traffic at potentially high bandwidths.                                      |
 
 Because the IESG is reviewing all Internet-Drafts before they become RFCs, Area Directors have quite a bit of influence. Some people therefore shy away from directly engaging with Area Directors, whereas they can be an important resource and help you find the person or the answer that your looking for. At the meeting they might be very busy. Planning ahead to schedule a meeting or to find time at the Newcomers Meet and Greet is a great way to get in touch. Email before or after a meeting is effective as well.
 
@@ -130,12 +135,12 @@ The IAB also sponsors and organizes the Internet Research Task Force and convene
 
 The IAB also:
 
-    Approves NomCom's IESG nominations
-    Acts as the appeals board for appeals against IESG and IAOC actions
-    Oversees the RFC series through the RFC Series Oversight Committee (RSOC)
-    Approves the appointment of the IANA
-    Acts as an advisory body to ISOC
-    Oversees IETF liaisons with other standards bodies
+    - Approves NomCom's IESG nominations
+    - Acts as the appeals board for appeals against IESG and IAOC actions
+    - Oversees the RFC series through the RFC Series Oversight Committee (RSOC)
+    - Approves the appointment of the IANA
+    - Acts as an advisory body to ISOC
+    - Oversees IETF liaisons with other standards bodies
 
 Like the IESG, the IAB members are selected for two-year positions by the NomCom and are approved by the ISOC Board of Trustees.
 
@@ -237,14 +242,17 @@ When speaking in a meeting, you should always go to the microphones in the room.
 3.6 Seeing Spots Before Your Eyes
 
 Some of the people at the IETF will have a little colored dot on their name tag. A few people have more than one. These dots identify people who are silly enough to volunteer to do a lot of extra work. The colors have the meanings shown here.
-Color 	Meaning
-Blue 	Working Group/BOF Chair
-Green 	Host group
-Red 	IAB member
-Yellow 	IESG member
-Orange 	Nominating Committee member
-Purple 	IAOC
-Pink 	IRSG
+
+| Color  | Meaning                     |
+|--------|-----------------------------|
+| Blue   | Working Group/BOF Chair     |
+| Green  | Host group                  |
+| Red    | IAB member                  |
+| Yellow | IESG member                 |
+| Orange | Nominating Committee member |
+| Purple | IAOC                        |
+| Pink   | IRSG                        |
+|        |                             |
 
 (Members of the press wear orange-tinted badges.)
 
@@ -459,12 +467,12 @@ Every IETF standard is published as an RFC ("Request for Comments"), and every R
 
 A much more complete explanation of these steps is contained in [BCP9], "The Internet Standards Process". Those who write drafts that they hope will become IETF standards must read BCP 9 so that they can follow the path of their document through the process. You can follow the progress on the IETF Datatracker https://datatracker.ietf.org. BCP 9 (and various other documents that update it) goes into great detail on a topic that is very often misunderstood, even by seasoned IETF participants: different types of RFCs go through different processes and have different rankings. There are six kinds of RFCs:
 
-    Proposed standards
-    Internet standards (sometimes called "full standards")
-    Best current practices (BCP) documents
-    Informational documents
-    Experimental documents
-    Historic documents
+    - Proposed standards
+    - Internet standards (sometimes called "full standards")
+    - Best current practices (BCP) documents
+    - Informational documents
+    - Experimental documents
+    - Historic documents
     Only the first two, proposed and full, are standards within the IETF. A good summary of this can be found in the aptly titled [RFC 1796], "Not All RFCs Are Standards".
 
 There are also two sub-series of RFCs, known as BCPs and STDs. Best Current Practice documents describe the application of various technologies in the Internet, and are also commonly used to document the many parts of the IETF process. The sub-series of FYIs are comprised of "Informational documents" in the sense of the enumeration above, with special tagging applied. (There was also a "For Your Information" RFC sub-series that was created to document overviews and topics that are introductory or that appeal to a broad audience; however, that series has been officially closed.)
