@@ -1,7 +1,7 @@
 Niels ten Oever and Kathleen Moriarty, Editors
 About This Document
 
-his is the upcoming revision of the Tao which can be found at [http://www.ietf.org/tao-possible-revision.html]
+This is the upcoming revision of the Tao which can be found at [http://www.ietf.org/tao-possible-revision.html]
 
 The current version of this web page can always be found at [https://www.ietf.org/tao.html]. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list. A history of the major versions of the Tao can be found here. This particular version was created on 2012-11-02.
 
@@ -721,6 +721,7 @@ It is important to develop future leaders within the active community.
 A community process is used to select the leadership.
 
 Leaders are empowered to make the judgment that rough consensus has been demonstrated. Without formal membership, there are no formal rules for consensus.
+
 A.3 Process
 
 Although the IETF needs clear and publicly documented process rules for the normal cases, there should be enough flexibility to allow unusual cases to be handled according to common sense. We apply personal judgment and only codify when we're certain. (But we do codify who can make personal judgments.)
