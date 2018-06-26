@@ -1,4 +1,5 @@
 Niels ten Oever and Kathleen Moriarty, Editors
+
 About This Document
 
 This is the upcoming revision of the Tao which can be found at [http://www.ietf.org/tao-possible-revision.html]
@@ -50,17 +51,18 @@ Some of the acronyms and abbreviations from this document are listed below.
 | STD    | Standard (RFC)                                      |
 | WG     | Working Group                                       |
 
+
 2. What Is the IETF?
 
 The IETF is a loosely self-organized group of people who contribute to the engineering and evolution of Internet technologies. It is the principal body engaged in the development of new Internet standard specifications. The IETF is unusual in that it exists as a collection of happenings, but is not a corporation and has no board of directors, no members, and no dues; see [RFC 3935], "A Mission Statement for the IETF", for more detail.
 
 Its mission includes the following:
 
-    Identifying and proposing solutions to pressing operational and technical problems in the Internet
-    Specifying the development or usage of protocols and the near-term architecture to solve such technical problems for the Internet
-    Making recommendations to the Internet Engineering Steering Group (IESG) regarding the standardization of protocols and protocol usage in the Internet
-    Facilitating technology transfer from the Internet Research Task Force (IRTF) to the wider Internet community
-    Providing a forum for the exchange of information within the Internet community between vendors, users, researchers, agency contractors, operators, and network managers
+    - Identifying and proposing solutions to pressing operational and technical problems in the Internet
+    - Specifying the development or usage of protocols and the near-term architecture to solve such technical problems for the Internet
+    - Making recommendations to the Internet Engineering Steering Group (IESG) regarding the standardization of protocols and protocol usage in the Internet
+    - Facilitating technology transfer from the Internet Research Task Force (IRTF) to the wider Internet community
+    - Providing a forum for the exchange of information within the Internet community between vendors, users, researchers, agency contractors, operators, and network managers
 
 The IETF mission further states that the Internet isn't value-neutral, and neither is the IETF.  We want the Internet to be useful for communities that share our commitment to openness and fairness. We embrace technical concepts such as decentralized control, edge-user empowerment and sharing of resources, because those concepts resonate with the core values of the IETF community.  These concepts have little to do with the technology that's possible, and much to do with the technology that we choose to create.
 
@@ -90,6 +92,7 @@ The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first IET
 Currently, the IETF meets in North America, Europe, and Asia. We have also met in Latin America, but this is currently not part of the rotation schedule. The intention is to meet once a year in North America, Europe, and Asia, although due to scheduling and logistical issues this might vary. The number of non-US attendees continues to be high — about 60%, even at meetings held in the United States ([https://datatracker.ietf.org/stats/meeting/continent/]).
 
 2.2 The Hierarchy
+
 2.2.1 ISOC (Internet Society)
 
 The Internet Society is an international, non-profit, membership organization that fosters the expansion of the Internet. One of the ways that ISOC does this is through financial and legal support of the other "I" groups described here, particularly the IETF. ISOC provides insurance coverage for many of the people holding leadership positions in the IETF process and acts as a public relations channel for the times that one of the "I" groups wants to say something to the press.
@@ -118,6 +121,7 @@ The current Areas and abbreviations are shown below (more information can be fou
 | Routing (rtg)                          | Getting packets to their destinations                                                                       |
 | Security (sec)                         | Privacy, integrity, authentication, non-repudiation, confidentiality, and access control.                   |
 | Transport (tsv)                        | Transport for large volumes of traffic at potentially high bandwidths.                                      |
+
 
 Because the IESG is reviewing all Internet-Drafts before they become RFCs, Area Directors have quite a bit of influence. Some people therefore shy away from directly engaging with Area Directors, whereas they can be an important resource and help you find the person or the answer that your looking for. At the meeting they might be very busy. Planning ahead to schedule a meeting or to find time at the Newcomers Meet and Greet is a great way to get in touch. Email before or after a meeting is effective as well.
 
@@ -304,6 +308,7 @@ The IETF is different things to different people. There are many people who have
 As discussed throughout this document, an IETF meeting is nothing like any trade show you have attended. IETF meetings are singularly bad places to go if your intention is to find out what will be hot in the Internet industry next year. You can safely assume that going to Working Group meetings will confuse you more than it will help you understand what is happening, or will be happening, in the industry.
 
 This is not to say that no one from the industry should go to IETF meetings. As an IS manager, you might want to consider sending specific people who are responsible for technologies that are under development in the IETF. As these people read the current Internet-Drafts and the traffic on the relevant Working Group lists, they will get a sense of whether or not their presence would be worthwhile for your company or for the Working Groups.
+
 3.12.2 Network Operators and ISPs
 
 Running a network is hard enough without having to grapple with new protocols or new versions of the protocols with which you are already dealing. If you work for the type of network that is always using the very latest hardware and software, and you are following the relevant Working Groups in your copious free time, you could certainly find participating in the IETF valuable. A fair amount of IETF work also covers many other parts of operations of ISPs and large enterprises, and the input of operators from each of these types of organizations is quite valuable to keep this work vibrant and relevant. Many of the best operations documents from the IETF come from real-world operators, not vendors and academics.
@@ -456,15 +461,15 @@ One of the first things you must decide is whether you want your document to be 
 
 Every IETF standard is published as an RFC ("Request for Comments"), and every RFC starts out as an Internet-Draft (often called an "I-D" or just "draft"). The basic steps for getting something published as an IETF standard are as follows:
 
-    Publish the document as an Internet-Draft.
-    Receive comments on the draft.
-    Edit your draft based on the comments.
-    Repeat steps 1 through 3 a few times.
-    Ask an Area Director to take the draft to the IESG (if it's an individual submission). If the draft is an official Working Group product, the WG chair asks the AD to take it to the IESG.
-    If the Area Director accepts the submission, they will do their own initial review, and maybe ask for updates before they move it forwards.
-    Get reviews from the wider IETF membership. In particular, some of the Areas in the IETF have formed review teams to look over drafts that are ready to go to the IESG. Two of the more active review teams are from the Security Directorate ("SecDir") and the General Area Review Team (Gen-Art), but there is also a Privacy Review Team and a Human Rights Review Team. Remember that all these reviews can help improve the quality of the eventual RFC.
-    Discuss concerns with the IESG members. Their concerns might be resolved with a simple answer, or they might require additions or changes to the document.
-    Wait for the document to be published by the RFC Editor.
+    - Publish the document as an Internet-Draft.
+    - Receive comments on the draft.
+    - Edit your draft based on the comments.
+    - Repeat steps 1 through 3 a few times.
+    - Ask an Area Director to take the draft to the IESG (if it's an individual submission). If the draft is an official Working Group product, the WG chair asks the AD to take it to the IESG.
+    - If the Area Director accepts the submission, they will do their own initial review, and maybe ask for updates before they move it forwards.
+    - Get reviews from the wider IETF membership. In particular, some of the Areas in the IETF have formed review teams to look over drafts that are ready to go to the IESG. Two of the more active review teams are from the Security Directorate ("SecDir") and the General Area Review Team (Gen-Art), but there is also a Privacy Review Team and a Human Rights Review Team. Remember that all these reviews can help improve the quality of the eventual RFC.
+    - Discuss concerns with the IESG members. Their concerns might be resolved with a simple answer, or they might require additions or changes to the document.
+    - Wait for the document to be published by the RFC Editor.
 
 A much more complete explanation of these steps is contained in [BCP9], "The Internet Standards Process". Those who write drafts that they hope will become IETF standards must read BCP 9 so that they can follow the path of their document through the process. You can follow the progress on the IETF Datatracker [https://datatracker.ietf.org]. BCP 9 (and various other documents that update it) goes into great detail on a topic that is very often misunderstood, even by seasoned IETF participants: different types of RFCs go through different processes and have different rankings. There are six kinds of RFCs:
 
@@ -596,6 +601,7 @@ Experimental RFCs are for specifications that may be interesting, but for which 
 The IESG has created guidelines on how it chooses between Informational and Experimental status: [https://ietf.org/standards/process/informational-vs-experimental]. If you are creating a document that you think might become an Experimental RFC, knowing the current thinking will help you justify your proposed choice.
 
 7. How to Contribute to the IETF
+
 7.1 What You Can Do
 
 Read — Review the Internet-Drafts in your area of expertise and comment on them in the Working Groups. Participate in the discussion in a friendly, helpful fashion, with the goal being the best Internet standards possible. Listen much more than you speak. If you disagree, debate the technical issues: never attack the people.
