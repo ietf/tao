@@ -4,7 +4,7 @@ About This Document
 
 This is the upcoming revision of the Tao which can be found at [http://www.ietf.org/tao-possible-revision.html]
 
-The current version of this web page can always be found at [https://www.ietf.org/tao.html]. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list. A history of the major versions of the Tao can be found here. This particular version was created on 2012-11-02.
+The current version of this web page can always be found at [https://www.ietf.org/tao.html]. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list. A history of the major versions of the Tao can be found here. This particular version was created on 2018-06-26.
 
 This web page is in English. There is a list of translations of the Tao of the IETF.
 
