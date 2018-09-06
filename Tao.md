@@ -161,7 +161,7 @@ Like the IESG, the IAB members are selected for two-year positions by the NomCom
 
 2.2.4 IANA (Internet Assigned Numbers Authority)
 
-The core registrar for the IETF's activities is the IANA (see https://www.iana.org). Many Internet protocols require that someone keep track of protocol items that were added after the protocol came out. Typical examples of the kinds of registries needed are for TCP port numbers and MIME types. The IAB has designated the IANA organization to perform these tasks, and the IANA's activities are financially supported by ICANN, the Internet Corporation for Assigned Names and Numbers. The IAB selected ICANN, and the IANA activities are provided for free as specified in [RFC2860]. The IAOC has an Memorandum of Understanding with ICANN about the performance of the protocol parameters functions of IANA as performed by ICANN [https://www.icann.org/iana_imp_docs/59-2016-icann-ietf-mou-supplemental-agreement-v-1-0], which up to now consistently has met its performance targets.
+The core registrar for the IETF's activities is the IANA (see https://www.iana.org). Many Internet protocols require that someone keep track of protocol items that were added after the protocol came out. Typical examples of the kinds of registries needed are for TCP port numbers and MIME types. The IAB has designated the IANA organization to perform these tasks, and the IANA's activities are financially supported by ICANN, the Internet Corporation for Assigned Names and Numbers. The IAB selected ICANN, and the IANA activities are provided for free as specified in [RFC2860]. 
 
 Ten years ago, no one would have expected to see the IANA mentioned on the front page of a newspaper. IANA's role had always been very low key. The fact that IANA was also the keeper of the root of the domain name system forced it to become a much more public entity, one that was badly maligned by a variety of people who never looked at what its role was. Nowadays, the IETF is generally no longer involved in the IANA's domain name and IP address assignment functions, which are overseen by ICANN.
 
@@ -215,7 +215,7 @@ To attend an IETF meeting in person, you have to register and pay a registration
 
 You must also register to participate remotely; currently there is no registration fee for remote participation.
 
-You can register and pay on the web before the meeting, or in person at the meeting. To get a lower registration fee, you must pay by the early registration deadline (about five weeks before the meeting). The registration fee covers all of the week's meetings, the Sunday evening welcome reception, and afternoon beverage and snack breaks.
+You can register and pay on the web before the meeting, or in person at the meeting. To get a lower registration fee, you must pay by the early-bird registration deadline (at least seven weeks before the meeting). The standard registration fee window closes 2 weeks before the meeting, if you register any time after that you will need to pay the fee for late registrants. The registration fee covers all of the week's meetings, the Sunday evening welcome reception, and afternoon beverage and snack breaks.
 
 Registration is open throughout the week of the meeting. You can find out more about how the IETF handles your personal data here: [https://www.ietf.org/privacy-statement/].
 
@@ -276,7 +276,7 @@ It is important that newcomers to the IETF not be afraid to strike up conversati
 
 3.7 Terminal Room
 
-Every meeting the NOC provides unfettered Internet access for the meeting attendees. In general, wireless connectivity is excellent in all the meeting rooms and most common areas, and the wired connectivity is provided in the terminal room. The people and companies that donate their equipment, services, and time are to be heartily congratulated and thanked.
+Every meeting the NOC provides Internet access for the meeting attendees. In general, wireless connectivity is excellent in all the meeting rooms and most common areas, and the wired connectivity is provided in the terminal room. The people and companies that donate their equipment, services, and time are to be heartily congratulated and thanked.
 
 Although preparation far in advance of the meeting is encouraged, there may be some unavoidable "last minute" things that can be accomplished in the terminal room. It may also be useful to people who need to make trip reports or status reports while things are still fresh in their minds.
 
