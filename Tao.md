@@ -18,7 +18,7 @@ Of course, it's true that many IETF participants don't go to the face-to-face me
 
 The IETF is always in a state of change. Although the principles in this document are expected to remain largely the same over time, practical details may well have changed by the time you read it; for example, a web-based tool may have replaced an email address for requesting some sort of action.
 
-Many types of IETF documentation are mentioned in the Tao, from BCPs to RFCs and STDs. The IETF publishes its technical documentation as RFCs, politely known as "Requests for Comments"; and STDs are RFCs identified as "standards". BCPs make recommendations for Best Current Practices in the Internet and are also RFCs; All three types of documents are in the RFC document series; see Section 6 for more information.
+Many types of IETF documentation are mentioned in the Tao, from BCPs to RFCs and STDs. The IETF publishes its technical documentation as RFCs, politely known as "Requests for Comments"; and STDs are RFCs identified as "standards". BCPs are the community's best current think about Best Current Practices in the Internet and are also RFCs; All three types of documents are in the RFC document series; see Section 6 for more information.
 
 This web page is a continuation of the series of the "Tao of the IETF" RFCs. See [RFC6722] for an explanation of how the last RFC in that series became this web page. This web-based version of the Tao is based on [RFC4677], was co-authored with Susan Harris. The original version of this document, published in 1994, was written by Gary Malkin.
 
@@ -68,7 +68,7 @@ The IETF mission further states that the Internet isn't value-neutral, and neith
 
 The IETF meeting is not a conference, although there are technical presentations. The IETF is not a traditional standards organization, although many specifications that are produced become standards. The IETF is made up of volunteers, many of whom meet three times a year to fulfill the IETF mission.
 
-There is no membership in the IETF. Anyone may sign up to working group mailing lists, or register for a meeting and then attend. The closest thing there is to being an IETF member is being a participants on the IETF or Working Group mailing lists (see Section 2.3). This is where the best information about current IETF activities and focus can be found.
+There is no membership in the IETF. Anyone may sign up to working group mailing lists, or register for a meeting and then attend. The closest thing there is to being an IETF member is being a participant on the IETF or Working Group mailing lists (see Section 2.3). This is where the best information about current IETF activities and focus can be found.
 
 Of course, no organization can be as successful as the IETF is without having some sort of structure. In the IETF's case, that structure is provided by other organizations, as described in [RFC 2028], "The Organizations Involved in the IETF Standards Process". If you participate in the IETF and read only one BCP, this is the one you should read.
 
@@ -78,7 +78,7 @@ In many ways, the IETF runs on the beliefs of its participants. One of the "foun
 
 The IETF is really about its participants. Because the IETF welcomes all interested individuals, IETF participants come from all over the world and from many different parts of the Internet industry. The IETF conducts its work solely in English. See Section 3.12 for information about the ways that many people fit into the IETF.
 
-One more thing that is important for newcomers: the IETF in no way "runs the Internet", despite what some people mistakenly might say. The IETF makes voluntary standards that are often adopted by Internet users, network operators and equipment vendors, but it does not control, or even patrol, the Internet. If your interest in the IETF is because you want to be part of the overseers, you may be badly disappointed by the IETF.
+One more thing that is important for newcomers: the IETF in no way "runs the Internet", despite what some people mistakenly might say. The IETF makes voluntary standards that are often adopted by Internet users, network operators, and equipment vendors, but it does not control, or even patrol, the Internet. If your interest in the IETF is because you want to be part of the overseers, you may be badly disappointed by the IETF.
 
 2.1 Humble Beginnings
 
@@ -173,7 +173,7 @@ The RFC Editor edits, formats, and publishes Internet-Drafts as RFCs, working in
 
 The IAB approves the organization that will act as RFC Editor and the RFC Editor's general policy. The RFC Editor is funded by IASA. Up through the end of 2009, the RFC Editor was a single entity. The function was split by the IAB, in coordination with the IETF community, into many roles that can be performed by different people or organizations, led by the IAB-appointed RFC Series Editor. The RFC Editor model is described in [RFC6635].
 
-Another common misconception is that all RFCs are the work of the IETF. In fact, of the four sources of RFCs listed above (IETF, IAB, IRTF, and Independent Submissions), only those coming direct from the IETF through working groups or sponsored by ADs are capable of having IETF consensus and being described as IETF specifications or standards.
+A common misconception is that all RFCs are the work of the IETF. In fact, of the four sources of RFCs listed above (IETF, IAB, IRTF, and Independent Submissions), only those coming directly from the IETF through working groups or sponsored by ADs are capable of having IETF consensus and being described as IETF specifications or standards.
 
 2.2.6 IETF Secretariat
 
@@ -223,7 +223,7 @@ If you are participating an IETF meeting for the first time, you might also cons
 
 The Sunday is an excellent day to join the meeting (unless you already joined us during the hackathon on Saturday). Sunday is the day for the newcomer's tutorial, as well the Quick Connections session where newcomers get to meet with experienced IETF participants and the Newcomer's Meet and Greet where newcomers can meet Area Directors and Working Group Chairs. After these sessions there is the reception which is a popular event where you can get a small bite to eat and socialize with other attendees.
 
-Before you register, you see a web page titled "Note Well". You should indeed read it carefully because it lays out the rules for IETF intellectual property rights.  The Note Well points to the supporting documentation for IPR, anti-harassment, and other important guiding policies for the IETF. 
+Before you register, you see a web page titled "Note Well". You should indeed read it carefully because it lays out the rules for IETF intellectual property rights.  The Note Well ([https://www.ietf.org/about/note-well/]) points to the supporting documentation for IPR, anti-harassment, and other important guiding policies for the IETF. 
 
 If you need to leave messages for other attendees, you can do so at the cork boards that are often near the registration desk. These cork boards will also have last-minute meeting changes and room changes.
 
@@ -251,7 +251,7 @@ At meetings people generally dress informally. Newcomers are sometimes out of pl
 
 The heart of an IETF meeting is the WG meetings themselves. Different WGs chairs have very different styles, so it is impossible to generalize how a WG meeting will feel. Even though nearly all WGs have agendas for their meetings, some meetings stick tightly to their agenda while others are run more loosely.
 
-There are a few important things that are true for all WG meetings at an IETF meeting. Near the beginning of the meeting, the chair will pass around the "blue sheets", which are paper forms on which everyone writes their name and their email address. These are used for long-term archival purpose to show how many people came to a particular meeting and, in rare cases, exactly who showed up. The normal etiquette is to watch where the blue sheets came from and to pass them along in the same direction.
+There are a few important things that are true for all WG meetings at an IETF meeting. Near the beginning of the meeting, the chair will pass around the "blue sheets", which are paper forms on which everyone writes their name and their affiliation. These are used for long-term archival purpose to show how many people came to a particular meeting and, in rare cases, exactly who showed up. The normal etiquette is to watch where the blue sheets came from and to pass them along in the same direction.
 
 When speaking in a meeting, you should always go to the microphones in the room. For controversial topics, there will be a line at the mic, but do not hesitate to be the first person at the mic if you have a question or a contribution to the discussion. The WG chair or presenter will indicate when you can speak. Although it would be easier to just raise your hand from where you are sitting, the mics perform a very useful task: they let the people listening remotely and in the room hear your question or comment. It is also expected that you will say your name at the mic so that the person taking minutes will know who is speaking.
 
@@ -270,7 +270,7 @@ Some of the people at the IETF will have a little colored dot on their name tag.
 | Pink   | IRSG                        |
 | Teal 	 | RFC Series Editor           |
 
-(Members of the press wear orange-tinted badges.)
+(Members of the press wear 'PRESS' ribbons attached to their badges.)
 
 It is important that newcomers to the IETF not be afraid to strike up conversations with people who wear these dots. If the IAB and IESG members and Working Group and BOF chairs didn't want to talk to anybody, they wouldn't be wearing the dots in the first place. Note, however, that IETF meetings are usually intense times for Area Directors. Talking to an AD during an IETF meeting will often lead to a request to send her or him email about two weeks later. Also, when you start a hallway conversation with an Area Director (or even a WG chair, for that matter), it is often good to give them about 30 seconds of context for the discussion.
 
@@ -312,7 +312,7 @@ You'll find more about the EDU team at [https://datatracker.ietf.org/group/emodi
 
 The IETF is different things to different people. There are many people who have been very active in the IETF who have never attended an IETF meeting. You should not feel obligated to come to an IETF meeting just to get a feel for the IETF. The following guidelines (based on stereotypes of people in various industries) might help you decide whether you actually want to come and, if so, what might be the best use of your time at your first meeting.
 
-3.12.1 Information Security Managers
+3.12.1 Information System Managers
 
 As discussed throughout this document, an IETF meeting is nothing like any trade show you have attended. IETF meetings are singularly bad places to go if your intention is to find out what will be hot in the Internet industry next year. You can safely assume that going to Working Group meetings will confuse you more than it will help you understand what is happening, or will be happening, in the industry.
 
