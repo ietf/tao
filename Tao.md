@@ -4,7 +4,7 @@ About This Document
 
 This is the upcoming revision of the Tao which can be found at [http://www.ietf.org/tao-possible-revision.html]
 
-The current version of this web page can always be found at [https://www.ietf.org/tao.html]. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list [https://www.ietf.org/mailman/listinfo/tao-discuss]. A history of the major versions of the Tao can be found here. This particular version was created on 2018-08-20.
+The current version of this web page can always be found at [https://www.ietf.org/tao.html]. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list [https://www.ietf.org/mailman/listinfo/tao-discuss]. A history of the major versions of the Tao can be found here. This particular version was created on 2018-10-15.
 
 This web page is in English. There is a list of translations of the Tao of the IETF.
 
@@ -748,6 +748,7 @@ Although the IETF needs clear and publicly documented process rules for the norm
 Technical development work should be carried out by tightly chartered and focused Working Groups.
 
 Parts of the process that have proved impractical should be removed or made optional.
+
 A.4 Working Groups
 
 Working Groups (WGs) should be primarily responsible for the quality of their output; WG chairs as WG leaders, backed up by the IETF leadership, should act as a quality backstop.
