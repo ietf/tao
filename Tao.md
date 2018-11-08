@@ -4,13 +4,13 @@ About This Document
 
 This is the upcoming revision of the Tao which can be found at [http://www.ietf.org/tao-possible-revision.html]
 
-The current version of this web page can always be found at [https://www.ietf.org/tao.html]. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list [https://www.ietf.org/mailman/listinfo/tao-discuss]. A history of the major versions of the Tao can be found here. This particular version was created on 2018-10-15.
+The current version of this web page can always be found at [https://www.ietf.org/tao.html]. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list [https://www.ietf.org/mailman/listinfo/tao-discuss]. A history of the major versions of the Tao can be found here. This particular version was created on 2018-11-08.
 
 This web page is in English. There is a list of translations of the Tao of the IETF.
 
 1. Introduction
 
-Since its early years, participation in the Internet Engineering Task Force (IETF) has grown phenomenally. In-person attendance at face-to-face meetings is now averaging between 1100 and 1400 participants [https://datatracker.ietf.org/stats/meeting/overview/]. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular participants. When the IETF was smaller, it was relatively easy for a newcomer to adjust. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
+Since its early years, participation in the Internet Engineering Task Force (IETF) has grown phenomenally. In-person attendance at face-to-face meetings is now averaging between 1000 and 1400 participants [https://datatracker.ietf.org/stats/meeting/overview/]. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular participants. When the IETF was smaller, it was relatively easy for a newcomer to adjust. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
 
 This document describes many aspects of the IETF, with the goal of explaining to newcomers how the IETF works. This will enable them to make meetings and the Working Group discussions more productive for everyone. This document started out fairly short, but expanded over time in response to suggestions from IETF novices about what more they would have wanted to know before attending their first face-to-face meeting or becoming active in their first Working Group.
 
@@ -20,7 +20,7 @@ The IETF is always in a state of change. Although the principles in this documen
 
 Many types of IETF documentation are mentioned in the Tao, from BCPs to RFCs and STDs. The IETF publishes its technical documentation as RFCs, politely known as "Requests for Comments"; and STDs are RFCs identified as "standards". BCPs are the community's best current think about Best Current Practices in the Internet and are also RFCs; All three types of documents are in the RFC document series; see Section 6 for more information.
 
-This web page is a continuation of the series of the "Tao of the IETF" RFCs. See [RFC6722] for an explanation of how the last RFC in that series became this web page. This web-based version of the Tao is based on [RFC4677], was co-authored with Susan Harris. The original version of this document, published in 1994, was written by Gary Malkin.
+This web page is a continuation of the series of the "Tao of the IETF" RFCs. See [RFC6722] for an explanation of how the last RFC in that series became this web page. This web-based version of the Tao is based on [RFC4677], was co-authored by Paul Hoffman and Susan Harris. The original version of this document, published in 1994, was written by Gary Malkin.
 
 So, why "the Tao"? Pronounced "dow", Tao is the basic principle behind the teachings of Lao-tse, a Chinese master. Its familiar symbol is the black-and-white yin-yang circle. Taoism conceives the universe as a single organism, and human beings as interdependent parts of a cosmic whole. Tao is sometimes translated "the way", but according to Taoist philosophy the true meaning of the word cannot be expressed in words.
 
@@ -102,7 +102,7 @@ The Internet Society is an international, non-profit, membership organization th
 
 Starting in spring 2005, the ISOC became home base for the IETF's directly employed administrative staff. This is described in more detail in [BCP101], "Structure of the IETF Administrative Support Activity (IASA)". The staff included only an Administrative Director (IAD) who worked full-time overseeing IETF meeting planning, operational aspects of support services (the secretariat, IANA (the Internet Assigned Numbers Authority), and the RFC Editor, which are described later in this section), and the budget. The IAD led the IETF Administrative Support Activity (IASA), which took care of tasks such as collecting meeting fees and paying invoices, and also supports the tools for the work of IETF working groups, the IESG, the IAB, and the IRTF (more about these later in this section).
 
-Recently, based on discussions within the IASA2 working group, the IETF LLC has been created as a disregarded entity of the Internet Society (i.e., it is treated as a branch or division for tax purposes). It has no role in the oversight or steering of the standards process as currently conducted by the IESG and IAB, the appeal chain, the confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's memberships in other organizations. The responsibilities of the IETF LLC include:
+Recently, based on discussions within the IASA2 working group, the IETF LLC has been created as a disregarded entity of the Internet Society (i.e., it is treated as a branch or division for tax purposes) [https://www.ietf.org/llc/]. It has no role in the oversight or steering of the standards process as currently conducted by the IESG and IAB, the appeal chain, the confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's memberships in other organizations. The responsibilities of the IETF LLC include:
 
     - Supporting the ongoing operations of the IETF, including meetings and non-meeting activities,
     - Managing the IETF's finances and budget,
@@ -221,7 +221,7 @@ Registration is open throughout the week of the meeting. You can find out more a
 
 If you are participating an IETF meeting for the first time, you might also consider subscribing to the meeting-specific email list, which is presented as an option when you register to participate in the meeting either in-person or remotely. Discussions on the meetings list can be high volumen and fairly wide-ranging about meeting-specific issues, but it is also a channel for sharing information that many find useful to understand what is going on during the meeting itself.
 
-The Sunday is an excellent day to join the meeting (unless you already joined us during the hackathon on Saturday). Sunday is the day for the newcomer's tutorial, as well the Quick Connections session where newcomers get to meet with experienced IETF participants and the Newcomer's Meet and Greet where newcomers can meet Area Directors and Working Group Chairs. After these sessions there is the reception which is a popular event where you can get a small bite to eat and socialize with other attendees.
+The Sunday is an excellent day to join the meeting, unless you already joined us during the hackathon on Saturday. Sunday is the day for the newcomer's tutorial, as well the Quick Connections session where newcomers get to meet with experienced IETF participants and the Newcomer's Meet and Greet where newcomers can meet Area Directors and Working Group Chairs. After these sessions there is the reception which is a popular event where you can get a small bite to eat and socialize with other attendees.
 
 Before you register, you see a web page titled "Note Well". You should indeed read it carefully because it lays out the rules for IETF intellectual property rights.  The Note Well ([https://www.ietf.org/about/note-well/]) points to the supporting documentation for IPR, anti-harassment, and other important guiding policies for the IETF. 
 
@@ -270,13 +270,13 @@ Some of the people at the IETF will have a little colored dot on their name tag.
 | Pink   | IRSG                        |
 | Teal 	 | RFC Series Editor           |
 
-(Members of the press wear 'PRESS' ribbons attached to their badges.)
+(Members of the press wear orange tinted badges with the word 'press' on it.)
 
 It is important that newcomers to the IETF not be afraid to strike up conversations with people who wear these dots. If the IAB and IESG members and Working Group and BOF chairs didn't want to talk to anybody, they wouldn't be wearing the dots in the first place. Note, however, that IETF meetings are usually intense times for Area Directors. Talking to an AD during an IETF meeting will often lead to a request to send her or him email about two weeks later. Also, when you start a hallway conversation with an Area Director (or even a WG chair, for that matter), it is often good to give them about 30 seconds of context for the discussion.
 
 3.7 Terminal Room
 
-Every meeting the NOC provides Internet access for the meeting attendees. In general, wireless connectivity is excellent in all the meeting rooms and most common areas, and the wired connectivity is provided in the terminal room. The people and companies that donate their equipment, services, and time are to be heartily congratulated and thanked.
+The network operations center (NOC) provides Internet access for attendees at each meeting. In general, wireless connectivity is excellent in all the meeting rooms and most common areas, and the wired connectivity is provided in the terminal room. The people and companies that donate their equipment, services, and time are to be heartily congratulated and thanked.
 
 Although preparation far in advance of the meeting is encouraged, there may be some unavoidable "last minute" things that can be accomplished in the terminal room. It may also be useful to people who need to make trip reports or status reports while things are still fresh in their minds.
 
@@ -366,7 +366,7 @@ If you rely on your laptop during the meeting, it is a good idea to bring an ext
 
 3.14 Remote Participation
 
-People have joined IETF meetings remotely for a long time, but the tools for this have changed a lot over the years. Currently all Working Group and Research Group meetings as well as the plenaries are livestreamed and open for remote participation. In order to participate remotely you need to register as a remote participant [https://www.ietf.org/how/meetings/register/], there is no fee for this but registration is required for administrative reasons. You can also make use of audiostreams as well as Jabber (which is explained below). The links for the Meetecho rooms, the audiostreams and the jabber rooms can always be found in the meeting agenda. More information can be found here: [https://www.ietf.org/how/meetings/101/remote/].
+People have joined IETF meetings remotely for a long time, but the tools for this have changed a lot over the years. Currently all Working Group and Research Group meetings as well as the plenaries are livestreamed and open for remote participation. In order to participate remotely you need to register as a remote participant [https://www.ietf.org/how/meetings/register/], there is no fee for this but registration is required for administrative reasons. You can also make use of audiostreams as well as Jabber (which is explained below). The links for the Meetecho rooms, the audiostreams and the jabber rooms can always be found in the meeting agenda. More information can be found here: [https://www.ietf.org/how/meetings/101/remote/]. All sessions are recorded, video, audio, chatlogs and notes can be accessed after the meeting.
 
 4. Working Groups
 
@@ -425,6 +425,7 @@ If you are on the agenda at a face-to-face meeting, you should probably come wit
 And here's a tip for your slides in WG or plenary presentations: don't put your company's logo on every one, even though that is a common practice outside the IETF. The IETF frowns on this kind of corporate advertising (except for the meeting sponsor in the plenary presentation), and most presenters don't even put their logo on their opening slide. The IETF is about technical content, not company boosterism. Slides are often plain black and white for legibility, with color used only when it really adds clarity. Again, the content is the most important part of the slides, not how it's presented.
 
 One thing you might find helpful, and possibly even entertaining, during Working Group sessions is to follow the running commentary on the Jabber room associated with that Working Group. The running commentary is often used as the basis for the minutes of the meeting, but it can also include jokes, sighs, and other extraneous chatter. Jabber is a free, streaming XML technology mainly used for instant messaging. You can find pointers to Jabber clients for many platforms at [https://xmpp.org/xmpp-software/clients]. The Jabber chatrooms have the name of the Working Group followed by "@jabber.ietf.org". Those rooms are, in fact, available year-round, not just during IETF meetings, and some are used by active Working Group participants during protocol development.
+
 4.5 Working Group Mailing Lists
 
 As we mentioned earlier, the IETF announcement and discussion mailing lists are the central mailing lists for IETF activities. However, there are many other mailing lists related to IETF work. For example, every Working Group has its own discussion list. In addition, there are some long-term technical debates that have been moved off of the IETF list onto lists created specifically for those topics. It is highly recommended that you follow the discussions on the mailing lists of the Working Groups that you wish to attend. The more work that is done on the mailing lists, the less work that will need to be done at the meeting, leaving time for cross pollination (i.e., attending Working Groups outside one's primary area of interest in order to broaden one's perspective).
@@ -435,13 +436,13 @@ Many IETF discussion lists use either mailman or another list manager, Majordomo
 
 IETF discussion lists are archived. That is, all of the messages sent to the list are automatically stored and made accessible. Many such archives are listed online at [https://mailarchive.ietf.org/]. If you don't find the list you're looking for, send a message to the list's "-request" address (not to the list itself!). The Working Group charter listings at https://datatracker.ietf.org/wg are a useful source. [https://www6.ietf.org/wg/concluded] is a list of old, concluded WGs.
 
-Some WG lists apply size limits on messages, particularly to avoid large documents or presentations landing in everyone's mailbox. It is well worth remembering that participants do not all have broadband connections (and even those with broadband connections sometimes get their mail on slow connections when they travel), so shorter messages are greatly appreciated. Documents can be posted as Internet-Drafts; presentation material can be posted to a web site controlled by the sender or sent personally to people who ask for it. Some WGs set up special sites to hold these large documents so that senders can post there first, then just send to the list the URL of the document.
+Some WG lists apply size limits on messages, particularly to avoid large documents or presentations landing in everyone's mailbox. It is well worth remembering that although most participants do, not all have broadband connections (those in remote locations may still rely on lower bandwidth, slower connection when the Internet is available to them), so shorter messages are greatly appreciated. Documents can be posted as Internet-Drafts; presentation material can be posted to a web site controlled by the sender or sent personally to people who ask for it. Some WGs set up special sites to hold these large documents so that senders can post there first, then just send to the list the URL of the document.
 
 4.6 Interim Working Group Meetings
 
 Working Groups sometimes hold interim meetings between IETFs. Interim meetings aren't a substitute for IETF meetings, however — a group can't decide to skip a meeting in a location they're not fond of and meet in Cancun (or even someplace mundane) three weeks later, for example. Interim meetings require AD approval and need to be announced at least one month in advance. Location and timing need to allow fair access for all participants. Like regular IETF meetings, someone needs to take notes and the group needs to take attendance. Decisions tentatively made during an interim WG meeting still must be ratified on the mailing list.
 
-In recent years, some Working Groups have started to have "virtual interim meetings" which take place over the phone and/or online instead of face-to-face. Virtual interim meetings can be useful for getting Working Groups to pay attention to their work between the regular IETF face-to-face meetings, and have a much lower cost for attendance than face-to-face interim meetings. Virtual interim meetings have the same reporting requirements as face-to-face virtual meetings.
+Some Working Groups host "virtual interim meetings" which take place over the collaborative online tools or phone instead of face-to-face. Virtual interim meetings can be useful for getting Working Groups to pay attention to their work between the regular IETF face-to-face meetings, speed work progress, and have a much lower cost for attendance than face-to-face interim meetings. Virtual interim meetings have the same reporting requirements as face-to-face virtual meetings.
 
 The IESG has rules for advance notice on time and place of interim Working Group meetings, as well as reporting the results of the meetings. The purpose of these rules is to make interim meetings accessible to as many Working Group members as possible and to maintain the transparency of the Working Group process.
 
@@ -476,7 +477,7 @@ Every IETF standard is published as an RFC ("Request for Comments"), and every R
     - Edit your draft based on the comments.
     - Repeat steps 1 through 3 a few times.
     - Ask an Area Director to take the draft to the IESG (if it's an individual submission). If the draft is an official Working Group product, the WG chair asks the AD to take it to the IESG.
-    - If the Area Director accepts the submission, they will do their own initial review, and maybe ask for updates before they move it forwards.
+    - If the Area Director accepts the submission, they will do their own initial review, and maybe ask for updates before they move it forward.
     - Get reviews from the wider IETF membership. In particular, some of the Areas in the IETF have formed review teams to look over drafts that are ready to go to the IESG.
     - Discuss concerns with the IESG members. Their concerns might be resolved with a simple answer, or they might require additions or changes to the document.
     - Wait for the document to be published by the RFC Editor.
@@ -569,9 +570,10 @@ One way to make it more likely that developers will create interoperable impleme
 
 [STD3], "Requirements for Internet Hosts -- Application and Support", written way back in 1989, had a short list of words that had appeared to be useful, namely, "must", "should", and "may". These definitions were updated and further refined in [BCP14], "Key words for use in RFCs to Indicate Requirement Levels", which is widely referenced in current Internet standards. BCP 14 also specifically defines "must not" and "should not", and it lists a few synonyms for the words defined.
 
-In a standard, in order to make it clear that you're using the definitions from BCP 14, you should do two things. First, refer to BCP 14 (although most people refer to it as RFC 2119, because that's what BCP 14 tells you to do), so that the reader knows how you're defining your words. Second, you should point out which instances of the words you are using come from BCP 14. The accepted practice for this is to capitalize the words. That is why you see "MUST" and "SHOULD" capitalized in IETF standards.
+In a standard, in order to make it clear that you're using the definitions from BCP 14, you should do two things. First, refer to BCP 14 (although most people refer to it as RFC 2119, because that's what BCP 14 tells you to do), so that the reader knows how you're defining your words. Second, you should point out which instances of the words you are using come from BCP 14. The accepted practice for this is to capitalize the words. That is why you see "MUST" and "SHOULD" capitalized in IETF standards. [RFC8174] is a helpful reference when determining what should be capitalized.
 
-BCP 14 is a short document, and it should be read by everyone who is reading or writing IETF standards. Although the definitions of "must" and "must not" are fairly clear, the definitions of "should" and "should not" cause a great deal of discussion in many WGs. When reviewing an Internet-Draft, the question is often raised, "Should that sentence have a MUST or a SHOULD in it?" This is, indeed, a very good question, because specifications shouldn't have gratuitous MUSTs, but also should not have SHOULDs where a MUST is needed for interoperability. This goes to the crux of the question of over-specifying and under-specifying requirements in standards.
+BCP 14 includes two short documents, and it should be read by everyone who is reading or writing IETF standards. Although the definitions of "must" and "must not" are fairly clear, the definitions of "should" and "should not" cause a great deal of discussion in many WGs. When reviewing an Internet-Draft, the question is often raised, "Should that sentence have a MUST or a SHOULD in it?" This is, indeed, a very good question, because specifications shouldn't have gratuitous MUSTs, but also should not have SHOULDs where a MUST is needed for interoperability. This goes to the crux of the question of over-specifying and under-specifying requirements in standards.
+
 6.4.2 Normative References in Standards
 
 One aspect of writing IETF standards that trips up many novices (and quite a few long-time IETF folks) is the rule about how to make "normative references" to non-IETF documents or to other RFCs in a standard. A normative reference is a reference to a document that must be followed in order to implement the standard. A non-normative reference (sometimes called an "informative reference") is one that is helpful to an implementor but is not needed.
@@ -579,6 +581,7 @@ One aspect of writing IETF standards that trips up many novices (and quite a few
 An IETF standard may make a normative reference to any other standards-track RFC that is at the same standards level or higher, or to any "open standard" that has been developed outside the IETF. The "same level or higher" rule means that before a standard can move from Proposed to Draft, all of the RFCs for which there is a normative reference must also be at Draft or Internet standard. This rule is described in [BCP97]. This rule gives implementors assurance that everything in a Internet standard is quite stable, even the things referenced outside the standard. This can also delay the publication of the Draft or Internet standard by many months (sometimes even years) while the other documents catch up.
 
 There is no hard-and-fast rule about what is an "open standard", but generally this means a stable standard that anyone can get a copy of (although they might have to pay for it) and that was made by a generally recognized standards group. If the external standard changes, you have to reference the particular instantiation of that standard in your specification, as with a designation of the date of the standard. Some external standards bodies don't make old standards available, which is a problem for IETF standards that need to be used in the future. When in doubt, a draft author should ask the WG chair or appropriate Area Director if a particular external standard can be used in an IETF standard.
+
 6.4.3 IANA Considerations
 
 More and more IETF standards require the registration of various protocol parameters, such as named options in the protocol. As we noted in Section 2.2.4, the main registry for all IETF standards has long been IANA. Because of the large and diverse kinds of registries that standards require, IANA needs to have specific information about how to register parameters, what not to register, who (if anyone) will decide what is to be registered, and so on.
@@ -629,6 +632,7 @@ Open Up — If your company controls a patent that is used in an IETF standard, 
 Join — Become a member of ISOC. More important, urge any company that has benefited from the Internet to become a corporate member of ISOC, since this has the greatest financial benefit for the group. It will, of course, also benefit the Internet as a whole.
 
 8. IETF and the Outside World
+
 8.1 IETF and Other Standards Groups
 
 As much as many IETF participants would like to think otherwise, the IETF does not exist in a standards vacuum. There are many (perhaps too many) other standards organizations whose decisions affect the Internet. There are also a fair number of standards bodies that ignored the Internet for a long time and now want to get a piece of the action.
