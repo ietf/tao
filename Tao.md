@@ -659,7 +659,7 @@ The main reason why a reporter might want to attend an IETF meeting is not to co
 
 Reporters who want to find out about "what the IETF is doing" on a particular topic would be well-advised to talk to more than one person who is active on that topic in the IETF, and should probably try to talk to the WG chair in any case. It's impossible to determine what will happen with a draft by looking at the draft or talking to the draft's author. Fortunately, all WGs have archives that a reporter can look through for recent indications about what the progress of a draft is; unfortunately, few reporters have the time or inclination to do this kind of research. 
 
-Reporters looking for information about the IETF, or poitners to IETF participants working on a particular topic relevant to the IETF, are encouraged to send email to media@ietf.org. Replies are usually sent within a day. Even if a direct answer to a particular query is not availble, pointers to resources or people who can provide more information about a topic are often provided.
+Reporters looking for information about the IETF, or pointers to IETF participants working on a particular topic relevant to the IETF, are encouraged to send email to media@ietf.org. Replies are usually sent within a day. Even if a direct answer to a particular query is not availble, pointers to resources or people who can provide more information about a topic are often provided.
 
 9. Security Considerations
 
