@@ -8,11 +8,96 @@ The current version of this web page can always be found at [https://www.ietf.or
 
 This web page is in English. There is a list of translations of the Tao of the IETF.
 
+
+Abstract
+This document introduces you to the 'ways of the IETF': it will convey the might and magic of networking people and packets in the Internet's most prominent standards bodies. Underneath we describe the inner workings of IETF meetings and Working Groups, discusses organizations related to the IETF, and introduces the standards process.  It is not a formal IETF process document but an informal and informational overview.
+
+0. Table of Contents
+- 1. Introduction
+- 1.1 Acronyms and Abbreviations Used in the Tao
+
+- 2. What is the IETF
+- 2.1 Humble Beginnings
+- 2.2 The Hierarchy
+- 2.2.1 The IETF LLC (IETF Administration LLC) and the ISOC (Internet Society)
+- 2.2.2 IESG (Internet Engineering Steering Group)
+- 2.2.3 IAB (Internet Architecture Board)
+- 2.2.4 IANA (Internet Assigned Numbers Authority)
+- 2.2.5 RFC Editor
+- 2.2.6 IETF Secretariat
+- 2.2.7 IETF Trust
+- 2.3 IETF Mailing Lists
+
+- 3. IETF Meetings
+- 3.1 Registration
+- 3.2 Take the Plunge and Stay All Week!
+- 3.3 Newcomer Training
+- 3.4 Dress Code
+- 3.5 WG Meetings
+- 3.6 Seeing Spots Before Your Eyes
+- 3.7 Terminal Room
+- 3.8 Meals and Other Delights
+- 3.9 Social Event
+- 3.10 Agenda
+- 3.11 EDU to the Rescue
+- 3.12 Where Do I Fit In?
+- 3.12.1 Information System Managers
+- 3.12.2 Network Operators and ISPs
+- 3.12.3 Networking Hardware and Software Vendors
+- 3.12.4 Academics
+- 3.12.5 Computer Trade Press
+- 3.13 Proceedings
+- 3.14 Other General Things
+- 3.15 Remote Participation
+
+- 4. Working Groups
+- 4.1 Working Group Chairs
+- 4.2 Getting Things Done in a Working Group
+- 4.3 Working Group Documents
+- 4.4 Preparing for Working Group Meetings
+- 4.5 Working Group Mailing Lists
+- 4.6 Interim Working Group Meetings
+
+- 5. BOF
+
+- 6. RFCs and Internet-Drafts
+- 6.1 Getting an RFC Published
+- 6.2 Letting Go Gracefully
+- 6.3 Internet-Drafts
+- 6.3.1 Recommended Reading for Writers
+- 6.3.2 Filenames and Other Matters
+- 6.4 Standards-Track RFCs
+- 6.4.1 Telling It Like It Is - Using MUST and SHOULD and MAY
+- 6.4.2 Normative References in Standards
+- 6.4.3 IANA Considerations
+- 6.4.4 Security Considerations
+- 6.4.5 Patents in IETF Standards
+- 6.5 Informational and Experimental RFCs
+
+- 7. How to Contribute to the IETF
+- 7.1 What You Can Do
+- 7.2 What Your Company Can Do
+
+- 8. IETF and the Outside World
+- 8.1 IETF and Other Standards Groups
+- 8.2 Press Coverage of the IETF
+
+- 9. Security Considerations
+
+- 10. Informative References
+
+- Appendices
+- A. IETF Guiding Principles
+- A.1 General
+- A.2 Management and Leadership
+- A.3 Process
+- A.4 Working Groups
+
 1. Introduction
 
 Since its early years, participation in the Internet Engineering Task Force (IETF) has grown phenomenally. In-person attendance at face-to-face meetings is now averaging between 1000 and 1400 participants [https://datatracker.ietf.org/stats/meeting/overview/]. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular participants. When the IETF was smaller, it was relatively easy for a newcomer to adjust. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
 
-This document describes many aspects of the IETF, with the goal of explaining to newcomers how the IETF works. This will enable them to make meetings and the Working Group discussions more productive for everyone. This document started out fairly short, but expanded over time in response to suggestions from IETF novices about what more they would have wanted to know before attending their first face-to-face meeting or becoming active in their first Working Group.
+This document describes many aspects of the IETF, with the goal of explaining to newcomers how the IETF works. This will enable them to make meetings and the Working Group discussions more productive for everyone. This document started out fairly short, but expanded over time in response to suggestions from IETF newcomers about what more they would have wanted to know before attending their first face-to-face meeting or becoming active in their first Working Group.
 
 Of course, it's true that many IETF participants don't go to the face-to-face meetings at all. Instead, they're active on the mailing list of various IETF Working Groups. Since the inner workings of Working Groups can be hard for newcomers to understand, this document provides the mundane bits of information that newcomers will need in order to become active participants.
 
@@ -76,7 +161,7 @@ The <a href="https://www.ietf.org">IETF web site</a>, is the best source for inf
 
 In many ways, the IETF runs on the beliefs of its participants. One of the "founding beliefs" is embodied in an early quote about the IETF from David Clark: "We reject kings, presidents and voting. We believe in rough consensus and running code". Another early quote that has become a commonly-held belief in the IETF comes from Jon Postel: "Be conservative in what you send and liberal in what you accept".
 
-The IETF is really about its participants. Because the IETF welcomes all interested individuals, IETF participants come from all over the world and from many different parts of the Internet industry. The IETF conducts its work solely in English. See Section 3.12 for information about the ways that many people fit into the IETF.
+The IETF is really about its participants. IETF welcomes all interested individuals: IETF participants come from all over the world and from many different parts of the Internet industry. The IETF conducts its work solely in English. See Section 3.12 for information about the ways that many people fit into the IETF.
 
 One more thing that is important for newcomers: the IETF in no way "runs the Internet", despite what some people mistakenly might say. The IETF makes voluntary standards that are often adopted by Internet users, network operators, and equipment vendors, but it does not control, or even patrol, the Internet. If your interest in the IETF is because you want to be part of the overseers, you may be badly disappointed by the IETF.
 
@@ -302,7 +387,7 @@ A map showing the room locations are also shown on the agenda. Room assignments 
 
 3.11 EDU to the Rescue
 
-If certain aspects of the IETF still mystify you (even after you finish reading the Tao), you'll want to drop in on the on-site training offered by the Education (EDU) team. These informal classes are designed for newcomers and seasoned IETFers alike. In addition to the Newcomer Training, the EDU team offers two in-depth tutorials that are indispensable for both novices and longtime IETF attendees. EDU sessions are generally held on Sunday afternoons and are posted to watch later as well. 
+If certain aspects of the IETF still mystify you (even after you finish reading the Tao), you'll want to drop in on the on-site training offered by the Education (EDU) team. These informal classes are designed for newcomers and seasoned IETFers alike. In addition to the Newcomer Training, the EDU team offers two in-depth tutorials that are indispensable for both newcomers and longtime IETF attendees. EDU sessions are generally held on Sunday afternoons and are posted to watch later as well. 
 
 During registration you will also be offered to be linked to a mentor. This is also organized by the EDU team; you will be paired with volunteers who have experience in the IETF and can help you hit the ground running. Ideally you have a call with your mentor before the meeting, a meeting during the beginning of the meeting, and check in some time during the meeting, so they can help you with any questions you might have.
 
@@ -310,7 +395,7 @@ You'll find more about the EDU team at [https://datatracker.ietf.org/group/emodi
 
 3.12 Where Do I Fit In?
 
-The IETF is different things to different people. There are many people who have been very active in the IETF who have never attended an IETF meeting. You should not feel obligated to come to an IETF meeting just to get a feel for the IETF. The following guidelines (based on stereotypes of people in various industries) might help you decide whether you actually want to come and, if so, what might be the best use of your time at your first meeting.
+The IETF is different things to different people. There are many people who have been very active in the IETF who have never attended an IETF meeting. You should not feel obligated to come to an IETF meeting just to get a feel for the IETF. If you however decide to come, RFC4144 provides some pointers on how to make your meeting a success [https://tools.ietf.org/html/rfc4144]. The following guidelines (based on stereotypes of people in various industries) might help you decide whether you actually want to come and, if so, what might be the best use of your time at your first meeting.
 
 3.12.1 Information System Managers
 
@@ -364,7 +449,7 @@ There is always a "materials distribution table" near the registration desk. Thi
 
 If you rely on your laptop during the meeting, it is a good idea to bring an extra battery. It is not always easy to find a spare outlet in some meeting rooms, and using the wireless access can draw down your battery faster than you might expect. If you are sitting near a power-strip in a meeting room, expect to be asked to plug and unplug for others around you. Many people bring an extension cord with spare outlets, which is a good way to make friends with your neighbor in a meeting. If you need an outlet adapter, you should try to buy it in advance because the one you need is usually easier to find in your home country.
 
-3.14 Remote Participation
+3.15 Remote Participation
 
 People have joined IETF meetings remotely for a long time, but the tools for this have changed a lot over the years. Currently all Working Group and Research Group meetings as well as the plenaries are livestreamed and open for remote participation. In order to participate remotely you need to register as a remote participant [https://www.ietf.org/how/meetings/register/], there is no fee for this but registration is required for administrative reasons. You can also make use of audiostreams as well as Jabber (which is explained below). The links for the Meetecho rooms, the audiostreams and the jabber rooms can always be found in the meeting agenda. More information can be found here: [https://www.ietf.org/how/meetings/101/remote/]. All sessions are recorded, video, audio, chatlogs and notes can be accessed after the meeting.
 
@@ -386,7 +471,7 @@ WG chairs are advised to participate in the WG chairs lunch mid-week during the 
 
 4.2 Getting Things Done in a Working Group
 
-One fact that confuses many novices is that the face-to-face WG meetings are much less important in the IETF than they are in most other organizations. Any decision made at a face-to-face meeting must also gain consensus on the WG mailing list. There are numerous examples of important decisions made in WG meetings that are later overturned on the mailing list, often because someone who couldn't attend the meeting pointed out a serious flaw in the logic used to come to the decision. Finally, WG meetings aren't "drafting sessions", as they are in some other standards bodies: in the IETF, drafting is done elsewhere.
+One fact that confuses many newcomers is that the face-to-face WG meetings are much less important in the IETF than they are in most other organizations. Any decision made at a face-to-face meeting must also gain consensus on the WG mailing list. There are numerous examples of important decisions made in WG meetings that are later overturned on the mailing list, often because someone who couldn't attend the meeting pointed out a serious flaw in the logic used to come to the decision. Finally, WG meetings aren't "drafting sessions", as they are in some other standards bodies: in the IETF, drafting is done elsewhere.
 
 Another aspect of Working Groups that confounds many people is the fact that there is no formal voting. The general rule on disputed topics is that the Working Group has to come to "rough consensus", meaning that a very large majority of those who care must agree. The exact method of determining rough consensus varies from Working Group to Working Group. Sometimes consensus is determined by "humming" — if you agree with a proposal, you hum when prompted by the chair. Most "hum" questions come in two parts: you hum to the first part if you agree with the proposal, or you hum to the second part if you disagree with the proposal. Newcomers find it quite peculiar, but it works. It is up to the chair to decide when the Working Group has reached rough consensus.
 
@@ -577,7 +662,7 @@ In a standard, in order to make it clear that you're using the definitions from 
 
 6.4.2 Normative References in Standards
 
-One aspect of writing IETF standards that trips up many novices (and quite a few long-time IETF folks) is the rule about how to make "normative references" to non-IETF documents or to other RFCs in a standard. A normative reference is a reference to a document that must be followed in order to implement the standard. A non-normative reference (sometimes called an "informative reference") is one that is helpful to an implementor but is not needed.
+One aspect of writing IETF standards that trips up many newcomers (and quite a few long-time IETF folks) is the rule about how to make "normative references" to non-IETF documents or to other RFCs in a standard. A normative reference is a reference to a document that must be followed in order to implement the standard. A non-normative reference (sometimes called an "informative reference") is one that is helpful to an implementor but is not needed.
 
 An IETF standard may make a normative reference to any other standards-track RFC that is at the same standards level or higher, or to any "open standard" that has been developed outside the IETF. The "same level or higher" rule means that before a standard can move from Proposed to Draft, all of the RFCs for which there is a normative reference must also be at Draft or Internet standard. This rule is described in <a href="https://tools.ietf.org/html/bcp97">BCP 97</a>. This rule gives implementors assurance that everything in a Internet standard is quite stable, even the things referenced outside the standard. This can also delay the publication of the Draft or Internet standard by many months (sometimes even years) while the other documents catch up.
 
@@ -647,15 +732,7 @@ Some of these liaison tasks fall to the IESG, whereas others fall to the IAB. De
 
 8.2 Press Coverage of the IETF
 
-Given that the IETF is one of the best-known bodies that is helping move the Internet forward, it's natural for the computer press (and even the trade press) to want to cover its actions. In recent years, a small number of magazines have assigned reporters and editors to cover the IETF in depth over a long period of time. These reporters have ample scars from articles that they got wrong, incorrect statements about the status of Internet-Drafts, quotes from people who are unrelated to the IETF work, and so on.
-
-Major press errors fall into two categories: saying that the IETF is considering something when in fact there is just an Internet-Draft in a Working Group, and saying that the IETF approved something when all that happened was that an Informational RFC was published. In both cases, the press is not fully to blame for the problem, since they are usually alerted to the story by a company trying to get publicity for a protocol that they developed or at least support. The default place that press should look for press contacts for the IETF is [https://www.ietf.org/contact].
-
-The fact that those reporters who've gotten it wrong once still come back to IETF meetings shows that it is possible to get it right eventually. However, IETF meetings are definitely not for reporters who are naive about the IETF process (although if you are a reporter the fact that you are reading this document is a very good sign!). Furthermore, if you think that you'll get a hot story from attending an IETF meeting, you are likely to be disappointed.
-
-Considering all this, it's not surprising that some IETFers would prefer to have the press stay as far away from meetings as possible. Having a bit of press publicity for protocols that are almost near completion and will become significant in the industry in the next year can be a good thing. However, it is the rare reporter who can resist over-hyping a nascent protocol as the next savior for the Internet. Such stories do much more harm than good, both for the readers of the article and for the IETF.
-
-The main reason why a reporter might want to attend an IETF meeting is not to cover hot technologies (since that can be done in the comfort of your office by reading the mailing lists) but to meet people face-to-face. Unfortunately, the most interesting people are the ones who are also the busiest during the IETF meeting, and some folks have a tendency to run away when they see a press badge. However, IETF meetings are excellent places to meet and speak with document authors and Working Group chairs; this can be quite valuable for reporters who are covering the progress of protocols.
+Given that the IETF is one of the best-known bodies that is helping move the Internet forward, it's natural for the computer press (and even the trade press) to want to cover its actions. But it can be hard to cover the IETF. A common misunderstanding is that the IETF is considering something when in fact there is just an Internet-Draft in a Working Group, and reporting that the IETF approved something when all that happened was that an Informational RFC was published. In both cases, the press is not really to blame for the problem, since they are usually alerted to the story by a company trying to get publicity for a protocol that they developed or at least support. The default place that press should look for press contacts for the IETF is [https://www.ietf.org/contact].
 
 Reporters who want to find out about "what the IETF is doing" on a particular topic would be well-advised to talk to more than one person who is active on that topic in the IETF, and should probably try to talk to the WG chair in any case. It's impossible to determine what will happen with a draft by looking at the draft or talking to the draft's author. Fortunately, all WGs have archives that a reporter can look through for recent indications about what the progress of a draft is; unfortunately, few reporters have the time or inclination to do this kind of research. 
 
