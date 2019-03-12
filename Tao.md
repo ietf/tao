@@ -13,86 +13,86 @@ Abstract
 This document introduces you to the 'ways of the IETF': it will convey the might and magic of networking people and packets in the Internet's most prominent standards bodies. Underneath we describe the inner workings of IETF meetings and Working Groups, discusses organizations related to the IETF, and introduces the standards process.  It is not a formal IETF process document but an informal and informational overview.
 
 0. Table of Contents
-- 1. Introduction
-- 1.1 Acronyms and Abbreviations Used in the Tao
-
-- 2. What is the IETF
-- 2.1 Humble Beginnings
-- 2.2 The Hierarchy
-- 2.2.1 The IETF LLC (IETF Administration LLC) and the ISOC (Internet Society)
-- 2.2.2 IESG (Internet Engineering Steering Group)
-- 2.2.3 IAB (Internet Architecture Board)
-- 2.2.4 IANA (Internet Assigned Numbers Authority)
-- 2.2.5 RFC Editor
-- 2.2.6 IETF Secretariat
-- 2.2.7 IETF Trust
-- 2.3 IETF Mailing Lists
-
-- 3. IETF Meetings
-- 3.1 Registration
-- 3.2 Take the Plunge and Stay All Week!
-- 3.3 Newcomer Training
-- 3.4 Dress Code
-- 3.5 WG Meetings
-- 3.6 Seeing Spots Before Your Eyes
-- 3.7 Terminal Room
-- 3.8 Meals and Other Delights
-- 3.9 Social Event
-- 3.10 Agenda
-- 3.11 EDU to the Rescue
-- 3.12 Where Do I Fit In?
-- 3.12.1 Information System Managers
-- 3.12.2 Network Operators and ISPs
-- 3.12.3 Networking Hardware and Software Vendors
-- 3.12.4 Academics
-- 3.12.5 Computer Trade Press
-- 3.13 Proceedings
-- 3.14 Other General Things
-- 3.15 Remote Participation
-
-- 4. Working Groups
-- 4.1 Working Group Chairs
-- 4.2 Getting Things Done in a Working Group
-- 4.3 Working Group Documents
-- 4.4 Preparing for Working Group Meetings
-- 4.5 Working Group Mailing Lists
-- 4.6 Interim Working Group Meetings
-
-- 5. BOF
-
-- 6. RFCs and Internet-Drafts
-- 6.1 Getting an RFC Published
-- 6.2 Letting Go Gracefully
-- 6.3 Internet-Drafts
-- 6.3.1 Recommended Reading for Writers
-- 6.3.2 Filenames and Other Matters
-- 6.4 Standards-Track RFCs
-- 6.4.1 Telling It Like It Is - Using MUST and SHOULD and MAY
-- 6.4.2 Normative References in Standards
-- 6.4.3 IANA Considerations
-- 6.4.4 Security Considerations
-- 6.4.5 Patents in IETF Standards
-- 6.5 Informational and Experimental RFCs
-
-- 7. How to Contribute to the IETF
-- 7.1 What You Can Do
-- 7.2 What Your Company Can Do
-
-- 8. IETF and the Outside World
-- 8.1 IETF and Other Standards Groups
-- 8.2 Press Coverage of the IETF
-
-- 9. Security Considerations
-
-- 10. Informative References
-
-- Appendices
-- A. IETF Guiding Principles
-- A.1 General
-- A.2 Management and Leadership
-- A.3 Process
-- A.4 Working Groups
-
+1. Introduction<br>
+1.1 Acronyms and Abbreviations Used in the Tao<br>
+<br>
+2. What is the IETF<br>
+2.1 Humble Beginnings<br>
+2.2 The Hierarchy<br>
+2.2.1 The IETF LLC (IETF Administration LLC) and the ISOC (Internet Society)<br>
+2.2.2 IESG (Internet Engineering Steering Group)<br>
+2.2.3 IAB (Internet Architecture Board)<br>
+2.2.4 IANA (Internet Assigned Numbers Authority)<br>
+2.2.5 RFC Editor<br>
+2.2.6 IETF Secretariat<br>
+2.2.7 IETF Trust<br>
+2.3 IETF Mailing Lists<br>
+<br>
+3. IETF Meetings<br>
+3.1 Registration<br>
+3.2 Take the Plunge and Stay All Week!<br>
+3.3 Newcomer Training<br>
+3.4 Dress Code<br>
+3.5 WG Meetings<br>
+3.6 Seeing Spots Before Your Eyes<br>
+3.7 Terminal Room<br>
+3.8 Meals and Other Delights<br>
+3.9 Social Event<br>
+3.10 Agenda<br>
+3.11 EDU to the Rescue<br>
+3.12 Where Do I Fit In?<br>
+3.12.1 Information System Managers<br>
+3.12.2 Network Operators and ISPs<br>
+3.12.3 Networking Hardware and Software Vendors<br>
+3.12.4 Academics<br>
+3.12.5 Computer Trade Press<br>
+3.13 Proceedings<br>
+3.14 Other General Things<br>
+3.15 Remote Participation<br>
+<br>
+4. Working Groups<br>
+4.1 Working Group Chairs<br>
+4.2 Getting Things Done in a Working Group<br>
+4.3 Working Group Documents<br>
+4.4 Preparing for Working Group Meetings<br>
+4.5 Working Group Mailing Lists<br>
+4.6 Interim Working Group Meetings<br>
+<br>
+5. BOF<br>
+<br>
+6. RFCs and Internet-Drafts<br>
+6.1 Getting an RFC Published<br>
+6.2 Letting Go Gracefully<br>
+6.3 Internet-Drafts<br>
+6.3.1 Recommended Reading for Writers<br>
+6.3.2 Filenames and Other Matters<br>
+6.4 Standards-Track RFCs<br>
+6.4.1 Telling It Like It Is - Using MUST and SHOULD and MAY<br>
+6.4.2 Normative References in Standards<br>
+6.4.3 IANA Considerations<br>
+6.4.4 Security Considerations<br>
+6.4.5 Patents in IETF Standards<br>
+6.5 Informational and Experimental RFCs<br>
+<br>
+7. How to Contribute to the IETF<br>
+7.1 What You Can Do<br>
+7.2 What Your Company Can Do<br>
+<br>
+8. IETF and the Outside World<br>
+8.1 IETF and Other Standards Groups<br>
+8.2 Press Coverage of the IETF<br>
+<br>
+9. Security Considerations<br>
+<br>
+10. Informative References<br>
+<br>
+Appendices<br>
+A. IETF Guiding Principles<br>
+A.1 General<br>
+A.2 Management and Leadership<br>
+A.3 Process<br>
+A.4 Working Groups<br>
+<br>
 1. Introduction
 
 Since its early years, participation in the Internet Engineering Task Force (IETF) has grown phenomenally. In-person attendance at face-to-face meetings is now averaging between 1000 and 1400 participants [https://datatracker.ietf.org/stats/meeting/overview/]. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular participants. When the IETF was smaller, it was relatively easy for a newcomer to adjust. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
@@ -598,8 +598,6 @@ Note that new authors cannot take someone else's document and pass it off as the
 First things first. Every document that ends up in the RFC repository starts life as an Internet-Draft. Internet-Drafts are tentative documents — they're meant for readers to comment on, so authors can mull over those comments and decide which ones to incorporate in the draft. In order to remind folks of their tentativeness, Internet-Drafts are automatically removed from the active online directories after six months. They are most definitely not standards. As <a href="https://tools.ietf.org/html/bcp9">BCP 9</a> says:
 
 "An Internet-Draft is NOT a means of 'publishing' a specification; specifications are published through the RFC mechanism.... Internet-Drafts have no formal status, and are subject to change or removal at any time. Under no circumstances should an Internet-Draft be referenced by any paper, report, or Request-for-Proposal, nor should a vendor claim compliance with an Internet-Draft".
-
-You can always tell a person who doesn't understand the IETF (or is intentionally trying to fool people) when he or she brags about having published an Internet-Draft; it takes no significant effort.
 
 When you submit an Internet-Draft, you give some publication rights to the IETF. This is so that your Internet-Draft is freely available to everyone who wants to read and comment on it. The rights you do and don't give to the IETF are described in <a href="https://tools.ietf.org/html/bcp78">BCP 78</a>, "IETF Rights in Contributions".
 
