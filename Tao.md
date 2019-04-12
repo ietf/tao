@@ -194,7 +194,7 @@ Recently, based on discussions within the IASA2 working group, the <a href="http
     - Raising money on behalf of the IETF, and
     - Establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules.
 
-The IETF and ISOC continue to be strongly aligned on key principles. ISOC initiatives related to the IETF, such as the Technical Fellows to the IETF and the Deploy360 Programme continue to support participation in, and deployment of, the standards created by the IETF. The new legal structure is designed to allow the IETF to meet changes in the size and scope of the IETF’s administrative needs, it clarifies responsibility and authority over the IETF’s administration, and is flexible enough to adapt to changes as the needs of the IETF continue to evolve.
+The IETF and ISOC continue to be strongly aligned on key principles. ISOC initiatives related to the IETF continue to support participation in, and deployment of, the standards created by the IETF. The new legal structure is designed to allow the IETF to meet changes in the size and scope of the IETF’s administrative needs, it clarifies responsibility and authority over the IETF’s administration, and is flexible enough to adapt to changes as the needs of the IETF continue to evolve.
 
 2.2.2 IESG (Internet Engineering Steering Group)
 
@@ -292,7 +292,7 @@ There is a plenary session during the week. Usually, part of the plenary include
 
 Currently, the IETF meets in North America, Europe, and Asia, approximately once a year in each region. There have been more than 100 IETF meetings so far, and a list of upcoming meetings is available on <a href="https://www.ietf.org/how/meetings/upcoming">the IETF web pages</a>. You can read more about <a href="https://datatracker.ietf.org/doc/draft-ietf-mtgvenue-meeting-policy/">the meeting selection policy</a> and <a href="https://datatracker.ietf.org/doc/draft-ietf-mtgvenue-iaoc-venue-selection-process/">process</a> here.
 
-Newcomers to IETF face-to-face meetings often expect them to be like other standards bodies, or like computer conferences. Fortunately, many new attendees get quite animated about how much fun they are having. On the other hand, IETFers can sometimes be surprisingly direct, sometimes verging on rude. To build a climate in which people of many different backgrounds are treated with dignity, decency, and respect IETF has both an anti-harsassment policy, <a href="https://tools.ietf.org/html/rfc7154">guidelines for conduct</a> and <a href="https://www.ietf.org/contact/ombudsteam/">an ombudsteam</a>.
+Newcomers to IETF face-to-face meetings often expect them to be like other standards bodies, or like computer conferences. Fortunately, many new attendees get quite animated about how much fun they are having. On the other hand, IETFers can sometimes be surprisingly direct, sometimes verging on rude. To build a climate in which people of many different backgrounds are treated with dignity, decency, and respect IETF has an anti-harsassment policy, <a href="https://tools.ietf.org/html/rfc7154">guidelines for conduct</a> and <a href="https://www.ietf.org/contact/ombudsteam/">an ombudsteam</a>.
 
 3.1 Registration
 
@@ -351,7 +351,7 @@ Some of the people at the IETF will have a little colored dot on their name tag.
 | Red    | IAB member                  |
 | Yellow | IESG member                 |
 | Orange | Nominating Committee member |
-| Purple | IAOC                        |
+| Black  | IETF LLC Board              |
 | Pink   | IRSG                        |
 | Teal 	 | RFC Series Editor           |
 
@@ -387,7 +387,7 @@ A map showing the room locations are also shown on the agenda. Room assignments 
 
 3.11 EDU to the Rescue
 
-If certain aspects of the IETF still mystify you (even after you finish reading the Tao), you'll want to drop in on the on-site training offered by the Education (EDU) team. These informal classes are designed for newcomers and seasoned IETFers alike. In addition to the Newcomer Training, the EDU team offers two in-depth tutorials that are indispensable for both newcomers and longtime IETF attendees. EDU sessions are generally held on Sunday afternoons and are posted to watch later as well. 
+If certain aspects of the IETF still mystify you (even after you finish reading the Tao), you'll want to drop in on the on-site training offered by the Education (EDU) team. These informal classes are designed for newcomers and seasoned IETFers alike. In addition to the Newcomer Training, the EDU team offers in-depth tutorials that are indispensable for both newcomers and longtime IETF attendees. EDU sessions are generally held on Sunday afternoons and are posted to watch later as well. 
 
 During registration you will also be offered to be linked to a mentor. This is also organized by the EDU team; you will be paired with volunteers who have experience in the IETF and can help you hit the ground running. Ideally you have a call with your mentor before the meeting, a meeting during the beginning of the meeting, and check in some time during the meeting, so they can help you with any questions you might have.
 
@@ -424,8 +424,6 @@ If you're a member of the press and are considering attending IETF, we've prepar
 3.13 Proceedings
 
 IETF proceedings are compiled in the two months following each meeting and are available on the web. Be sure to look through a copy — the proceedings are filled with information about IETF that you're not likely to find anywhere else. For example, you'll find snapshots of most WG charters at the time of the meeting, giving you a better understanding of the evolution of any given effort.
-
-The proceedings sometimes start with an informative (and highly entertaining) message. Each volume contains the final (hindsight) agenda, an IETF overview, Area and Working Group reports, and slides from the protocol and technical presentations. The Working Group reports and presentations are sometimes incomplete, if the materials haven't been turned in to the Secretariat in time for publication.
 
 An attendee list is also included, which contains names and affiliations as provided on the registration form. For information about obtaining copies of the proceedings, see the web listing at https://www.ietf.org/how/meetings/proceedings. IETF proceedings are compiled in the two months following each meeting and are available on the web. Be sure to look through a copy — the proceedings are filled with information about IETF that you're not likely to find anywhere else. For example, you'll find snapshots of most WG charters at the time of the meeting, giving you a better understanding of the evolution of any given effort.
 
