@@ -10,7 +10,7 @@ This web page is in English. There is a list of translations of the Tao of the I
 
 
 Abstract
-This document introduces you to the 'ways of the IETF': it will convey the might and magic of networking people and packets in the Internet's most prominent standards bodies. Underneath we describe the inner workings of IETF meetings and Working Groups, discusses organizations related to the IETF, and introduces the standards process.  It is not a formal IETF process document but an informal and informational overview.
+This document introduces you to the 'ways of the IETF': it will convey the might and magic of networking people and packets in the Internet's most prominent standards bodies. Underneath we describe the inner workings of IETF meetings and Working Groups, discuss organizations related to the IETF, and introduce the standards process. This is not a formal IETF process document but an informal and informational overview.
 
 0. Table of Contents
 1. Introduction<br>
