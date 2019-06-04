@@ -973,6 +973,7 @@ Reporters looking for information about the IETF, or pointers to IETF participan
 
 Section 6.4.4 explains why each RFC is required to have a Security Considerations section and gives some idea of what it should and should not contain. Other than that information, this document does not touch on Internet security.
 
+<a name="references"></a>
 10. Informative References
 
 [BCP9](https://tools.ietf.org/html/bcp9) Bradner, S., “The Internet Standards Process -- Revision 3”, BCP 9, RFC 2026, RFC 6410, October 1996.
