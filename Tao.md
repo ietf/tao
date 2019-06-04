@@ -58,7 +58,7 @@ Table of Contents
 4.5 Working Group Mailing Lists<br>
 4.6 Interim Working Group Meetings<br>
 <br>
-5. <a href="#bofs">BOF</a><br>
+5. <a href="#bofs">BOFs</a><br>
 <br>
 6. <a href="#rfcs">RFCs and Internet-Drafts</a><br>
 6.1 Getting an RFC Published<br>
