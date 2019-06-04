@@ -328,15 +328,65 @@ The IESG consists of the Area Directors (often called "ADs"), who are selected b
 
 The current Areas and abbreviations are shown below (more information can be found here: [https://www.ietf.org/topics/areas/]).
 
-| Area                                   | Description                                                                                                 |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Applications and Real-Time Area (art)  | Protocols seen by user programs, such as email and the web and delay-sensitive interpersonal communications |
-| General (gen)                          | IETF process, and catch-all for WGs that don't fit in other Areas (which is very few)                       |
-| Internet (int)                         | Different ways of moving IP packets and DNS information                                                     |
-| Operations and Management (ops)                          | Network management, AAA, and various operational issues facing the Internet                        |
-| Routing (rtg)                          | Getting packets to their destinations                                                                       |
-| Security (sec)                         | Privacy, integrity, authentication, non-repudiation, confidentiality, and access control.                   |
-| Transport (tsv)                        | Transport for large volumes of traffic at potentially high bandwidths.                                      |
+<div class="block-table">
+<table><thead>
+<tr><th>
+Area
+</th><th>
+Description
+</th></tr>
+</thead><tbody><tr>
+<td>
+Applications and Real-Time Area (art)
+</td><td>
+Protocols seen by user programs, such as email and the web and delay-sensitive interpersonal communications
+</td>
+</tr>
+<tr>
+<td>
+General (gen)
+</td><td>
+IETF process, and catch-all for WGs that don't fit in other Areas (which is very few)
+</td>
+</tr>
+<tr>
+<td>
+Internet (int)
+</td><td>
+Different ways of moving IP packets and DNS information
+</td>
+</tr>
+<tr>
+<td>
+Operations and Management (ops)
+</td><td>
+Network management, AAA, and various operational issues facing the Internet
+</td>
+</tr>
+<tr>
+<td>
+Routing (rtg)
+</td><td>
+Getting packets to their destinations
+</td>
+</tr>
+<tr>
+<td>
+Security (sec)
+</td><td>
+Privacy, integrity, authentication, non-repudiation, confidentiality, and access control
+</td>
+</tr>
+<tr>
+<td>
+Transport (tsv)
+</td><td>
+Transport for large volumes of traffic at potentially high bandwidths
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 
 Because the IESG is reviewing all Internet-Drafts before they become RFCs, Area Directors have quite a bit of influence. Some people therefore shy away from directly engaging with Area Directors, whereas they can be an important resource and help you find the person or the answer that your looking for. At a meeting they might be very busy. Email to schedule a meeting is a great way to get in touch. Emailing with the actual question before or after a meeting is effective as well.
@@ -467,16 +517,72 @@ When speaking in a meeting, you should always go to the microphones in the room.
 
 Some of the people at the IETF will have a little colored dot on their name tag. A few people have more than one. These dots identify people who are silly enough to volunteer to do a lot of extra work. The colors have the meanings shown here.
 
-| Color  | Meaning                     |
-|--------|-----------------------------|
-| Blue   | Working Group/BOF Chair     |
-| Green  | Host group                  |
-| Red    | IAB member                  |
-| Yellow | IESG member                 |
-| Orange | Nominating Committee member |
-| Black  | IETF LLC Board              |
-| Pink   | IRSG                        |
-| Teal 	 | RFC Series Editor           |
+<div class="block-table">
+<table><thead>
+<tr><th>
+Color
+</th><th>
+Meaning
+</th></tr>
+</thead><tbody><tr>
+<td>
+Blue
+</td><td>
+Working Group/BOF Chair
+</td>
+</tr>
+<tr>
+<td>
+Green
+</td><td>
+Host group
+</td>
+</tr>
+<tr>
+<td>
+Red
+</td><td>
+IAB member
+</td>
+</tr>
+<tr>
+<td>
+Yellow
+</td><td>
+IESG member
+</td>
+</tr>
+<tr>
+<td>
+Orange
+</td><td>
+Nominating Committee member
+</td>
+</tr>
+<tr>
+<td>
+Black
+</td><td>
+IETF LLC Board
+</td>
+</tr>
+<tr>
+<td>
+Pink
+</td><td>
+IRSG
+</td>
+</tr>
+<tr>
+<td>
+Teal
+</td><td>
+RFC Series Editor
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 (Members of the press wear orange tinted badges with the word 'press' on it.)
 
