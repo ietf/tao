@@ -50,7 +50,7 @@ Table of Contents
 3.14 Other General Things<br>
 3.15 Remote Participation<br>
 <br>
-4. <a href="#wgs"Working Groups</a><br>
+4. <a href="#wgs">Working Groups</a><br>
 4.1 Working Group Chairs<br>
 4.2 Getting Things Done in a Working Group<br>
 4.3 Working Group Documents<br>
