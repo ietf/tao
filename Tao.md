@@ -465,7 +465,7 @@ There is a plenary session during the week. Usually, part of the plenary include
 
 Currently, the IETF meets in North America, Europe, and Asia, approximately once a year in each region. There have been more than 100 IETF meetings so far, and a list of upcoming meetings is available on <a href="https://www.ietf.org/how/meetings/upcoming">the IETF web pages</a>. You can read more about <a href="https://datatracker.ietf.org/doc/draft-ietf-mtgvenue-meeting-policy/">the meeting selection policy</a> and <a href="https://datatracker.ietf.org/doc/draft-ietf-mtgvenue-iaoc-venue-selection-process/">process</a> here.
 
-Newcomers to IETF face-to-face meetings often expect them to be like other standards bodies, or like computer conferences. Fortunately, many new attendees get quite animated about how much fun they are having. On the other hand, IETFers can sometimes be surprisingly direct, sometimes verging on rude. To build a climate in which people of many different backgrounds are treated with dignity, decency, and respect, the IETF has an <a href=“https://www.ietf.org/blog/ietf-anti-harassment-policy/”>anti-harassment policy</a>y, <a href="https://tools.ietf.org/html/rfc7154”>guidelines for conduct</a> and an <a href="https://www.ietf.org/contact/ombudsteam/“>ombudsteam.</a>.
+Newcomers to IETF face-to-face meetings often expect them to be like other standards bodies, or like computer conferences. Fortunately, many new attendees get quite animated about how much fun they are having. On the other hand, IETFers can sometimes be surprisingly direct, sometimes verging on rude. To build a climate in which people of many different backgrounds are treated with dignity, decency, and respect, the IETF has an <a href=“https://www.ietf.org/blog/ietf-anti-harassment-policy/”>anti-harassment policy</a>y, <a href="https://tools.ietf.org/html/rfc7154”>guidelines for conduct</a> and an <a href="https://www.ietf.org/contact/ombudsteam/“>Ombudsteam.</a>.
 
 3.1 Registration
 
@@ -477,7 +477,7 @@ You can register and pay on the web before the meeting, or in person at the meet
 
 Registration is open throughout the week of the meeting. You can find out more about how the IETF handles your personal data here: [https://www.ietf.org/privacy-statement/].
 
-If you are participating an IETF meeting for the first time, you might also consider subscribing to the meeting-specific email list, which is presented as an option when you register to participate in the meeting either in-person or remotely. Discussions on the meetings list can be high volumen and fairly wide-ranging about meeting-specific issues, but it is also a channel for sharing information that many find useful to understand what is going on during the meeting itself.
+If you are participating in an IETF meeting for the first time, you might also consider subscribing to the meeting-specific email list, which is presented as an option when you register to participate in the meeting either in-person or remotely. Discussions on the meetings list can be high volume and fairly wide-ranging about meeting-specific issues, but it is also a channel for sharing information that many find useful to understand what is going on during the meeting itself.
 
 The Sunday is an excellent day to join the meeting, unless you already joined us during the hackathon on Saturday. Sunday is the day for the newcomer's tutorial, as well the Quick Connections session where newcomers get to meet with experienced IETF participants and the Newcomer's Meet and Greet where newcomers can meet Area Directors and Working Group Chairs. After these sessions there is the reception which is a popular event where you can get a small bite to eat and socialize with other attendees.
 
@@ -499,11 +499,11 @@ If you cannot find meetings all week to interest you, you can still make the mos
 
 Newcomers are encouraged to attend the Newcomer's Tutorial on Sunday afternoon, which is especially designed for first-time attendees. The tutorial is organized and conducted by the IETF EDU team and is intended to provide useful introductory information. The session covers what all the dots on name tags mean, the structure of the IETF, and many other essential and enlightening topics for new IETFers. If you are unable to attend this session, recorded ones from previous meetings are available ([https://www.ietf.org/about/participate/tutorials/]).
 
-Later in the afternoon is the Quick Connections session where newcomers have the chance to get to know senior IETF participants, and ask questions. The Quick Connections session is followed by the Newcomer's Meet and Greet, which is only open to newcomers and WG chairs. This is a great place to try to find people knowledgeable in the areas in which you are interested. This is a good opportunity to connect to the chairs of the working group your are interested in. If you can't find the right person easily or don't know which working group your interests are connected to, feel free to approach anybody without a newcomer ribbon to help you to get in touch with the right people.
+Later in the afternoon is the Quick Connections session where newcomers have the chance to get to know senior IETF participants, and ask questions. The Quick Connections session is followed by the Newcomer's Meet and Greet, which is only open to newcomers and WG chairs. This is a great place to try to find people knowledgeable in the areas in which you are interested. This is a good opportunity to connect to the chairs of the working group you are are interested in. If you can't find the right person easily or don't know which working group your interests are connected to, feel free to approach anybody without a newcomer ribbon to help you to get in touch with the right people.
 
 3.4 Dress Code
 
-At meetings people generally dress informally. Newcomers are sometimes out of place when they show up Monday morning in suits. The general rule is "dress for the weather" (unless you plan to work so hard that you won't go outside, in which case, "dress for comfort" is the rule!).
+At meetings people generally dress informally. Newcomers are sometimes out of place when they show up Monday morning in suits. The general rule is "dress for the weather" (unless you plan to work so hard that you won't go outside, in which case, "dress for comfort (and the hotel A/C!)" is the rule!).
 
 3.5 WG Meetings
 
@@ -584,7 +584,7 @@ RFC Series Editor
 </table>
 </div>
 
-(Members of the press wear orange tinted badges with the word 'press' on it.)
+(Members of the press wear orange tinted badges with the word 'press' on them.)
 
 It is important that newcomers to the IETF not be afraid to strike up conversations with people who wear these dots. If the IAB and IESG members and Working Group and BOF chairs didn't want to talk to anybody, they wouldn't be wearing the dots in the first place. Note, however, that IETF meetings are usually intense times for Area Directors. Talking to an AD during an IETF meeting will often lead to a request to send her or him email about two weeks later. Also, when you start a hallway conversation with an Area Director (or even a WG chair, for that matter), it is often good to give them about 30 seconds of context for the discussion.
 
@@ -598,7 +598,7 @@ You need to be wearing your badge in order to get into the terminal room. The te
 
 3.8 Meals and Other Delights
 
-Marshall Rose once remarked that the IETF was a place to go for "many fine lunches and dinners". Although it is true that some people eat very well at the IETF, they find the food on their own; lunches and dinners are not included in the registration fee. If sponsorship for it is secure, the Secretariat arranges for appetizers at the Sunday evening welcome reception (not meant to be a replacement for dinner), in some venues, continental breakfast on Monday through Friday mornings, and (best of all) cookies, brownies, fruit, and other yummies during some of the afternoon breaks. These are very often paid for by the meeting host or a meeting sponsor.
+Marshall Rose once remarked that the IETF was a place to go for "many fine lunches and dinners". Although it is true that some people eat very well at the IETF, they find the food on their own; lunches and dinners are not included in the registration fee. If sponsorship for it is secured, the Secretariat arranges for appetizers at the Sunday evening welcome reception (not meant to be a replacement for dinner), in some venues, continental breakfast on Monday through Friday mornings, and (best of all) cookies, brownies, fruit, and other yummies during some of the afternoon breaks. These are very often paid for by the meeting host or a meeting sponsor.
 
 If you prefer to get out of the hotel for meals, the local host usually provides a list of places to eat within easy reach of the meeting site.
 
@@ -638,7 +638,7 @@ Running a network is hard enough without having to grapple with new protocols or
 
 3.12.3 Networking Hardware and Software Vendors
 
-The image of the IETF being mostly network researchers may have been true in the distant past, but the jobs of typical attendees are now in industry. In most areas of the IETF, employees of vendors are the ones writing the protocols and leading the Working Groups, so it's completely appropriate for vendors to attend. If you create Internet hardware or software, and no one from your company has ever attended an IETF meeting, it behooves you to come to a meeting if for no other reason than to tell the others how relevant the meeting was or was not to your business.
+The image of the IETF being mostly network researchers may have been true in the distant past, but the jobs of typical attendees are now in industry. In most areas of the IETF, employees of vendors are the ones writing the protocols and leading the Working Groups, so it's completely appropriate for vendors to attend. If you create Internet hardware or software, and no one from your company has ever attended an IETF meeting, it behoves you to come to a meeting if for no other reason than to tell the others how relevant the meeting was or was not to your business.
 
 This is not to say that companies should close up shop during IETF meeting weeks so everyone can go to the meeting. Marketing folks, even technical marketing folks, are usually safe in staying away from the IETF as long as some of the technical people from the company are at the meeting. Similarly, it isn't required, or likely useful, for everyone from a technical department to go, particularly if they are not all reading the Internet-Drafts and following the Working Group mailing lists. Many companies have just a few designated meeting attendees who are chosen for their ability to do complete and useful trip reports. In addition, many companies have internal coordination efforts and a standards strategy. If a company depends on the Internet for some or all of its business, the strategy should probably cover the IETF.  The attendees participate in the IETF as individuals.
 
@@ -707,7 +707,7 @@ The lack of formal voting has caused some very long delays for some proposals, b
 
 A related problem is that some people think that their proposals should be discussed in the WG even when the WG Chairs do not. For example, if the proposed work is not really part of the charter, the WG Chairs may constrain the discussion of the proposal in order to keep the WG focused on the chartered work. Individuals who think that a WG should bring up a topic that is considered off-charter by the WG Chairs can bring their concerns to the responsible AD; the AD may agree to adjust the charter to add the topic with the working group, or that it is already covered in the charter, or that the WG Chairs are correct and that the participant should work on the proposal outside the WG.
 
-When a WG document has been fully discussed, it usually goes through Working Group Last Call (often abbreviated as "WGLC"). This is a hopefully-final time fo the WG to iron out issues. Sometimes, WGLC will bring out so many issues that there will be a second WGLC after the revisions have been incorporated. There are no formal rules for how a WGLC happens, or even if a WGLC is needed: it is up to the WG chairs.
+When a WG document has been fully discussed, it usually goes through Working Group Last Call (often abbreviated as "WGLC"). This is a hopefully-final time for the WG to iron out issues. Sometimes, WGLC will bring out so many issues that there will be a second WGLC after the revisions have been incorporated. There are no formal rules for how a WGLC happens, or even if a WGLC is needed: it is up to the WG chairs.
 
 Another method that some Working Groups adopt is to have a Working Group "secretary" to handle the juggling of the documents and the changes. The secretary can run the issue tracker if there is one, or can simply be in charge of watching that all of the decisions that are made on the mailing list are reflected in newer versions of the documents.
 
@@ -731,7 +731,7 @@ The most important thing that everyone (newcomers and seasoned experts) should d
 
 It's up to the WG chairs to set the meeting agenda, usually a few weeks in advance. If you want something discussed at the meeting, be sure to let the chair know about it. The agendas for all the WG meetings are available in advance on the IETF web site, but some WG chairs are lax (if not totally negligent) about turning them in.
 
-The Secretariat only schedules WG meetings a few weeks in advance, and the schedule often changes as little as a week before the first day. If you are only coming for one WG meeting, you may have a hard time booking your flight with such little notice, particularly if the Working Group's meeting changes schedule. Be sure to keep track of the current agenda so you can schedule flights and hotels. But, when it comes down to it, you probably shouldn't be coming for just one WG meeting. It's likely that your knowledge could be valuable in a few WGs, assuming that you've read the drafts and RFCs for those groups. Work in the IETF is often reciprocal, contribute positively to others work and your more likely to receive comments and feedback on your work.
+The Secretariat only schedules WG meetings a few weeks in advance, and the schedule often changes as little as a week before the first day. If you are only coming for one WG meeting, you may have a hard time booking your flight with such little notice, particularly if the Working Group's meeting changes schedule. Be sure to keep track of the current agenda so you can schedule flights and hotels. But, when it comes down to it, you probably shouldn't be coming for just one WG meeting. It's likely that your knowledge could be valuable in a few WGs, assuming that you've read the drafts and RFCs for those groups. Work in the IETF is often reciprocal, contribute positively to others work and you are more likely to receive comments and feedback on your work.
 
 If you are on the agenda at a face-to-face meeting, you should probably come with a few slides prepared. But don't come with a tutorial; people are supposed to read the drafts in advance. Projectors for laptop-based presentations are available in all the meeting rooms.
 
@@ -966,7 +966,7 @@ Given that the IETF is one of the best-known bodies that is helping move the Int
 
 Reporters who want to find out about "what the IETF is doing" on a particular topic would be well-advised to talk to more than one person who is active on that topic in the IETF, and should probably try to talk to the WG chair in any case. It's impossible to determine what will happen with a draft by looking at the draft or talking to the draft's author. Fortunately, all WGs have archives that a reporter can look through for recent indications about what the progress of a draft is; unfortunately, few reporters have the time or inclination to do this kind of research. 
 
-Reporters looking for information about the IETF, or pointers to IETF participants working on a particular topic relevant to the IETF, are encouraged to send email to media@ietf.org. Replies are usually sent within a day. Even if a direct answer to a particular query is not availble, pointers to resources or people who can provide more information about a topic are often provided.
+Reporters looking for information about the IETF, or pointers to IETF participants working on a particular topic relevant to the IETF, are encouraged to send email to media@ietf.org. Replies are usually sent within a day. Even if a direct answer to a particular query is not available, pointers to resources or people who can provide more information about a topic are often provided.
 
 <a name="security"></a>
 9. Security Considerations
