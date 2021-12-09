@@ -39,7 +39,7 @@ Table of Contents
 3.8 Meals and Other Delights<br>
 3.9 Social Event<br>
 3.10 Agenda<br>
-3.11 EDU to the Rescue<br>
+3.11 emodir to the Rescue<br>
 3.12 Where Do I Fit In?<br>
 3.12.1 Information System Managers<br>
 3.12.2 Network Operators and ISPs<br>
@@ -497,7 +497,7 @@ If you cannot find meetings all week to interest you, you can still make the mos
 
 3.3 Newcomer Training
 
-Newcomers are encouraged to attend the Newcomer's Tutorial on Sunday afternoon, which is especially designed for first-time attendees. The tutorial is organized and conducted by the IETF EDU team and is intended to provide useful introductory information. The session covers what all the dots on name tags mean, the structure of the IETF, and many other essential and enlightening topics for new IETFers. If you are unable to attend this session, recorded ones from previous meetings are available ([https://www.ietf.org/about/participate/tutorials/]).
+Newcomers are encouraged to attend the Newcomer's Tutorial on Sunday afternoon, which is especially designed for first-time attendees. The tutorial is organized and conducted by the IETF Education Mentoring and Outreach Directorate (emodir) and is intended to provide useful introductory information. The session covers what all the dots on name tags mean, the structure of the IETF, and many other essential and enlightening topics for new IETFers. If you are unable to attend this session, recorded ones from previous meetings are available ([https://www.ietf.org/about/participate/tutorials/]).
 
 Later in the afternoon is the Quick Connections session where newcomers have the chance to get to know senior IETF participants, and ask questions. The Quick Connections session is followed by the Newcomer's Meet and Greet, which is only open to newcomers and WG chairs. This is a great place to try to find people knowledgeable in the areas in which you are interested. This is a good opportunity to connect to the chairs of the working group you are are interested in. If you can't find the right person easily or don't know which working group your interests are connected to, feel free to approach anybody without a newcomer ribbon to help you to get in touch with the right people.
 
@@ -614,13 +614,13 @@ The agenda for the IETF meetings is a very fluid thing. It is available on the w
 
 A map showing the room locations are also shown on the agenda. Room assignments can change as the agenda changes. Some Working Groups meet multiple times during a meeting, and every attempt is made to have a Working Group meet in the same room for each session.
 
-3.11 EDU to the Rescue
+3.11 emodir to the Rescue
 
-If certain aspects of the IETF still mystify you (even after you finish reading the Tao), you'll want to drop in on the on-site training offered by the Education (EDU) team. These informal classes are designed for newcomers and seasoned IETFers alike. In addition to the Newcomer Training, the EDU team offers in-depth tutorials that are indispensable for both newcomers and longtime IETF attendees. EDU sessions are generally held on Sunday afternoons and are posted to watch later as well. 
+If certain aspects of the IETF still mystify you (even after you finish reading the Tao), you'll want to drop in on newcomers training offered by the Education, Mentoring, and Outreach Directorate (emodir). These informal classes are designed for newcomers and seasoned IETFers alike. In addition to the Newcomer Training, emodir offers in-depth tutorials that are indispensable for both newcomers and longtime IETF attendees. emodir sessions are generally held on Sunday afternoons and are posted to watch later as well. 
 
-During registration you will also be offered to be linked to a mentor. This is also organized by the EDU team; you will be paired with volunteers who have experience in the IETF and can help you hit the ground running. Ideally you have a call with your mentor before the meeting, a meeting during the beginning of the meeting, and check in some time during the meeting, so they can help you with any questions you might have.
+During registration you will also be offered to be linked to an mentor. This is also organized by the emodir team; you will be paired with volunteers who have experience in the IETF and can help you hit the ground running. Ideally you have a call with your mentor before the meeting, a meeting during the beginning of the meeting, and check in some time during the meeting, so they can help you with any questions you might have.
 
-You'll find more about the EDU team at [https://datatracker.ietf.org/group/emodir/about].
+You'll find more about emodir at [https://datatracker.ietf.org/group/emodir/about].
 
 3.12 Where Do I Fit In?
 
