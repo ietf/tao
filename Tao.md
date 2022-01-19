@@ -433,7 +433,7 @@ A common misconception is that all RFCs are the work of the IETF. In fact, of th
 
 2.2.6 IETF Secretariat
 
-There are, in fact, a few people who are paid to maintain the IETF. The IETF Secretariat provides day-to-day logistical support, which mainly means coordinating face-to-face meetings and running the IETF-specific mailing lists. The Secretariat is also responsible for keeping the official Internet-Drafts directory up to date and orderly, maintaining the IETF web site, and for helping the IESG do its work. It provides various tools for use by the community and the IESG. The IETF Secretariat is under contract to IASA, which in turn is financially supported by the fees collected for attending the face-to-face meetings, sponsorships, and contributions from ISOC.
+There are a few people who are paid to maintain the IETF. The IETF Secretariat provides day-to-day logistical support, which mainly means coordinating face-to-face meetings and running the IETF-specific mailing lists. The Secretariat is also responsible for keeping the official Internet-Drafts directory up to date and orderly, maintaining the IETF web site, and for helping the IESG do its work. It provides various tools for use by the community and the IESG. The IETF Secretariat is under contract to IASA, which in turn is financially supported by the fees collected for attending the face-to-face meetings, sponsorships, and contributions from ISOC.
 
 2.2.7 IETF Trust
 
@@ -442,8 +442,6 @@ Near the end of 2005, the IETF Trust was set up to hold and license the intellec
 2.3 IETF Mailing Lists
 
 Anyone who plans to participate in the IETF, including attending an IETF meeting, should join the IETF announcement mailing list (see [https://www.ietf.org/mailman/listinfo/IETF-Announce]). This is where all of the meeting information, RFC announcements, and IESG Protocol Actions and Last Calls are posted. People who would like to "get technical" may also join the IETF general discussion list (see [https://www.ietf.org/mailman/listinfo/ietf]). This is where general discussions are held (Working Groups have their own mailing lists for discussions related to their work). Another mailing list announces each new version of every Internet-Draft as it is published (see [https://www.ietf.org/mailman/listinfo/I-D-Announce]).
-
-Subscriptions to these and other IETF-run mailing lists are handled by a program called "mailman". Mailman can be somewhat finicky about the format of subscription messages, and sometimes interacts poorly with email programs that make all email messages into HTML files. Mailman will treat you well, however, if you format your messages just the way it likes.
 
 The IETF discussion list is unmoderated. This means that all can express their opinions about issues affecting the Internet. However, it is not a place for companies or individuals to solicit or advertise, as noted in <a href="https://tools.ietf.org/html/bcp45">BCP 45</a>, "IETF Discussion List Charter". It is a good idea to read the whole RFC (it's short!) before posting to the IETF discussion list. Actually, the list does have two "sergeants at arms" who keep an eye open for inappropriate postings, and there is a process for banning persistent offenders from the list, but fortunately this is extremely rare.
 
