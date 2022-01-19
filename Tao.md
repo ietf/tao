@@ -555,7 +555,7 @@ IESG member
 <td>
 Orange
 </td><td>
-Nominating Committee member
+Nominating Committee (NomCom) member
 </td>
 </tr>
 <tr>
@@ -570,13 +570,6 @@ IETF LLC Board
 Pink
 </td><td>
 IRSG
-</td>
-</tr>
-<tr>
-<td>
-Teal
-</td><td>
-RFC Series Editor
 </td>
 </tr>
 </tbody>
