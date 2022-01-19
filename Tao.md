@@ -289,13 +289,13 @@ One more thing that is important for newcomers: the IETF in no way "runs the Int
 
 2.1 Humble Beginnings
 
-The first IETF meeting was held in January 1986 at Linkabit in San Diego, with 21 attendees. The 4th IETF, held at SRI in Menlo Park in October 1986, was the first that vendors attended. The concept of Working Groups was introduced at the 5th IETF meeting at the NASA Ames Research Center in California in February 1987. The 7th IETF, held at MITRE in McLean, Virginia, in July 1987, was the first meeting with more than 100 attendees.
+The first IETF meeting was held in January 1986 at Linkabit in San Diego, with 21 attendees. The 4th IETF, held at SRI in Menlo Park in October 1986, was the first that equipment vendors attended. The concept of Working Groups was introduced at the 5th IETF meeting at the NASA Ames Research Center in California in February 1987. The 7th IETF, held at MITRE in McLean, Virginia, in July 1987, was the first meeting with more than 100 attendees.
 
 The 14th IETF meeting was held at Stanford University in July 1989. It marked a major change in the structure of the IETF universe. The structure of the IAB (then the Internet Activities Board, now the Internet Architecture Board), which until that time oversaw many "task forces", was changed, leaving it with only two: the IETF and the IRTF. The IRTF is tasked to consider long-term research problems in the Internet. The IETF also changed at that time.
 
 After the Internet Society (ISOC) was formed in January 1992, the IAB proposed to ISOC that the IAB's activities should take place under the auspices of the Internet Society. During INET92 in Kobe, Japan, the ISOC Trustees approved a new charter for the IAB to reflect the proposed relationship.
 
-The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first IETF meeting held in Europe, and the US/non-US attendee split was nearly 50/50. The IETF first met in Asia (in Adelaide, Australia) in 2000.
+The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first IETF meeting held in Europe, and the US/non-US attendee split was nearly 50/50. The IETF first met in Oceania (in Adelaide, Australia) in 2000, the first meeting in Asia (in Yokohama, Japan) was in 2002, and the first meeting in Latin America (in Buenos Aires, Agentina) was in 2002. The IETF never met in Africa. 
 
 The IETF currently strives to have a 1-1-1 meeting policy where the goal is to distribute the meetings equally between North America, Europe, and Asia.  These are the locations most of the IETF participants have come from in the recent past.  <a href="https://tools.ietf.org/html/draft-ietf-mtgvenue-meeting-policy-07">The meeting rotation policy</a> is mainly aimed at distributing the travel effort for the existing IETF participants who physically attend meetings and for distributing the timezone difficulty for those who participate remotely. The IETF has also met in Latin America and Oceania, but these continents are currently not part of the 1-1-1 rotation schedule. 
 
