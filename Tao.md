@@ -656,10 +656,6 @@ Hallway conversations are very important. A lot of very good work gets done by p
 
 A side meeting (historically but often inaccurately called a "bar BOF") is an unofficial get-together between WG meetings or in the late evening, during which a lot of work gets done. These side meetings spring up in many different places around an IETF meeting, such as restaurants, coffee shops, unused hall spaces, and (if we are so lucky) pools. You can read more about BOFs (Birds-of-a Feather sessions) in section 5.
 
-It's unwise to get between a hungry IETFer (and there isn't any other kind) and coffee break brownies and cookies, no matter how interesting the hallway conversation. Steve Coya, the first IETF Executive Director, often said, "Take your cookie, then step away from the table."
-
-IETFers are fiercely independent. It's safe to question opinions and offer alternatives, but don't expect an IETFer to follow orders.
-
 The IETF meetings, and the plenary session in particular, are not places for vendors to try to sell their wares. People can certainly answer questions about their company and its products, but bear in mind that the IETF is not a trade show. This does not preclude people from recouping costs for IETF-related T-shirts, buttons, and pocket protectors.
 
 There is always a "materials distribution table" near the registration desk. This desk is used to make appropriate information available to the attendees (e.g., copies of something discussed in a Working Group session, descriptions of online IETF-related information). Please check with the Secretariat before placing materials on the desk; the Secretariat has the right to remove material that he or she feels is not appropriate.
