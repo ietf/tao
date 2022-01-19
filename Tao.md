@@ -277,7 +277,7 @@ The IETF meeting is not a conference, although there are technical presentations
 
 There is no membership in the IETF. Anyone may sign up to working group mailing lists, or register for a meeting and then attend. The closest thing there is to being an IETF member is being a participant on the IETF or Working Group mailing lists (see Section 2.3). This is where the best information about current IETF activities and focus can be found.
 
-Of course, no organization can be as successful as the IETF is without having some sort of structure. In the IETF's case, that structure is provided by other organizations, as described in <a href="https://tools.ietf.org/html/rfc2028">RFC 2028</a>, "The Organizations Involved in the IETF Standards Process". If you participate in the IETF and read only one BCP, this is the one you should read.
+Of course, no organization can be as successful as the IETF is without having some sort of structure. In the IETF's case, that structure is provided by other supporting organizations, as described in <a href="https://tools.ietf.org/html/rfc2028">RFC 2028</a>, "The Organizations Involved in the IETF Standards Process". 
 
 The <a href="https://www.ietf.org">IETF web site</a> is the best source for information about upcoming IETF meetings, newcomer materials. The IETF <a href="https://datatracker.ietf.org/">Datatracker</a> is the best source for information about Internet-Drafts, RFCs, and Working Groups.
 
