@@ -466,9 +466,7 @@ Newcomers to IETF face-to-face meetings often expect them to be like other stand
 
 3.1 Registration
 
-To attend an IETF meeting (either on-line or in person), you have to register and pay a registration fee. If you cannot afford the registration fee, you can apply for a fee waiver during the registration process. The meeting site (if applicable in case the meeting is not on-line only) and advance registration are announced at least two months ahead of the meeting — earlier if possible. An announcement goes out via email to the IETF-announce mailing list, and information is posted on <a href="https://www.ietf.org">the IETF web site</a>, that same day.
-
-You must also register to participate remotely; currently there is no registration fee for remote participation.
+To attend an IETF meeting (either online or in person), you have to register and pay a registration fee. If you cannot afford the registration fee, you can apply for a fee waiver during the registration process. The meeting site (if applicable in case the meeting is not online only) and advance registration are announced at least two months ahead of the meeting — earlier if possible. An announcement goes out via email to the IETF-announce mailing list, and information is posted on <a href="https://www.ietf.org">the IETF web site</a>, that same day.
 
 You can register and pay on the web before the meeting, or in person at the meeting. To get a lower registration fee, you must pay by the early-bird registration deadline (at least seven weeks before the meeting). The standard registration fee window closes 2 weeks before the meeting, if you register any time after that you will need to pay the fee for late registrants. The registration fee covers all of the week's meetings, the Sunday evening welcome reception, and afternoon beverage and snack breaks.
 
