@@ -1,4 +1,4 @@
-Niels ten Oever and Kathleen Moriarty, Editors
+Niels ten Oever, Editor
 
 About This Document
 
