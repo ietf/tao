@@ -634,7 +634,7 @@ This is not to say that companies should close up shop during IETF meeting weeks
 
 3.12.4 Academics
 
-IETF meetings are often excellent places for computer science folks to find out what is happening in the way of soon-to-be-deployed protocols. Professors and grad students (and sometimes overachieving undergrads) who are doing research in networking or communications can get a wealth of information by following Working Groups in their specific fields of interest. Wandering into different Working Group meetings can have the same effect as going to symposia and seminars in your department. Researchers are also, of course, likely to be interested in IRTF activities.
+IETF meetings are often excellent places for all kinds of researchers to find out what is happening in the way of soon-to-be-deployed protocols, and networking achitecture and infrastructure. Professors and grad students (and sometimes overachieving undergrads) who are doing research in networking or communications can get a wealth of information by following Working Groups in their specific fields of interest. Wandering into different Working Group meetings can have the same effect as going to symposia and seminars in your department. Researchers are also, of course, likely to be interested in IRTF activities.
 
 3.12.5 Computer Trade Press
 
