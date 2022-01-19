@@ -305,7 +305,7 @@ Remote participation in IETF meetings has been growing significantly in the past
 
 2.2.1 The IETF LLC (IETF Administration LLC) and the ISOC (Internet Society)
 
-The Internet Society is an international, non-profit, membership organization that supports and promotes the development of the Internet as a global technical infrastructure, a resource to enrich people’s lives, and a force for good in society. One of the ways that ISOC does this is through support of the IETF.
+The Internet Society (ISOC) is an international, non-profit, membership organization that supports and promotes the development of the Internet as a global technical infrastructure. The mission of ISOC is "to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world.". One of the ways that ISOC does this is through support of the IETF.
 
 Starting in spring 2005, the ISOC became home base for the IETF's directly employed administrative staff. This is described in more detail in <a href="https://tools.ietf.org/html/bcp101">BCP 101</a>, "Structure of the IETF Administrative Support Activity (IASA)". The staff included only an Administrative Director (IAD) who worked full-time overseeing IETF meeting planning, operational aspects of support services (the secretariat, IANA (the Internet Assigned Numbers Authority), and the RFC Editor, which are described later in this section), and the budget. The IAD led the IETF Administrative Support Activity (IASA), which took care of tasks such as collecting meeting fees and paying invoices, and also supports the tools for the work of IETF working groups, the IESG, the IAB, and the IRTF (more about these later in this section).
 
