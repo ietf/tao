@@ -466,7 +466,7 @@ Newcomers to IETF face-to-face meetings often expect them to be like other stand
 
 3.1 Registration
 
-To attend an IETF meeting in person, you have to register and pay a registration fee. The meeting site and advance registration are announced at least two months ahead of the meeting — earlier if possible. An announcement goes out via email to the IETF-announce mailing list, and information is posted on <a href="https://www.ietf.org">the IETF web site</a>, that same day.
+To attend an IETF meeting (either on-line or in person), you have to register and pay a registration fee. If you cannot afford the registration fee, you can apply for a fee waiver during the registration process. The meeting site (if applicable in case the meeting is not on-line only) and advance registration are announced at least two months ahead of the meeting — earlier if possible. An announcement goes out via email to the IETF-announce mailing list, and information is posted on <a href="https://www.ietf.org">the IETF web site</a>, that same day.
 
 You must also register to participate remotely; currently there is no registration fee for remote participation.
 
@@ -488,7 +488,7 @@ Incidentally, the IETF registration desk is often a convenient place to arrange 
 
 3.2 Take the Plunge and Stay All Week!
 
-IETF WG meetings are scheduled from Monday morning through Friday afternoon. Associated non-WG meetings often take place on the preceding or following weekends. It is best to plan to be present the whole week, to benefit from cross-fertilization between Working Groups and from corridor discussions. As noted below, the agenda is fluid, and there have been many instances of participants missing important sessions due to last-minute scheduling changes after their travel plans were fixed. Being present the whole week is the only way to avoid this annoyance.
+IETF WG meetings are scheduled from Monday morning through Friday afternoon. Associated non-WG meetings often take place on the preceding or following weekends. It is best to plan to be present the whole week, to benefit from cross-fertilization between Working Groups and from corridor discussions (both offline as well as in online environments such as gather.town). As noted below, the agenda is fluid, and there have been many instances of participants missing important sessions due to last-minute scheduling changes after their travel plans were fixed. Being present the whole week is the only way to avoid this annoyance.
 
 If you cannot find meetings all week to interest you, you can still make the most of the IETF meeting by working between sessions. Most IETF attendees carry laptop computers, and it is common to see many of them in the terminal room or in the hallways working during meeting sessions. There is often good wireless Internet coverage in many places of the meeting venue (restaurants, coffee shops, and so on), so catching up on email when not in meetings is a fairly common task for IETFers.
 
@@ -580,7 +580,7 @@ It is important that newcomers to the IETF not be afraid to strike up conversati
 
 3.7 Terminal Room
 
-The network operations center (NOC) provides Internet access for attendees at each meeting. In general, wireless connectivity is excellent in all the meeting rooms and most common areas, and the wired connectivity is provided in the terminal room. The people and companies that donate their equipment, services, and time are to be heartily congratulated and thanked.
+The network operations center (NOC) provides Internet access for attendees at each in-person meeting. In general, wireless connectivity is excellent in all the meeting rooms and most common areas, and the wired connectivity is provided in the terminal room. The people and companies that donate their equipment, services, and time are to be heartily congratulated and thanked.
 
 Although preparation far in advance of the meeting is encouraged, there may be some unavoidable "last minute" things that can be accomplished in the terminal room. It may also be useful to people who need to make trip reports or status reports while things are still fresh in their minds.
 
