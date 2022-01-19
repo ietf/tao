@@ -419,8 +419,7 @@ Like the IESG, the IAB members are selected for two-year positions by the NomCom
 2.2.4 IANA (Internet Assigned Numbers Authority)
 
 The core registrar for the IETF's activities is the IANA (see https://www.iana.org). Many Internet protocols require that someone keep track of protocol items that were added after the protocol came out. Typical examples of the kinds of registries needed are for TCP port numbers and MIME types. The IAB has designated the IANA organization to perform these tasks, and the IANA's activities are financially supported by ICANN, the Internet Corporation for Assigned Names and Numbers. The IAB selected ICANN, and the IANA activities are provided for free as specified in <a href="https://tools.ietf.org/html/rfc2860">RFC 2860</a>. 
-
-Ten years ago, no one would have expected to see the IANA mentioned on the front page of a newspaper. IANA's role had always been very low key. The fact that IANA was also the keeper of the root of the domain name system forced it to become a much more public entity, one that was badly maligned by a variety of people who never looked at what its role was. Nowadays, the IETF is generally no longer involved in the IANA's domain name and IP address assignment functions, which are overseen by ICANN.
+The IETF is no longer involved in the IANA's domain name and IP address assignment functions, which are overseen by ICANN.
 
 Even though being a registrar may not sound interesting, many IETF participants will testify to how important IANA has been for the Internet. Having a stable, long-term repository run by careful and conservative operators makes it much easier for people to experiment without worrying about messing things up. IANA early maintainers, Jon Postel and Joyce Reynolds, were heavily relied upon to keep things in order while the Internet kept growing by leaps and bounds.
 
