@@ -10,7 +10,7 @@ This web page is in English. There is a list of translations of the Tao of the I
 
 
 Abstract
-This document introduces you to the 'ways of the IETF': it will convey the might and magic of networking people and packets in the Internet's most prominent standards bodies. Underneath we describe the inner workings of IETF meetings and Working Groups, discuss organizations related to the IETF, and introduce the standards process. This is not a formal IETF process document but an informal and informational overview.
+This document introduces you to the 'ways of the IETF': it will convey the might and magic of networking people and packets in the Internet's most prominent standards body. Underneath we describe the inner workings of IETF meetings and Working Groups, discuss organizations related to the IETF, and introduce the standards process. This is not a formal IETF process document but an informal and informational overview.
 
 Table of Contents
 1. <a href="#introduction">Introduction</a><br>
@@ -96,7 +96,7 @@ A.4 Working Groups<br>
 <a name="introduction"></a>
 1. Introduction
 
-Since its early years, participation in the Internet Engineering Task Force (IETF) has grown phenomenally. In-person attendance at face-to-face meetings is now averaging between 1000 and 1400 participants [https://datatracker.ietf.org/stats/meeting/overview/]. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular participants. When the IETF was smaller, it was relatively easy for a newcomer to adjust. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
+The Internet Engineering Taskfore (IETF) is the largest standard developing organization (SDO) for the Internet. Since its early years, participation in the Internet Engineering Task Force (IETF) has grown phenomenally. In-person attendance at face-to-face meetings is now averaging between 1000 and 1400 participants [https://datatracker.ietf.org/stats/meeting/overview/]. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular participants. When the IETF was smaller, it was relatively easy for a newcomer to adjust. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
 
 This document describes many aspects of the IETF, with the goal of explaining to newcomers how the IETF works. This will enable them to make meetings and the Working Group discussions more productive for everyone. This document started out fairly short, but expanded over time in response to suggestions from IETF newcomers about what more they would have wanted to know before attending their first face-to-face meeting or becoming active in their first Working Group.
 
