@@ -119,161 +119,74 @@ A.2 Management and Leadership<br>
 A.3 Process<br>
 A.4 Working Groups<br>
 <br>
+
 <a name="introduction"></a>
-1. Introduction
+# 1. Introduction
 
-The Internet Engineering Taskfore (IETF) is the largest standard developing organization (SDO) for the Internet. Since its early years, participation in the Internet Engineering Task Force (IETF) has grown phenomenally. In-person attendance at face-to-face meetings is now averaging between 1000 and 1400 participants [https://datatracker.ietf.org/stats/meeting/overview/]. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular participants. When the IETF was smaller, it was relatively easy for a newcomer to adjust. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
+The Internet Engineering Taskforce (IETF) is the largest standard development
+organization (SDO) for the Internet. Since its early years, participation in
+the IETF has grown phenomenally. In-person
+attendance at face-to-face meetings
+<a href="https://datatracker.ietf.org/stats/meeting/overview/">now averages
+between 1000 and 1500 participants</a>.
+At any given meeting, around 200 attendees are newcomers (defined by the IETF
+as having attended no more than three meetings), and many of those go on to
+become regular participants.  When the IETF was smaller, it was relatively
+easy for a newcomer to adjust. Today, however, a newcomer meets many more new
+people -- some previously known only as the authors of documents or
+thought-provoking email messages.
 
-Of course, it's true that many IETF participants don't go to the face-to-face meetings at all - especially since the COVID-19 pandemic when meetings when completely online for a while. There also also many participants that solely focus on the mailing lists of various IETF Working Groups. Since the inner workings of Working Groups can be hard for newcomers to understand, this document provides the mundane bits of information that newcomers will need in order to become active participants. The IETF website also holds a lot of accessible newcomer information in vairous format [https://www.ietf.org/about/participate/get-started/], in this document we try to cover as much as possible in one place. 
+Of course, it's true that many IETF participants don't go to the face-to-face
+meetings at all - especially since the COVID-19 pandemic when meetings when
+completely online for a while. There also also many participants that solely
+focus on the mailing lists of various IETF Working Groups. Since the inner
+workings of Working Groups can be hard for newcomers to understand, this
+document provides the mundane bits of information that newcomers will need in
+order to become active participants. The IETF website also has a lot of
+<a href="https://www.ietf.org/about/participate/get-started/">newcomer
+information</a> in various formats.
+Tn this document we try to cover as much as possible in one place.
 
-The IETF is always in a state of change. Although the principles in this document are expected to remain largely the same over time, practical details may well have changed by the time you read it; for example, a web-based tool may have replaced an email address for requesting some sort of action.
+The IETF is always evolving.  Although the principles in this document are
+expected to remain consistent over time, practical details may well
+have changed by the time you read it; for example, a web-based tool may have
+replaced an email address for requesting some sort of action.
 
-Many types of IETF documentation are mentioned in the Tao, from BCPs to RFCs and STDs. The IETF publishes its technical documentation as RFCs, politely known as "Requests for Comments"; and STDs are RFCs identified as "standards". BCPs are the community's best current think about Best Current Practices in the Internet and are also RFCs; All three types of documents are in the RFC document series; see Section 6 for more information.
+Many types of IETF documentation are mentioned here.  The IETF publishes its
+technical documentation as RFCs, still known by their historical term
+<em>Requests for Comments</em>.  (Sometimes people joke that it stands for
+<em>Request for Compliance</em>.) STDs are RFCs identified as "standards."
+and BCPs are RFCs that represent thoughts on Best Current Practices in the
+Internet. Both STDs and BCPs are also RFCs.  For example, <a
+href="https://www.rfc-editor.org/info/bcp9">BCP 9</a> points to a collection
+of RFCs that describe the IETF's standardization processes.
+See <a href="#rfcs">RFCs and Internet-Drafts</a> for more details.
 
-1.1 Acronyms and Abbreviations Used in the Tao
+## 1.1 Acronyms and Abbreviations Used in the Tao
 
 Some of the acronyms and abbreviations from this document are listed below.
 
 <div class="block-table">
-<table><thead>
-<tr><th>
-Term
-</th><th>
-Meaning
-</th></tr>
-</thead><tbody><tr>
-<td>
-AD
-</td><td>
-Area Director
-</td>
-</tr>
-<tr>
-<td>
-BCP
-</td><td>
-Best Current Practice (a type of RFC)
-</td>
-</tr>
-<tr>
-<td>
-BOF
-</td><td>
-Birds of a Feather
-</td>
-</tr>
-<tr>
-<td>
-FAQ
-</td><td>
-Frequently Asked Question(s)
-</td>
-</tr>
-<tr>
-<td>
-FYI
-</td><td>
-For Your Information (a type of RFC)
-</td>
-</tr>
-<tr>
-<td>
-IAB
-</td><td>
-Internet Architecture Board
-</td>
-</tr>
-<tr>
-<td>
-IAD
-</td><td>
-IETF Administrative Director
-</td>
-</tr>
-<tr>
-<td>
-IANA
-</td><td>
-Internet Assigned Numbers Authority
-</td>
-</tr>
-<tr>
-<td>
-IAOC
-</td><td>
-IETF Administrative Oversight Committee
-</td>
-</tr>
-<tr>
-<td>
-IASA
-</td><td>
-IETF Administrative Support Activity
-</td>
-</tr>
-<tr>
-<td>
-ICANN
-</td><td>
-Internet Corporation for Assigned Names and Numbers
-</td>
-</tr>
-<tr>
-<td>
-I-D
-</td><td>
-Internet-Draft
-</td>
-</tr>
-<tr>
-<td>
-IESG
-</td><td>
-Internet Engineering Steering Group
-</td>
-</tr>
-<tr>
-<td>
-IPR
-</td><td>
-Intellectual property rights
-</td>
-</tr>
-<tr>
-<td>
-IRTF
-</td><td>
-Internet Research Task Force
-</td>
-</tr>
-<tr>
-<td>
-ISOC
-</td><td>
-Internet Society
-</td>
-</tr>
-<tr>
-<td>
-RFC
-</td><td>
-Request for Comments
-</td>
-</tr>
-<tr>
-<td>
-STD
-</td><td>
-Standard (a type of RFC)
-</td>
-</tr>
-<tr>
-<td>
-WG
-</td><td>
-Working Group
-</td>
-</tr>
+<table>
+<thead><tr><th>Term</th><th>Meaning</th></tr></thead>
+<tbody>
+<tr><td>AD</td><td>Area Director</td></tr>
+<tr><td>BCP</td><td>Best Current Practice (a type of RFC)</td></tr>
+<tr><td>BOF</td><td>Birds of a Feather</td></tr><tr>
+<tr><td>IAB</td><td>Internet Architecture Board</td></tr>
+<tr><td>IANA</td><td>Internet Assigned Numbers Authority</td></tr>
+<tr><td>IAOC</td><td>IETF Administrative Oversight Committee</td></tr>
+<tr><td>IASA</td><td>IETF Administrative Support Activity</td></tr>
+<tr><td>ICANN</td>
+  <td>Internet Corporation for Assigned Names and Numbers</td></tr>
+<tr><td>I-D</td><td>Internet-Draft</td></tr>
+<tr><td>IESG</td><td>Internet Engineering Steering Group</td></tr>
+<tr><td>IPR</td><td>Intellectual property rights</td></tr>
+<tr><td>IRTF</td><td>Internet Research Task Force</td></tr>
+<tr><td>ISOC</td><td>Internet Society</td></tr>
+<tr><td>RFC</td><td>Request for Comments</td></tr>
+<tr><td>STD</td><td>Standard (a type of RFC)</td></tr>
+<tr><td>WG</td><td>Working Group</td></tr>
 </tbody>
 </table>
 </div>
@@ -327,7 +240,7 @@ Remote participation in IETF meetings has been growing significantly in the past
 
 The Internet Society (ISOC) is an international, non-profit, membership organization that supports and promotes the development of the Internet as a global technical infrastructure. The mission of ISOC is "to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world.". One of the ways that ISOC does this is through support of the IETF.
 
-Starting in spring 2005, the ISOC became home base for the IETF's directly employed administrative staff. This is described in more detail in <a href="https://tools.ietf.org/html/bcp101">BCP 101</a>, "Structure of the IETF Administrative Support Activity (IASA)". The staff included only an Administrative Director (IAD) who worked full-time overseeing IETF meeting planning, operational aspects of support services (the secretariat, IANA (the Internet Assigned Numbers Authority), and the RFC Editor, which are described later in this section), and the budget. The IAD led the IETF Administrative Support Activity (IASA), which took care of tasks such as collecting meeting fees and paying invoices, and also supports the tools for the work of IETF working groups, the IESG, the IAB, and the IRTF (more about these later in this section).
+Starting in spring 2005, the ISOC became home base for the IETF's directly employed administrative staff. This is described in more detail in <a href="https://tools.ietf.org/html/bcp101">BCP 101</a>, "Structure of the IETF Administrative Support Activity (IASA)". The staff included only an Executive Director (ED) who worked full-time overseeing IETF meeting planning, operational aspects of support services (the secretariat, IANA (the Internet Assigned Numbers Authority), and the RFC Editor, which are described later in this section), and the budget. The ED led the IETF Administrative Support Activity (IASA), which took care of tasks such as collecting meeting fees and paying invoices, and also supports the tools for the work of IETF working groups, the IESG, the IAB, and the IRTF (more about these later in this section).
 
 Recently, based on discussions within the IASA2 working group, the <a href="https://www.ietf.org/llc/">IETF Administration LLC</a> has been created as a disregarded entity of the Internet Society (i.e., it is treated as a branch or division for tax purposes). It has no role in the oversight or steering of the standards process as currently conducted by the IESG and IAB, the appeal chain, the confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's memberships in other organizations. The responsibilities of the IETF LLC include:
 
