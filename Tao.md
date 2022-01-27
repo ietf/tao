@@ -1,18 +1,46 @@
-Niels ten Oever, Editor
 
-About This Document
+# About This Document
 
-This is the upcoming revision of the Tao which can be found at [http://www.ietf.org/tao-possible-revision.html]
+The current version of this web page can always be found at
+<a href="https://www.ietf.org/tao.html">https://www.ietf.org/tao.html</a>.
+To contribute to this document or to discuss its content, please join the
+<a href="https://www.ietf.org/mailman/listinfo/tao-discuss">tao-discuss</a> mailing list.
+This document is maintained on-line at <a href="https://github.com/ietf/tao">https://github.com/ietf/tao</a>.
+The current editor is Niels ten Oever.
 
-The current version of this web page can always be found at [https://www.ietf.org/tao.html]. To contribute to this document or to discuss its content, please join the "tao-discuss" mailing list [https://www.ietf.org/mailman/listinfo/tao-discuss]. A history of the major versions of the Tao can be found here. This particular version was created on 2018-11-08.
+This web page is in English. There is a <a href="https://www.ietf.org/about/participate/tao/tao-translations/">list of translations</a> available.
 
-This web page is in English. There is a list of translations of the Tao of the IETF.
+This web page is a continuation of the series of the "Tao of the IETF" RFCs,
+first published in 1994 and written by Gary Malkin.  In 2012,
+<a href="https://tools.ietf.org/html/rfc6722">RFC 6722</a> changed it from an
+RFC document to a web page.
 
+So, why "the Tao"? Pronounced "dow," Tao is the basic principle behind the
+teachings of Lao-tse, a Chinese master. Its familiar symbol is the
+black-and-white yin-yang circle. Taoism conceives the universe as a single
+organism, and human beings as interdependent parts of a cosmic whole. Tao is
+sometimes translated "the way", but according to Taoist philosophy the true
+meaning of the word cannot be expressed in words.
 
-Abstract
-This document introduces you to the 'ways of the IETF': it will convey the might and magic of networking people and packets in the Internet's most prominent standards body. Underneath we describe the inner workings of IETF meetings and Working Groups, discuss organizations related to the IETF, and introduce the standards process. This is not a formal IETF process document but an informal and informational overview.
+# Abstract
 
-Table of Contents
+This document introduces you to the "ways of the IETF": it will convey the
+might and magic of networking people and packets in the Internet's most
+prominent standards body. In this document we describe the inner workings of
+IETF meetings and Working Groups, discuss organizations related to the IETF,
+and introduce the standards process. This is not a formal IETF process
+document but an informal and informational overview.
+
+This document describes many aspects of the IETF. with the goal of explaining
+to newcomers how the IETF works. This will enable them to make meetings and
+the Working Group discussions more productive for everyone. This document
+started out fairly short, but expanded over time in response to feedback from
+IETF newcomers about additional information they would have wanted to know
+before attending their first face-to-face meeting or becoming active in their
+first Working Group.
+
+# Table of Contents
+
 1. <a href="#introduction">Introduction</a><br>
 1.1 Acronyms and Abbreviations Used in the Tao<br>
 <br>
@@ -82,9 +110,7 @@ Table of Contents
 8.1 IETF and Other Standards Groups<br>
 8.2 Press Coverage of the IETF<br>
 <br>
-9. <a href="#security">Security Considerations</a><br>
-<br>
-10. <a href="#references">Informative References</a><br>
+9. <a href="#references">Informative References</a><br>
 <br>
 Appendices<br>
 A. IETF Guiding Principles<br>
@@ -98,17 +124,11 @@ A.4 Working Groups<br>
 
 The Internet Engineering Taskfore (IETF) is the largest standard developing organization (SDO) for the Internet. Since its early years, participation in the Internet Engineering Task Force (IETF) has grown phenomenally. In-person attendance at face-to-face meetings is now averaging between 1000 and 1400 participants [https://datatracker.ietf.org/stats/meeting/overview/]. Many of the attendees are new to the IETF at each meeting, and many of those go on to become regular participants. When the IETF was smaller, it was relatively easy for a newcomer to adjust. Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought-provoking email messages.
 
-This document describes many aspects of the IETF, with the goal of explaining to newcomers how the IETF works. This will enable them to make meetings and the Working Group discussions more productive for everyone. This document started out fairly short, but expanded over time in response to suggestions from IETF newcomers about what more they would have wanted to know before attending their first face-to-face meeting or becoming active in their first Working Group.
-
 Of course, it's true that many IETF participants don't go to the face-to-face meetings at all - especially since the COVID-19 pandemic when meetings when completely online for a while. There also also many participants that solely focus on the mailing lists of various IETF Working Groups. Since the inner workings of Working Groups can be hard for newcomers to understand, this document provides the mundane bits of information that newcomers will need in order to become active participants. The IETF website also holds a lot of accessible newcomer information in vairous format [https://www.ietf.org/about/participate/get-started/], in this document we try to cover as much as possible in one place. 
 
 The IETF is always in a state of change. Although the principles in this document are expected to remain largely the same over time, practical details may well have changed by the time you read it; for example, a web-based tool may have replaced an email address for requesting some sort of action.
 
 Many types of IETF documentation are mentioned in the Tao, from BCPs to RFCs and STDs. The IETF publishes its technical documentation as RFCs, politely known as "Requests for Comments"; and STDs are RFCs identified as "standards". BCPs are the community's best current think about Best Current Practices in the Internet and are also RFCs; All three types of documents are in the RFC document series; see Section 6 for more information.
-
-This web page is a continuation of the series of the "Tao of the IETF" RFCs. See <a href="https://tools.ietf.org/html/rfc6722">RFC 6722</a> for an explanation of how the last RFC in that series became this web page. This web-based version of the Tao is based on <a href="https://tools.ietf.org/html/rfc4677">RFC 4677</a>, was co-authored by Paul Hoffman and Susan Harris. The original version of this document, published in 1994, was written by Gary Malkin.
-
-So, why "the Tao"? Pronounced "dow", Tao is the basic principle behind the teachings of Lao-tse, a Chinese master. Its familiar symbol is the black-and-white yin-yang circle. Taoism conceives the universe as a single organism, and human beings as interdependent parts of a cosmic whole. Tao is sometimes translated "the way", but according to Taoist philosophy the true meaning of the word cannot be expressed in words.
 
 1.1 Acronyms and Abbreviations Used in the Tao
 
@@ -950,13 +970,8 @@ Reporters who want to find out about "what the IETF is doing" on a particular to
 
 Reporters looking for information about the IETF, or pointers to IETF participants working on a particular topic relevant to the IETF, are encouraged to send email to media@ietf.org. Replies are usually sent within a day. Even if a direct answer to a particular query is not available, pointers to resources or people who can provide more information about a topic are often provided.
 
-<a name="security"></a>
-9. Security Considerations
-
-Section 6.4.4 explains why each RFC is required to have a Security Considerations section and gives some idea of what it should and should not contain. Other than that information, this document does not touch on Internet security.
-
 <a name="references"></a>
-10. Informative References
+9. Informative References
 
 [BCP9](https://tools.ietf.org/html/bcp9) Bradner, S., “The Internet Standards Process -- Revision 3”, BCP 9, RFC 2026, RFC 6410, October 1996.
 
