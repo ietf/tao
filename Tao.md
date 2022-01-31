@@ -5,10 +5,12 @@ The current version of this web page can always be found at
 <a href="https://www.ietf.org/tao.html">https://www.ietf.org/tao.html</a>.
 To contribute to this document or to discuss its content, please join the
 <a href="https://www.ietf.org/mailman/listinfo/tao-discuss">tao-discuss</a> mailing list.
-This document is maintained on-line at <a href="https://github.com/ietf/tao">https://github.com/ietf/tao</a>.
+This document is maintained on-line at
+<a href="https://github.com/ietf/tao">https://github.com/ietf/tao</a>.
 The current editor is Niels ten Oever.
 
-This web page is in English. There is a <a href="https://www.ietf.org/about/participate/tao/tao-translations/">list of translations</a> available.
+This web page is in English. There is a
+<a href="https://www.ietf.org/about/participate/tao/tao-translations/">list of translations</a> available.
 
 This web page is a continuation of the series of the "Tao of the IETF" RFCs,
 first published in 1994 and written by Gary Malkin.  In 2012,
