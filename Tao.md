@@ -175,48 +175,128 @@ Some of the acronyms and abbreviations from this document are listed below.
 </div>
 
 <a name="what"></a>
+# What is the IETF?
 
-## 2. What is the IETF?
+The IETF has no members and no dues;
+it is a loosely self-organized group of people who contribute to the
+engineering and evolution of Internet technologies. It is the principal body
+engaged in the development of new Internet standard specifications. The IETF
+is unusual in that it exists as a collection of meetings (both in-person
+online) and on-line activities (such as email and pull request discussions),
+in which individuals voluntarily participate.
 
-The IETF is a loosely self-organized group of people who contribute to the engineering and evolution of Internet technologies. It is the principal body engaged in the development of new Internet standard specifications. The IETF is unusual in that it exists as a collection of happenings, online and in-person, in which individuals voluntarily participate. It has no members, and no dues; see <a href="https://tools.ietf.org/html/rfc3935">RFC 3935</a>, "A Mission Statement for the IETF", for more detail.
+IETF welcomes all interested individuals: IETF participants come from all
+over the world and from many different parts of the Internet industry. The
+IETF conducts its work solely in English.
+See <a href="#where-do-i-fit-in">Where do I fit in?</a>
+for information about the ways that many people
+fit into the IETF.
 
-Its mission includes the following:
+Quoting from <a href="https://tools.ietf.org/html/rfc3935">
+RFC 3935: A Mission Statement for the IETF</a>,
+"the overall goal of the IETF is to make the Internet work better.
+Its mission is to produce high quality, relevant
+technical and engineering documents that influence the way people
+design, use, and manage the Internet in such a way as to make the
+Internet work better.  These documents include protocol standards,
+best current practices, and informational documents of various kinds."
 
-    - Identifying and proposing solutions to pressing operational and technical problems in the Internet
-    - Specifying the development or usage of protocols and the near-term architecture to solve such technical problems for the Internet
-    - Making recommendations to the Internet Engineering Steering Group (IESG) regarding the standardization of protocols and protocol usage in the Internet
-    - Facilitating technology transfer from the Internet Research Task Force (IRTF) to the wider Internet community
-    - Providing a forum for the exchange of information within the Internet community between vendors, users, researchers, agency contractors, operators, and network managers
+The ways to do that include the following:
 
-The IETF mission further states that the Internet isn't value-neutral, and neither is the IETF.  The IETF wants the Internet to be useful for communities that share our commitment to openness and fairness. The IETF embraces technical concepts such as decentralized control, edge-user empowerment and sharing of resources, because those concepts resonate with the core values of the IETF community.  These concepts have little to do with the technology that's possible, and much to do with the technology that we choose to create.
+ - Identifying and proposing solutions to pressing operational and
+   technical problems in the Internet.
+ - Specifying the development or usage of protocols and the near-term
+   architecture to solve such technical problems for the Internet.
+ - Making recommendations to the Internet Engineering Steering Group
+   (IESG) regarding the standardization of protocols and protocol usage
+   in the Internet.
+ - Facilitating technology transfer from the Internet Research Task
+   Force (IRTF) to the wider Internet community.
+ - Providing a forum for the exchange of information within the Internet
+   community among vendors, users, researchers, agency contractors,
+   operators, and network managers.
 
-The IETF meeting is not a conference, although there are technical presentations. The IETF is not a traditional standards organization, although many specifications that are produced become standards. The IETF is made up of volunteers, many of whom meet three times a year to fulfill the IETF mission.
+RFC 3935 further states that the Internet isn't value-neutral, and
+neither is the IETF.  The IETF wants the Internet to be useful for
+communities that share our commitment to openness and fairness. The IETF
+embraces technical concepts such as decentralized control, edge-user
+empowerment and sharing of resources, because those concepts resonate with
+the core values of the IETF community.  These concepts have little to do with
+the technology that's possible, and much to do with the technology that the
+IETF chooses to create.
 
-There is no membership in the IETF. Anyone may sign up to working group mailing lists, or register for a meeting and then attend. The closest thing there is to being an IETF member is being a participant on the IETF or Working Group mailing lists (see Section 2.3). This is where the best information about current IETF activities and focus can be found.
+In many ways, the IETF runs on the beliefs of its participants. One of the
+founding beliefs is embodied in an early quote about the IETF from David
+Clark: "We reject kings, presidents and voting. We believe in rough consensus
+and running code." Another early quote that has become a commonly-held belief
+in the IETF comes from Jon Postel: "Be conservative in what you send and
+liberal in what you accept".
 
-Of course, no organization can be as successful as the IETF is without having some sort of structure. In the IETF's case, that structure is provided by other supporting organizations, as described in <a href="https://tools.ietf.org/html/rfc2028">RFC 2028</a>, "The Organizations Involved in the IETF Standards Process". 
+There is no membership in the IETF. Anyone may sign up to working group
+mailing lists, or register for a meeting and then attend. The closest thing
+there is to being an IETF member is being a participant on the IETF or
+Working Group <a href="#mail-lists">mailing lists</a>. This is where the best
+information about current IETF activities and focus can be found.
 
-The <a href="https://www.ietf.org">IETF web site</a> is the best source for information about upcoming IETF meetings, newcomer materials. The IETF <a href="https://datatracker.ietf.org/">Datatracker</a> is the best source for information about Internet-Drafts, RFCs, and Working Groups.
+Of course, no organization can be as successful as the IETF is without having
+some sort of structure. In the IETF's case, that structure is provided by
+other supporting organizations, as described in
+<a href="https://tools.ietf.org/html/rfc2028">RFC 2028: The Organizations
+Involved in the IETF Standards Process</a>.
+Please note that RFC 2028 is outdated and being revised.
 
-In many ways, the IETF runs on the beliefs of its participants. One of the "founding beliefs" is embodied in an early quote about the IETF from David Clark: "We reject kings, presidents and voting. We believe in rough consensus and running code". Another early quote that has become a commonly-held belief in the IETF comes from Jon Postel: "Be conservative in what you send and liberal in what you accept".
+The <a href="https://www.ietf.org">IETF web site</a> is the best source for
+information about upcoming IETF meetings and newcomer materials. The IETF
+<a href="https://datatracker.ietf.org/">Datatracker</a> is the best source for
+information about Internet-Drafts, RFCs, and Working Groups.
 
-The IETF is really about its participants. IETF welcomes all interested individuals: IETF participants come from all over the world and from many different parts of the Internet industry. The IETF conducts its work solely in English. See Section 3.12 for information about the ways that many people fit into the IETF.
+One more thing that is important for newcomers: the IETF in no way "runs the
+Internet," despite what some people mistakenly might say. The IETF makes
+voluntary standards that are often adopted by Internet users, network
+operators, and equipment vendors, and it thus helps shape the trajectory of
+the development of the Internet. But in no way does the IETF control, or even
+patrol, the Internet. If your interest in the IETF is because you want to be
+part of the overseers, you may be badly disappointed by the IETF.
+A saying you will sometimes hear is "we are not the protocol police."
 
-One more thing that is important for newcomers: the IETF in no way "runs the Internet", despite what some people mistakenly might say. The IETF makes voluntary standards that are often adopted by Internet users, network operators, and equipment vendors, and it thus helps shape the trajectory of the development of the Internet. But in no way does the IETF control, or even patrol, the Internet. If your interest in the IETF is because you want to be part of the overseers, you may be badly disappointed by the IETF.
+## Humble Beginnings
 
-### 2.1 Humble Beginnings
+The first IETF meeting was held in January 1986 at Linkabit in San Diego,
+with 21 attendees. The 4th IETF, held at SRI in Menlo Park in October 1986,
+was the first that equipment vendors attended. The concept of Working Groups
+was introduced at the 5th IETF meeting at the NASA Ames Research Center in
+California in February 1987. The 7th IETF, held at MITRE in McLean, Virginia,
+in July 1987, was the first meeting with more than 100 attendees.
 
-The first IETF meeting was held in January 1986 at Linkabit in San Diego, with 21 attendees. The 4th IETF, held at SRI in Menlo Park in October 1986, was the first that equipment vendors attended. The concept of Working Groups was introduced at the 5th IETF meeting at the NASA Ames Research Center in California in February 1987. The 7th IETF, held at MITRE in McLean, Virginia, in July 1987, was the first meeting with more than 100 attendees.
+After the Internet Society (ISOC) was formed in January 1992, the IAB
+proposed to ISOC that the IAB's activities should take place under the
+auspices of the Internet Society. During INET92 in Kobe, Japan, the ISOC
+Trustees approved a new charter for the IAB to reflect the proposed
+relationship.
 
-The 14th IETF meeting was held at Stanford University in July 1989. It marked a major change in the structure of the IETF universe. The structure of the IAB (then the Internet Activities Board, now the Internet Architecture Board), which until that time oversaw many "task forces", was changed, leaving it with only two: the IETF and the IRTF. The IRTF is tasked to consider long-term research problems in the Internet. The IETF also changed at that time.
+The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first
+IETF meeting held in Europe, and the US/non-US attendee split was nearly
+50/50. The IETF first met in Oceania (in Adelaide, Australia) in 2000, the
+first meeting in Asia (in Yokohama, Japan) was in 2002, and the first meeting
+in Latin America (in Buenos Aires, Agentina) was in 2002. So far, the IETF
+has never met in Africa.
 
-After the Internet Society (ISOC) was formed in January 1992, the IAB proposed to ISOC that the IAB's activities should take place under the auspices of the Internet Society. During INET92 in Kobe, Japan, the ISOC Trustees approved a new charter for the IAB to reflect the proposed relationship.
+The IETF currently has a "1-1-1" meeting policy where the goal is to
+distribute the meetings equally between North America, Europe, and Asia.
+This policy is mainly aimed at distributing the travel effort for the
+existing IETF participants who physically attend meetings and for
+distributing the timezone difficulty for those who participate remotely. The
+IETF has also met in Latin America and Oceania, but these continents are
+currently not part of the 1-1-1 rotation schedule.
+More information on picking the venue and the meeting policy can be found
+in <a href="https://tools.ietf.org/html/rfc8718">RFC 8718: IETF Plenary
+Meeting Venue Selection Process</a>
+and <a href="https://tools.ietf.org/html/rfc8719">RFC 8719: High-Level
+Guidance for the Meeting Policy of the IETF</a>.
 
-The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first IETF meeting held in Europe, and the US/non-US attendee split was nearly 50/50. The IETF first met in Oceania (in Adelaide, Australia) in 2000, the first meeting in Asia (in Yokohama, Japan) was in 2002, and the first meeting in Latin America (in Buenos Aires, Agentina) was in 2002. The IETF never met in Africa. 
-
-The IETF currently strives to have a 1-1-1 meeting policy where the goal is to distribute the meetings equally between North America, Europe, and Asia.  These are the locations most of the IETF participants have come from in the recent past.  <a href="https://tools.ietf.org/html/draft-ietf-mtgvenue-meeting-policy-07">The meeting rotation policy</a> is mainly aimed at distributing the travel effort for the existing IETF participants who physically attend meetings and for distributing the timezone difficulty for those who participate remotely. The IETF has also met in Latin America and Oceania, but these continents are currently not part of the 1-1-1 rotation schedule. 
-
-Remote participation in IETF meetings has been growing significantly in the past few years, thanks in part to the ongoing effort to improve the tools and processes used to faciliate this mode participation.
+Remote participation in IETF meetings has been growing significantly in the
+past few years, thanks in part to the ongoing effort to improve the tools and
+processes used to faciliate this mode participation.
 
 ### 2.2 The Hierarchy
 
@@ -355,7 +435,8 @@ There are a few people who are paid to maintain the IETF. The IETF Secretariat p
 
 Near the end of 2005, the IETF Trust was set up to hold and license the intellectual property of the IETF. The reason the IETF Trust was set up is that someone has to hold intellectual property, and that someone should be a stable, legally-identifiable entity. Few IETF participants come into contact with the IETF Trust, which is a good sign that they are quietly doing their job. You can find out more about the IETF trust at their <a href="https://trustee.ietf.org">web site</a>.
 
-### 2.3 IETF Mailing Lists
+<a name="mail-lists">
+2.3 IETF Mailing Lists
 
 Anyone who plans to participate in the IETF, including attending an IETF meeting, should join the IETF announcement mailing list (see [https://www.ietf.org/mailman/listinfo/IETF-Announce]). This is where all of the meeting information, RFC announcements, and IESG Protocol Actions and Last Calls are posted. People who would like to "get technical" may also join the IETF general discussion list (see [https://www.ietf.org/mailman/listinfo/ietf]). This is where general discussions are held (Working Groups have their own mailing lists for discussions related to their work). Another mailing list announces each new version of every Internet-Draft as it is published (see [https://www.ietf.org/mailman/listinfo/I-D-Announce]).
 
@@ -527,6 +608,7 @@ During registration you will also be offered to be linked to a mentor. This is a
 
 You'll find more about the emodir at [https://datatracker.ietf.org/group/emodir/about].
 
+<a name="where-do-i-fit-in">
 ### 3.12 Where Do I Fit In?
 
 The IETF is different things to different people. There are many people who have been very active in the IETF who have never attended an IETF meeting. You should not feel obligated to come to an IETF meeting just to get a feel for the IETF. If you however decide to come, RFC4144 provides some pointers on how to make your meeting a success [https://tools.ietf.org/html/rfc4144]. The following guidelines (based on stereotypes of people in various industries) might help you decide whether you actually want to come and, if so, what might be the best use of your time at your first meeting.
