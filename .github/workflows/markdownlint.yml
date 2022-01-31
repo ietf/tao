@@ -24,7 +24,8 @@ jobs:
               "MD033": false,
               "MD034": false,
               "MD040": false,
-              "MD041": false
+              "MD041": false,
+              "MD013": false
             }
         EOF
         fi

@@ -120,8 +120,7 @@ A.3 Process<br>
 A.4 Working Groups<br>
 <br>
 
-<a name="introduction"></a>
-# 1. Introduction
+# <a name="introduction">1. Introduction</a>
 
 The Internet Engineering Taskforce (IETF) is the largest standard development
 organization (SDO) for the Internet. Since its early years, participation in
@@ -210,7 +209,7 @@ The IETF meeting is not a conference, although there are technical presentations
 
 There is no membership in the IETF. Anyone may sign up to working group mailing lists, or register for a meeting and then attend. The closest thing there is to being an IETF member is being a participant on the IETF or Working Group mailing lists (see Section 2.3). This is where the best information about current IETF activities and focus can be found.
 
-Of course, no organization can be as successful as the IETF is without having some sort of structure. In the IETF's case, that structure is provided by other supporting organizations, as described in <a href="https://tools.ietf.org/html/rfc2028">RFC 2028</a>, "The Organizations Involved in the IETF Standards Process". 
+Of course, no organization can be as successful as the IETF is without having some sort of structure. In the IETF's case, that structure is provided by other supporting organizations, as described in <a href="https://tools.ietf.org/html/rfc2028">RFC 2028</a>, "The Organizations Involved in the IETF Standards Process".
 
 The <a href="https://www.ietf.org">IETF web site</a> is the best source for information about upcoming IETF meetings, newcomer materials. The IETF <a href="https://datatracker.ietf.org/">Datatracker</a> is the best source for information about Internet-Drafts, RFCs, and Working Groups.
 
@@ -228,9 +227,9 @@ The 14th IETF meeting was held at Stanford University in July 1989. It marked a 
 
 After the Internet Society (ISOC) was formed in January 1992, the IAB proposed to ISOC that the IAB's activities should take place under the auspices of the Internet Society. During INET92 in Kobe, Japan, the ISOC Trustees approved a new charter for the IAB to reflect the proposed relationship.
 
-The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first IETF meeting held in Europe, and the US/non-US attendee split was nearly 50/50. The IETF first met in Oceania (in Adelaide, Australia) in 2000, the first meeting in Asia (in Yokohama, Japan) was in 2002, and the first meeting in Latin America (in Buenos Aires, Agentina) was in 2002. The IETF never met in Africa. 
+The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first IETF meeting held in Europe, and the US/non-US attendee split was nearly 50/50. The IETF first met in Oceania (in Adelaide, Australia) in 2000, the first meeting in Asia (in Yokohama, Japan) was in 2002, and the first meeting in Latin America (in Buenos Aires, Agentina) was in 2002. The IETF never met in Africa.
 
-The IETF currently strives to have a 1-1-1 meeting policy where the goal is to distribute the meetings equally between North America, Europe, and Asia.  These are the locations most of the IETF participants have come from in the recent past.  <a href="https://tools.ietf.org/html/draft-ietf-mtgvenue-meeting-policy-07">The meeting rotation policy</a> is mainly aimed at distributing the travel effort for the existing IETF participants who physically attend meetings and for distributing the timezone difficulty for those who participate remotely. The IETF has also met in Latin America and Oceania, but these continents are currently not part of the 1-1-1 rotation schedule. 
+The IETF currently strives to have a 1-1-1 meeting policy where the goal is to distribute the meetings equally between North America, Europe, and Asia.  These are the locations most of the IETF participants have come from in the recent past.  <a href="https://tools.ietf.org/html/draft-ietf-mtgvenue-meeting-policy-07">The meeting rotation policy</a> is mainly aimed at distributing the travel effort for the existing IETF participants who physically attend meetings and for distributing the timezone difficulty for those who participate remotely. The IETF has also met in Latin America and Oceania, but these continents are currently not part of the 1-1-1 rotation schedule.
 
 Remote participation in IETF meetings has been growing significantly in the past few years, thanks in part to the ongoing effort to improve the tools and processes used to faciliate this mode participation.
 
@@ -321,7 +320,6 @@ Transport for large volumes of traffic at potentially high bandwidths
 </table>
 </div>
 
-
 Because the IESG is reviewing all Internet-Drafts before they become RFCs, Area Directors have quite a bit of influence. Some people therefore shy away from directly engaging with Area Directors, whereas they can be an important resource and help you find the person or the answer that you're looking for. At a meeting they might be very busy. Email to schedule a meeting is a great way to get in touch. Emailing with the actual question before or after a meeting is effective as well.
 
 The ADs for a particular Area are expected to know more about the combined work of the WGs in that Area than anyone else.  This is because the ADs actively follow the working groups for which they are responsible and assist working groups and chairs with charter and milestone reviews. The entire IESG reviews each Internet-Draft that is proposed to become an RFC and should be aware of general trends that can be gleaned from the collective work products of the IETF. As part of the document reviews, ADs place ballots that may contain comments on documents.  The AD enters a position that may be YES, NO OBJECTION, DISCUSS, ABSTAIN, or RECUSE as the result of their review.  Any AD may record a "DISCUSS" ballot position against a draft if he or she has serious concerns and would like to discuss these concerns. It is quite common for documents to be approved with one or two "YES" ballots, and the majority of the remaining IESG balloting "NO OBJECTION.".
@@ -351,7 +349,7 @@ Like the IESG, the IAB members are selected for two-year positions by the NomCom
 
 2.2.4 IANA (Internet Assigned Numbers Authority)
 
-The core registrar for the IETF's activities is the IANA (see https://www.iana.org). Many Internet protocols require that someone keep track of protocol items that were added after the protocol came out. Typical examples of the kinds of registries needed are for TCP port numbers and MIME types. The IAB has designated the IANA organization to perform these tasks, and the IANA's activities are financially supported by ICANN, the Internet Corporation for Assigned Names and Numbers. The IAB selected ICANN, and the IANA activities are provided for free as specified in <a href="https://tools.ietf.org/html/rfc2860">RFC 2860</a>. 
+The core registrar for the IETF's activities is the IANA (see https://www.iana.org). Many Internet protocols require that someone keep track of protocol items that were added after the protocol came out. Typical examples of the kinds of registries needed are for TCP port numbers and MIME types. The IAB has designated the IANA organization to perform these tasks, and the IANA's activities are financially supported by ICANN, the Internet Corporation for Assigned Names and Numbers. The IAB selected ICANN, and the IANA activities are provided for free as specified in <a href="https://tools.ietf.org/html/rfc2860">RFC 2860</a>.
 The IETF is no longer involved in the IANA's domain name and IP address assignment functions, which are overseen by ICANN.
 
 Even though being a registrar may not sound interesting, many IETF participants will testify to how important IANA has been for the Internet. Having a stable, long-term repository run by careful and conservative operators makes it much easier for people to experiment without worrying about messing things up. IANA early maintainers, Jon Postel and Joyce Reynolds, were heavily relied upon to keep things in order while the Internet kept growing by leaps and bounds.
@@ -385,7 +383,7 @@ Even though the IETF mailing lists "represent" the IETF participants at large, i
 <a name="meetings"></a>
 3. IETF Meetings
 
-The computer industry is rife with conferences, seminars, expositions, and all manner of other kinds of meetings. IETF face-to-face meetings are not like these. The meetings, held three times a year, are week-long gatherings whose primary goal is to reinvigorate the WGs to get their tasks done, and whose secondary goal is to promote a fair amount of mixing between the WGs and the Areas. 
+The computer industry is rife with conferences, seminars, expositions, and all manner of other kinds of meetings. IETF face-to-face meetings are not like these. The meetings, held three times a year, are week-long gatherings whose primary goal is to reinvigorate the WGs to get their tasks done, and whose secondary goal is to promote a fair amount of mixing between the WGs and the Areas.
 
 For many people, IETF meetings are a breath of fresh air when compared to the standard computer industry conferences. There is no exposition hall, few tutorials, and no big-name industry pundits. Instead, there is lots of work, as well as a fair amount of time for socializing for many participants. IETF meetings are of little interest to sales and marketing folks, but of high interest to engineers and developers.
 
@@ -409,7 +407,7 @@ If you are participating in an IETF meeting for the first time, you might also c
 
 The Sunday is an excellent day to join the meeting, unless you already joined us during the hackathon on Saturday. Sunday is the day for the newcomer's tutorial, as well the Quick Connections session where newcomers get to meet with experienced IETF participants and the Newcomer's Meet and Greet where newcomers can meet Area Directors and Working Group Chairs. After these sessions there is the reception which is a popular event where you can get a small bite to eat and socialize with other attendees.
 
-Before you register, you see a web page titled "Note Well". You should indeed read it carefully because it lays out the rules for IETF intellectual property rights. <a href="https://www.ietf.org/about/note-well/">The Note Well</a> points to the supporting documentation for IPR, anti-harassment, and other important guiding policies for the IETF. 
+Before you register, you see a web page titled "Note Well". You should indeed read it carefully because it lays out the rules for IETF intellectual property rights. <a href="https://www.ietf.org/about/note-well/">The Note Well</a> points to the supporting documentation for IPR, anti-harassment, and other important guiding policies for the IETF.
 
 If you need to leave messages for other attendees, you can do so at the cork boards that are often near the registration desk. These cork boards will also have last-minute meeting changes and room changes.
 
@@ -537,7 +535,7 @@ A map showing the room locations are also shown on the agenda. Room assignments 
 
 3.11 emodir to the Rescue
 
-If certain aspects of the IETF still mystify you (even after you finish reading the Tao), you'll want to drop in on the on-site training offered by the Education, Mentoring, and Outreach (emodir) team. These informal classes are designed for newcomers and seasoned IETFers alike. In addition to the Newcomer Training, the emodir team offers in-depth tutorials that are indispensable for both newcomers and longtime IETF attendees. emodir sessions are generally held on Sunday afternoons and are posted to watch later as well. 
+If certain aspects of the IETF still mystify you (even after you finish reading the Tao), you'll want to drop in on the on-site training offered by the Education, Mentoring, and Outreach (emodir) team. These informal classes are designed for newcomers and seasoned IETFers alike. In addition to the Newcomer Training, the emodir team offers in-depth tutorials that are indispensable for both newcomers and longtime IETF attendees. emodir sessions are generally held on Sunday afternoons and are posted to watch later as well.
 
 During registration you will also be offered to be linked to a mentor. This is also organized by the emodir team; you will be paired with volunteers who have experience in the IETF and can help you hit the ground running. Ideally you have a call with your mentor before the meeting, a meeting during the beginning of the meeting, and check in some time during the meeting, so they can help you with any questions you might have.
 
@@ -662,7 +660,7 @@ The mailing lists also provide a forum for those who wish to follow, or contribu
 
 Many IETF discussion lists use either mailman or another list manager, Majordomo. They usually have a "-request" address that handles the administrative details of joining and leaving the list. (See Section 2.3 for more information on mailman.) It is generally frowned upon when such administrivia appears on the discussion mailing list.
 
-IETF discussion lists are archived. That is, all of the messages sent to the list are automatically stored and made accessible. Many such archives are <a href="https://mailarchive.ietf.org/">listed online</a>. If you don't find the list you're looking for, send a message to the list's "-request" address (not to the list itself!). <a href="https://datatracker.ietf.org/wg">The Working Group charter listings</a> are a useful source. There is a <a href="https://www6.ietf.org/wg/concluded">list of old, concluded WGs</a>. 
+IETF discussion lists are archived. That is, all of the messages sent to the list are automatically stored and made accessible. Many such archives are <a href="https://mailarchive.ietf.org/">listed online</a>. If you don't find the list you're looking for, send a message to the list's "-request" address (not to the list itself!). <a href="https://datatracker.ietf.org/wg">The Working Group charter listings</a> are a useful source. There is a <a href="https://www6.ietf.org/wg/concluded">list of old, concluded WGs</a>.
 
 Some WG lists apply size limits on messages, particularly to avoid large documents or presentations landing in everyone's mailbox. It is well worth remembering that although most participants do, not all have broadband connections (those in remote locations may still rely on lower bandwidth, slower connection when the Internet is available to them), so shorter messages are greatly appreciated. Documents can be posted as Internet-Drafts; presentation material can be posted to a web site controlled by the sender or sent personally to people who ask for it. Some WGs set up special sites to hold these large documents so that senders can post there first, then just send to the list the URL of the document.
 
@@ -765,7 +763,7 @@ Before you create the first draft of your Internet-Draft, you should read four d
     - The online <a href="https://www.ietf.org/ietf/1id-guidelines.txt">Guidelines to Authors of Internet-Drafts</a>, has up-to-date information about the process for turning in Internet-Drafts, as well as the most current boilerplate information that has to be included in each Internet-Draft.
     - When you think you are finished with the draft process and are ready to request that the draft become an RFC, you should definitely read <a href="https://www.ietf.org/standards/ids/guidelines">Checklist for Internet-Drafts (I-Ds) Submitted for RFC Publication</a>, a list of common issues that have been known to stop documents in the IESG. In fact, you should probably read that document well before you are finished, so that you don't have to make a bunch of last-minute changes.
     There are also guides specific to important areas to cover in your draft, such as <a href="https://tools.ietf.org/html/rfc3552">the Security Considerations</a> and even templates for drafts the occur frequently such as <a href="https://tools.ietf.org/html/rfc6087">YANG modules</a> and <a href="https://tools.ietf.org/html/rfc4181">mibs</a>.
-    <a href="https://github.com/martinthomson/i-d-template">The templates and scripts from Martin Thomson</a>, might help you more easily write an Internet-Draft and automate the submission process. 
+    <a href="https://github.com/martinthomson/i-d-template">The templates and scripts from Martin Thomson</a>, might help you more easily write an Internet-Draft and automate the submission process.
 
 Also, you should visit <a href="https://tools.ietf.org">the IETF Tools web pages</a>, where you'll find pointers to other tools that will automate some of your work for the IETF.
 
@@ -879,7 +877,7 @@ Some of these liaison tasks fall to the IESG, whereas others fall to the IAB. De
 
 Given that the IETF is one of the best-known bodies that is helping move the Internet forward, it's natural for the computer press (and even the trade press) to cover its actions. But it can be hard to cover the IETF. A common misunderstanding is that the IETF is considering something when in fact there is just an Internet-Draft in a Working Group, and reporting that the IETF approved something when all that happened was that an Informational RFC was published. In both cases, the press is not really to blame for the problem, since they are usually alerted to the story by a company trying to get publicity for a protocol that they developed or at least support. The default place that press should look for press contacts for the IETF is [https://www.ietf.org/contact].
 
-Reporters who want to find out about "what the IETF is doing" on a particular topic would be well-advised to talk to more than one person who is active on that topic in the IETF, and should probably try to talk to the WG chair in any case. It's impossible to determine what will happen with a draft by looking at the draft or talking to the draft's author. Fortunately, all WGs have archives that a reporter can look through for recent indications about what the progress of a draft is; unfortunately, few reporters have the time or inclination to do this kind of research. 
+Reporters who want to find out about "what the IETF is doing" on a particular topic would be well-advised to talk to more than one person who is active on that topic in the IETF, and should probably try to talk to the WG chair in any case. It's impossible to determine what will happen with a draft by looking at the draft or talking to the draft's author. Fortunately, all WGs have archives that a reporter can look through for recent indications about what the progress of a draft is; unfortunately, few reporters have the time or inclination to do this kind of research.
 
 Reporters looking for information about the IETF, or pointers to IETF participants working on a particular topic relevant to the IETF, are encouraged to send email to media@ietf.org. Replies are usually sent within a day. Even if a direct answer to a particular query is not available, pointers to resources or people who can provide more information about a topic are often provided.
 
@@ -1012,4 +1010,3 @@ Standards Track and Best Current Practice documents must be subject to IETF wide
 Substantive changes made as a result of IETF Last Call or IESG evaluation must be referred back to the WG.
 
 The IETF determines requirements for publication and archiving of its documents.
-
