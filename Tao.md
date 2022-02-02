@@ -137,8 +137,8 @@ replaced an email address for requesting some sort of action.
 
 Many types of IETF documentation are mentioned here.  The IETF publishes its
 technical documentation as RFCs, still known by their historical term
-<em>Requests for Comments</em>.  (Sometimes people joke that it stands for
-<em>Request for Compliance</em>.) STDs are RFCs identified as "standards."
+*Requests for Comments*.  (Sometimes people joke that it stands for
+*Request for Compliance*.) STDs are RFCs identified as "standards."
 and BCPs are RFCs that represent thoughts on Best Current Practices in the
 Internet. Both STDs and BCPs are also RFCs.  For example, <a
 href="https://www.rfc-editor.org/info/bcp9">BCP 9</a> points to a collection
@@ -158,7 +158,6 @@ Some of the acronyms and abbreviations from this document are listed below.
 <tr><td>BOF</td><td>Birds of a Feather</td></tr><tr>
 <tr><td>IAB</td><td>Internet Architecture Board</td></tr>
 <tr><td>IANA</td><td>Internet Assigned Numbers Authority</td></tr>
-<tr><td>IAOC</td><td>IETF Administrative Oversight Committee</td></tr>
 <tr><td>IASA</td><td>IETF Administrative Support Activity</td></tr>
 <tr><td>ICANN</td>
   <td>Internet Corporation for Assigned Names and Numbers</td></tr>
@@ -175,195 +174,387 @@ Some of the acronyms and abbreviations from this document are listed below.
 </div>
 
 <a name="what"></a>
+# 2. What is the IETF?
 
-## 2. What is the IETF?
+The IETF has no members and no dues;
+it is a loosely self-organized group of people who contribute to the
+engineering and evolution of Internet technologies. It is the principal body
+engaged in the development of new Internet standard specifications. The IETF
+is unusual in that it exists as a collection of meetings (both in-person
+online) and on-line activities (such as email and pull request discussions),
+in which individuals voluntarily participate.
 
-The IETF is a loosely self-organized group of people who contribute to the engineering and evolution of Internet technologies. It is the principal body engaged in the development of new Internet standard specifications. The IETF is unusual in that it exists as a collection of happenings, online and in-person, in which individuals voluntarily participate. It has no members, and no dues; see <a href="https://tools.ietf.org/html/rfc3935">RFC 3935</a>, "A Mission Statement for the IETF", for more detail.
+IETF welcomes all interested individuals: IETF participants come from all
+over the world and from many different parts of the Internet industry. The
+IETF conducts its work solely in English.
+See <a href="#where-do-i-fit-in">Where do I fit in?</a>
+for information about the ways that many people
+fit into the IETF.
 
-Its mission includes the following:
+Quoting from <a href="https://tools.ietf.org/html/rfc3935">
+RFC 3935: A Mission Statement for the IETF</a>,
+"the overall goal of the IETF is to make the Internet work better.
+Its mission is to produce high quality, relevant
+technical and engineering documents that influence the way people
+design, use, and manage the Internet in such a way as to make the
+Internet work better.  These documents include protocol standards,
+best current practices, and informational documents of various kinds."
 
-    - Identifying and proposing solutions to pressing operational and technical problems in the Internet
-    - Specifying the development or usage of protocols and the near-term architecture to solve such technical problems for the Internet
-    - Making recommendations to the Internet Engineering Steering Group (IESG) regarding the standardization of protocols and protocol usage in the Internet
-    - Facilitating technology transfer from the Internet Research Task Force (IRTF) to the wider Internet community
-    - Providing a forum for the exchange of information within the Internet community between vendors, users, researchers, agency contractors, operators, and network managers
+The ways to do that include the following:
 
-The IETF mission further states that the Internet isn't value-neutral, and neither is the IETF.  The IETF wants the Internet to be useful for communities that share our commitment to openness and fairness. The IETF embraces technical concepts such as decentralized control, edge-user empowerment and sharing of resources, because those concepts resonate with the core values of the IETF community.  These concepts have little to do with the technology that's possible, and much to do with the technology that we choose to create.
+ - Identifying and proposing solutions to pressing operational and
+   technical problems in the Internet.
+ - Specifying the development or usage of protocols and the near-term
+   architecture to solve such technical problems for the Internet.
+ - Making recommendations to the Internet Engineering Steering Group
+   (IESG) regarding the standardization of protocols and protocol usage
+   in the Internet.
+ - Facilitating technology transfer from the Internet Research Task
+   Force (IRTF) to the wider Internet community.
+ - Providing a forum for the exchange of information within the Internet
+   community among vendors, users, researchers, agency contractors,
+   operators, and network managers.
 
-The IETF meeting is not a conference, although there are technical presentations. The IETF is not a traditional standards organization, although many specifications that are produced become standards. The IETF is made up of volunteers, many of whom meet three times a year to fulfill the IETF mission.
+RFC 3935 further states that the Internet isn't value-neutral, and
+neither is the IETF.  The IETF wants the Internet to be useful for
+communities that share our commitment to openness and fairness. The IETF
+embraces technical concepts such as decentralized control, edge-user
+empowerment and sharing of resources, because those concepts resonate with
+the core values of the IETF community.  These concepts have little to do with
+the technology that's possible, and much to do with the technology that the
+IETF chooses to create.
 
-There is no membership in the IETF. Anyone may sign up to working group mailing lists, or register for a meeting and then attend. The closest thing there is to being an IETF member is being a participant on the IETF or Working Group mailing lists (see Section 2.3). This is where the best information about current IETF activities and focus can be found.
+In many ways, the IETF runs on the beliefs of its participants. One of the
+founding beliefs is embodied in an early quote about the IETF from David
+Clark: "We reject kings, presidents and voting. We believe in rough consensus
+and running code." Another early quote that has become a commonly-held belief
+in the IETF comes from Jon Postel: "Be conservative in what you send and
+liberal in what you accept".
 
-Of course, no organization can be as successful as the IETF is without having some sort of structure. In the IETF's case, that structure is provided by other supporting organizations, as described in <a href="https://tools.ietf.org/html/rfc2028">RFC 2028</a>, "The Organizations Involved in the IETF Standards Process". 
+There is no membership in the IETF. Anyone may sign up to working group
+mailing lists, or register for a meeting and then attend. The closest thing
+there is to being an IETF member is being a participant on the IETF or
+Working Group <a href="#mail-lists">mailing lists</a>. This is where the best
+information about current IETF activities and focus can be found.
 
-The <a href="https://www.ietf.org">IETF web site</a> is the best source for information about upcoming IETF meetings, newcomer materials. The IETF <a href="https://datatracker.ietf.org/">Datatracker</a> is the best source for information about Internet-Drafts, RFCs, and Working Groups.
+Of course, no organization can be as successful as the IETF is without having
+some sort of structure. In the IETF's case, that structure is provided by
+other supporting organizations, as described in
+<a href="https://tools.ietf.org/html/rfc2028">RFC 2028: The Organizations
+Involved in the IETF Standards Process</a>.
+Please note that RFC 2028 is outdated and being revised.
 
-In many ways, the IETF runs on the beliefs of its participants. One of the "founding beliefs" is embodied in an early quote about the IETF from David Clark: "We reject kings, presidents and voting. We believe in rough consensus and running code". Another early quote that has become a commonly-held belief in the IETF comes from Jon Postel: "Be conservative in what you send and liberal in what you accept".
+The <a href="https://www.ietf.org">IETF web site</a> is the best source for
+information about upcoming IETF meetings and newcomer materials. The IETF
+<a href="https://datatracker.ietf.org/">Datatracker</a> is the best source for
+information about Internet-Drafts, RFCs, and Working Groups.
 
-The IETF is really about its participants. IETF welcomes all interested individuals: IETF participants come from all over the world and from many different parts of the Internet industry. The IETF conducts its work solely in English. See Section 3.12 for information about the ways that many people fit into the IETF.
+One more thing that is important for newcomers: the IETF in no way "runs the
+Internet," despite what some people mistakenly might say. The IETF makes
+voluntary standards that are often adopted by Internet users, network
+operators, and equipment vendors, and it thus helps shape the trajectory of
+the development of the Internet. But in no way does the IETF control, or even
+patrol, the Internet. If your interest in the IETF is because you want to be
+part of the overseers, you may be badly disappointed by the IETF.
+A saying you will sometimes hear is "we are not the protocol police."
 
-One more thing that is important for newcomers: the IETF in no way "runs the Internet", despite what some people mistakenly might say. The IETF makes voluntary standards that are often adopted by Internet users, network operators, and equipment vendors, and it thus helps shape the trajectory of the development of the Internet. But in no way does the IETF control, or even patrol, the Internet. If your interest in the IETF is because you want to be part of the overseers, you may be badly disappointed by the IETF.
+## 2.1 Humble Beginnings
 
-### 2.1 Humble Beginnings
+The first IETF meeting was held in January 1986 at Linkabit in San Diego,
+with 21 attendees. The 4th IETF, held at SRI in Menlo Park in October 1986,
+was the first that equipment vendors attended. The concept of Working Groups
+was introduced at the 5th IETF meeting at the NASA Ames Research Center in
+California in February 1987. The 7th IETF, held at MITRE in McLean, Virginia,
+in July 1987, was the first meeting with more than 100 attendees.
 
-The first IETF meeting was held in January 1986 at Linkabit in San Diego, with 21 attendees. The 4th IETF, held at SRI in Menlo Park in October 1986, was the first that equipment vendors attended. The concept of Working Groups was introduced at the 5th IETF meeting at the NASA Ames Research Center in California in February 1987. The 7th IETF, held at MITRE in McLean, Virginia, in July 1987, was the first meeting with more than 100 attendees.
+After the Internet Society (ISOC) was formed in January 1992, the IAB
+proposed to ISOC that the IAB's activities should take place under the
+auspices of the Internet Society. During INET92 in Kobe, Japan, the ISOC
+Trustees approved a new charter for the IAB to reflect the proposed
+relationship.
 
-The 14th IETF meeting was held at Stanford University in July 1989. It marked a major change in the structure of the IETF universe. The structure of the IAB (then the Internet Activities Board, now the Internet Architecture Board), which until that time oversaw many "task forces", was changed, leaving it with only two: the IETF and the IRTF. The IRTF is tasked to consider long-term research problems in the Internet. The IETF also changed at that time.
+The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first
+IETF meeting held in Europe, and the US/non-US attendee split was nearly
+50/50. The IETF first met in Oceania (in Adelaide, Australia) in 2000, the
+first meeting in Asia (in Yokohama, Japan) was in 2002, and the first meeting
+in Latin America (in Buenos Aires, Agentina) was in 2002. So far, the IETF
+has never met in Africa.
 
-After the Internet Society (ISOC) was formed in January 1992, the IAB proposed to ISOC that the IAB's activities should take place under the auspices of the Internet Society. During INET92 in Kobe, Japan, the ISOC Trustees approved a new charter for the IAB to reflect the proposed relationship.
+The IETF currently has a "1-1-1" meeting policy where the goal is to
+distribute the meetings equally between North America, Europe, and Asia.
+This policy is mainly aimed at distributing the travel effort for the
+existing IETF participants who physically attend meetings and for
+distributing the timezone difficulty for those who participate remotely. The
+IETF has also met in Latin America and Oceania, but these continents are
+currently not part of the 1-1-1 rotation schedule.
+More information on picking the venue and the meeting policy can be found
+in <a href="https://tools.ietf.org/html/rfc8718">RFC 8718: IETF Plenary
+Meeting Venue Selection Process</a>
+and <a href="https://tools.ietf.org/html/rfc8719">RFC 8719: High-Level
+Guidance for the Meeting Policy of the IETF</a>.
 
-The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first IETF meeting held in Europe, and the US/non-US attendee split was nearly 50/50. The IETF first met in Oceania (in Adelaide, Australia) in 2000, the first meeting in Asia (in Yokohama, Japan) was in 2002, and the first meeting in Latin America (in Buenos Aires, Agentina) was in 2002. The IETF never met in Africa. 
+Remote participation in IETF meetings has been growing significantly in the
+past few years, thanks in part to the ongoing effort to improve the tools and
+processes used to faciliate this mode participation.
 
-The IETF currently strives to have a 1-1-1 meeting policy where the goal is to distribute the meetings equally between North America, Europe, and Asia.  These are the locations most of the IETF participants have come from in the recent past.  <a href="https://tools.ietf.org/html/draft-ietf-mtgvenue-meeting-policy-07">The meeting rotation policy</a> is mainly aimed at distributing the travel effort for the existing IETF participants who physically attend meetings and for distributing the timezone difficulty for those who participate remotely. The IETF has also met in Latin America and Oceania, but these continents are currently not part of the 1-1-1 rotation schedule. 
+## 2.2 The Hierarchy
 
-Remote participation in IETF meetings has been growing significantly in the past few years, thanks in part to the ongoing effort to improve the tools and processes used to faciliate this mode participation.
+### 2.2.1 The Internet Society (ISOC) and the IETF Administration LLC (IETF LLC)
 
-### 2.2 The Hierarchy
+The Internet Society (ISOC) is an international, non-profit, membership
+organization that supports and promotes the development of the Internet as a
+global technical infrastructure. The mission of ISOC is "to promote the open
+development, evolution, and use of the Internet for the benefit of all people
+throughout the world." One of the ways that ISOC does this is through
+support of the IETF.
 
-#### 2.2.1 The IETF LLC (IETF Administration LLC) and the ISOC (Internet Society)
+The <a href="https://www.ietf.org/about/administration/">IETF Administration
+LLC</a> is a "disregarded entity" of the ISOC, which means it is treated as
+as a branch or division for tax purposes. The IETF LLC has no role in the
+oversight or steering of the standards process, the appeal chain, the
+confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's
+memberships in other organizations. Rather, the IETF LLC, as overseen by its
+Board of Directors, is responsible for staffing and contracts with places
+like hotels to host IETF meetings. Most of the day-to-day activities
+are delegated to the IETF's Executive Director.
 
-The Internet Society (ISOC) is an international, non-profit, membership organization that supports and promotes the development of the Internet as a global technical infrastructure. The mission of ISOC is "to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world.". One of the ways that ISOC does this is through support of the IETF.
+- Supporting the ongoing operations of the IETF, including meetings and
+  non-meeting activities.
+- Managing the IETF's finances and budget.
+- Raising money on behalf of the IETF.
+- Establishing and enforcing policies to ensure compliance with applicable
+  laws, regulations, and rules.
 
-Starting in spring 2005, the ISOC became home base for the IETF's directly employed administrative staff. This is described in more detail in <a href="https://tools.ietf.org/html/bcp101">BCP 101</a>, "Structure of the IETF Administrative Support Activity (IASA)". The staff included only an Executive Director (ED) who worked full-time overseeing IETF meeting planning, operational aspects of support services (the secretariat, IANA (the Internet Assigned Numbers Authority), and the RFC Editor, which are described later in this section), and the budget. The ED led the IETF Administrative Support Activity (IASA), which took care of tasks such as collecting meeting fees and paying invoices, and also supports the tools for the work of IETF working groups, the IESG, the IAB, and the IRTF (more about these later in this section).
+The IETF and ISOC continue to be strongly aligned on key principles. ISOC
+initiatives related to the IETF continue to support participation in, and
+deployment of, the standards created by the IETF.
 
-Recently, based on discussions within the IASA2 working group, the <a href="https://www.ietf.org/llc/">IETF Administration LLC</a> has been created as a disregarded entity of the Internet Society (i.e., it is treated as a branch or division for tax purposes). It has no role in the oversight or steering of the standards process as currently conducted by the IESG and IAB, the appeal chain, the confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's memberships in other organizations. The responsibilities of the IETF LLC include:
+### 2.2.2 Internet Engineering Steering Group (IESG)
 
-    - Supporting the ongoing operations of the IETF, including meetings and non-meeting activities,
-    - Managing the IETF's finances and budget,
-    - Raising money on behalf of the IETF, and
-    - Establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules.
+The IESG is responsible for technical management of IETF activities and the
+Internet standards process.  However, the IESG doesn't exercise much direct
+leadership, such as the kind you will find in many other standards
+organizations. As its name suggests, its role is to set directions rather
+than to give orders. The IESG gets WGs started and finished, ratifies or
+steers the output from the IETF's Working Groups (WGs), and makes sure that
+non-WG drafts that are about to become RFCs are correct.
 
-The IETF and ISOC continue to be strongly aligned on key principles. ISOC initiatives related to the IETF continue to support participation in, and deployment of, the standards created by the IETF. The new legal structure is designed to allow the IETF to meet changes in the size and scope of the IETF’s administrative needs, it clarifies responsibility and authority over the IETF’s administration, and is flexible enough to adapt to changes as the needs of the IETF continue to evolve.
+Check the <a href="https://www.ietf.org/about/groups/iesg">IESG web
+pages</a>, to find up-to-date information about IESG statements, drafts
+processed, RFCs published, and documents in Last Call, as well as the monthly
+IETF status reports.
 
-#### 2.2.2 IESG (Internet Engineering Steering Group)
+The IESG consists of the Area Directors (ADs), who are selected by the
+Nominations Committee (NomCom) and are appointed for two years. The process
+for choosing the members of the IESG is detailed in
+<a href="https://tools.ietf.org/html/bcp10">BCP 10</a>.
 
-The IESG is responsible for technical management of IETF activities and the Internet standards process. It administers the process according to the rules and procedures that have been ratified by the ISOC Board of Trustees. However, the IESG doesn't exercise much direct leadership, such as the kind you will find in many other standards organizations. As its name suggests, its role is to set directions rather than to give orders. The IESG ratifies or steers the output from the IETF's Working Groups (WGs), gets WGs started and finished, and makes sure that non-WG drafts that are about to become RFCs are correct.
-
-Check the <a href="https://www.ietf.org/about/groups/iesg">IESG web pages</a>, to find up-to-date information about IESG statements, drafts processed, RFCs published, and documents in Last Call, as well as the monthly IETF status reports.
-
-The IESG consists of the Area Directors (often called "ADs"), who are selected by the Nominations Committee (which is usually called "the NomCom") and are appointed for two years. The process for choosing the members of the IESG is detailed in <a href="https://tools.ietf.org/html/bcp10">BCP 10</a>, "IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees".
-
-The current Areas and abbreviations are shown below (more information can be found here: [https://www.ietf.org/topics/areas/]).
+The current Areas and abbreviations are shown below, and
+<a href="https://www.ietf.org/topics/areas/"> more details</a> are at
+the IETF web site.
 
 <div class="block-table">
-<table><thead>
-<tr><th>
-Area
-</th><th>
-Description
-</th></tr>
-</thead><tbody><tr>
-<td>
-Applications and Real-Time Area (art)
-</td><td>
-Protocols seen by user programs, such as email and the web and delay-sensitive interpersonal communications
-</td>
-</tr>
-<tr>
-<td>
-General (gen)
-</td><td>
-IETF process, and catch-all for WGs that don't fit in other Areas (which is very few)
-</td>
-</tr>
-<tr>
-<td>
-Internet (int)
-</td><td>
-Different ways of moving IP packets and DNS information
-</td>
-</tr>
-<tr>
-<td>
-Operations and Management (ops)
-</td><td>
-Network management, AAA, and various operational issues facing the Internet
-</td>
-</tr>
-<tr>
-<td>
-Routing (rtg)
-</td><td>
-Getting packets to their destinations
-</td>
-</tr>
-<tr>
-<td>
-Security (sec)
-</td><td>
-Privacy, integrity, authentication, non-repudiation, confidentiality, and access control
-</td>
-</tr>
-<tr>
-<td>
-Transport (tsv)
-</td><td>
-Transport for large volumes of traffic at potentially high bandwidths
-</td>
-</tr>
+<table>
+<thead><tr><th>Area</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td>Applications and Real-Time Area (art)</td>
+  <td>Protocols seen by user programs, such as email and the web and
+  delay-sensitive interpersonal communications</td></tr>
+<tr><td>General (gen)</td>
+  <td>IETF process, and catch-all for WGs that don't fit in other Areas
+  (which is very few)</td></tr>
+<tr><td>Internet (int)</td>
+  <td>Different ways of moving IP packets and DNS information</td></tr>
+<tr><td>Operations and Management (ops)</td>
+  <td>Network management, AAA, and various operational issues facing the
+  Internet</td></tr>
+<tr><td>Routing (rtg)</td>
+  <td>Getting packets to their destinations</td></tr>
+<tr><td>Security (sec)</td>
+  <td>Privacy, integrity, authentication, non-repudiation, confidentiality,
+  and access control</td></tr>
+<tr><td>Transport (tsv)</td>
+  <td>Transport for large volumes of traffic at potentially high
+  bandwidths</td></tr>
 </tbody>
 </table>
 </div>
 
-Because the IESG is reviewing all Internet-Drafts before they become RFCs, Area Directors have quite a bit of influence. Some people therefore shy away from directly engaging with Area Directors, whereas they can be an important resource and help you find the person or the answer that you're looking for. At a meeting they might be very busy. Email to schedule a meeting is a great way to get in touch. Emailing with the actual question before or after a meeting is effective as well.
+Because the IESG reviews all Internet-Drafts before they become RFCs, ADs
+have quite a bit of influence.  The ADs for a particular Area are expected to
+know more about the combined work of the WGs in that Area than anyone else.
+This is because the ADs actively follow the working groups for which they are
+responsible and assist working groups and chairs with charter and milestone
+reviews.  Some people therefore shy away from directly engaging with Area
+Directors. Don't be shy: they can be an important resource and help you find
+the person or the answer that you're looking for. They are often very busy
+during meetings, however, so an email to schedule a meeting can be useful, or
+just ask your questions.
 
-The ADs for a particular Area are expected to know more about the combined work of the WGs in that Area than anyone else.  This is because the ADs actively follow the working groups for which they are responsible and assist working groups and chairs with charter and milestone reviews. The entire IESG reviews each Internet-Draft that is proposed to become an RFC and should be aware of general trends that can be gleaned from the collective work products of the IETF. As part of the document reviews, ADs place ballots that may contain comments on documents.  The AD enters a position that may be YES, NO OBJECTION, DISCUSS, ABSTAIN, or RECUSE as the result of their review.  Any AD may record a "DISCUSS" ballot position against a draft if he or she has serious concerns and would like to discuss these concerns. It is quite common for documents to be approved with one or two "YES" ballots, and the majority of the remaining IESG balloting "NO OBJECTION.".
+The entire IESG reviews each Internet-Draft that is proposed to become an RFC
+and should be aware of general trends that can be gleaned from the collective
+work products of the IETF. As part of the document reviews, ADs place ballots
+that may contain comments on documents.  The AD enters a position that may be
+*YES*, *NO OBJECTION*, *DISCUSS*, *ABSTAIN*, or *RECUSE* as the result of
+their review.  Any AD may record a *DISCUSS* ballot position against a draft
+if he or she has serious concerns and would like to discuss these concerns.
+It is common for documents to be approved with one or two *YES*
+ballots, and the majority of the remaining IESG balloting *NO OBJECTION*.  An
+<a href="https://www.ietf.org/blog/handling-iesg-ballot-positions/">IETF blog
+post</a> gives advice on how draft authors could handle the various ballot
+positions.
 
-This is not to say that the IESG never wields power. When the IESG sees a Working Group veering from its charter, or when a WG asks the IESG to make the WG's badly designed protocol a standard, the IESG will act. In fact, because of its high workload, the IESG usually moves in a reactive fashion. It eventually approves most WG requests for Internet-Drafts to become RFCs, and usually only steps in when something has gone very wrong. Another way to think about this is that the ADs are selected to think, not to just run the process. The quality of the IETF standards comes both from the review they get in the Working Groups and the scrutiny that the WG review gets from the ADs.
+Another important job of the IESG is to watch over the output of all the WGs
+to help prevent IETF protocols that are at odds with each other. This is why
+ADs are supposed to review the drafts coming out of Areas other than their
+own, and each Area has a *directorate*, a set of experienced volunteers who
+review drafts with a focus on potential issues for their area.
 
-The IETF is run by rough consensus, and it is the IESG that judges whether a WG has come up with a result that has IETF community consensus. (See Section 4.2 for more information on WG consensus.) Because of this, one of the main reasons that the IESG might block something that was produced in a WG is that the result did not really gain consensus in the IETF as a whole, that is, among all of the Working Groups in all Areas. For instance, the result of one WG might clash with a technology developed in a different Working Group, perhaps from another Area. An important job of the IESG is to watch over the output of all the WGs to help prevent IETF protocols that are at odds with each other. This is why ADs are supposed to review the drafts coming out of Areas other than their own.
+The quality of the IETF standards comes both from the review they get in the
+Working Groups and the scrutiny that the WG review gets from the ADs.
 
-#### 2.2.3 IAB (Internet Architecture Board)
+### 2.2.3 Internet Architecture Board (IAB)
 
-The IAB is responsible for keeping an eye on the "big picture" of the Internet, and it focuses on long-range planning and coordination among the various areas of IETF activity. The IAB stays informed about important long-term issues in the Internet, and it brings these topics to the attention of people it thinks should know about them.
+The IAB is responsible for keeping an eye on the "big picture" of the
+Internet, and it focuses on long-range planning and coordination among the
+various areas of IETF activity. The IAB stays informed about important
+long-term issues in the Internet, and it brings these topics to the attention
+of people it thinks should know about them.
 
-IAB members pay special attention to emerging activities in the IETF. When a new IETF Working Group is proposed, the IAB reviews its charter for architectural consistency and integrity. Even before the group is chartered, the IAB members are more than willing to discuss new ideas with the people proposing them.
+IAB members pay special attention to emerging activities in the IETF. When a
+new IETF Working Group is proposed, the IAB reviews its charter for
+architectural consistency and integrity. Even before the group is chartered,
+the IAB members are more than willing to discuss new ideas with the people
+proposing them.
 
-The IAB also sponsors and organizes the Internet Research Task Force and convenes invitational workshops that provide in-depth reviews of specific Internet architectural issues. Typically, the workshop reports make recommendations to the IETF community and to the IESG. The IAB keeps the community informed through blogposts and by publishing RFCs.
+The IAB also sponsors and organizes the Internet Research Task Force and
+convenes invitational workshops that provide in-depth reviews of specific
+Internet architectural issues. Typically, the workshop reports make
+recommendations to the IETF community and to the IESG. The IAB keeps the
+community informed through blogposts and by publishing RFCs.
 
 The IAB also:
+- Approves NomCom's IESG nominations
+- Acts as the appeals board for appeals against IESG actions
+- Oversees the RFC series policy and procedures
+- Acts as an advisory body to ISOC
+- Oversees IETF liaisons with other standards bodies
 
-    - Approves NomCom's IESG nominations
-    - Acts as the appeals board for appeals against IESG and IAOC actions
-    - Oversees the RFC series through the RFC Series Oversight Committee (RSOC)
-    - Approves the appointment of the IANA
-    - Acts as an advisory body to ISOC
-    - Oversees IETF liaisons with other standards bodies
+Like the IESG, the IAB members are selected for two-year positions by the
+NomCom and are approved by the ISOC Board of Trustees.
 
-Like the IESG, the IAB members are selected for two-year positions by the NomCom and are approved by the ISOC Board of Trustees.
+### 2.2.4 Internet Assigned Numbers Authority (IANA)
 
-#### 2.2.4 IANA (Internet Assigned Numbers Authority)
+The core registrar for the IETF's activities is the <a
+href="https://www.iana.org>">IANA</a> Many Internet protocols require that
+someone keep track of protocol items that were added after the protocol came
+out. Typical examples of the kinds of registries needed are for TCP port
+numbers and MIME types.  IANA is overseen by the IAB, and is funded by the
+IETF LLC. There is a
+<a href="https://www.iab.org/activities/programs/ietf-iana-group/">joint
+group</a> that advises IANA.
 
-The core registrar for the IETF's activities is the IANA (see https://www.iana.org). Many Internet protocols require that someone keep track of protocol items that were added after the protocol came out. Typical examples of the kinds of registries needed are for TCP port numbers and MIME types. The IAB has designated the IANA organization to perform these tasks, and the IANA's activities are financially supported by ICANN, the Internet Corporation for Assigned Names and Numbers. The IAB selected ICANN, and the IANA activities are provided for free as specified in <a href="https://tools.ietf.org/html/rfc2860">RFC 2860</a>. 
-The IETF is no longer involved in the IANA's domain name and IP address assignment functions, which are overseen by ICANN.
+Even though being a registrar may not sound interesting, many IETF
+participants will testify to how important IANA has been for the Internet.
+Having a stable, long-term repository run by careful and conservative
+operators makes it much easier for people to experiment without worrying
+about messing things up.
 
-Even though being a registrar may not sound interesting, many IETF participants will testify to how important IANA has been for the Internet. Having a stable, long-term repository run by careful and conservative operators makes it much easier for people to experiment without worrying about messing things up. IANA early maintainers, Jon Postel and Joyce Reynolds, were heavily relied upon to keep things in order while the Internet kept growing by leaps and bounds.
+### 2.2.5 RFC Editor and RFC Publication Center (RPC)
 
-#### 2.2.5 RFC Editor
+The RPC edits, formats, and published RFC's. This used to be done by one
+person, which is why you will still see the term *RFC Editor*; IETFers are
+fond of their history.  Also, if you are a document author, you will most
+commonly come in contact with people responsible for editing your draft.
+Another important role is to provide <a href="https://www.rfc-editor.org">one
+definitive repository</a> for all RFCs.
 
-The RFC Editor edits, formats, and publishes Internet-Drafts as RFCs, working in conjunction with the IESG for IETF RFCs, the IRTF Chair for IRTF RFCs, the IAB for IAB RFCs, and the Independent Submissions Editor for Independent Stream RFCs, and of course working with the authors. An important other role is to provide one definitive repository for all RFCs (see [https://www.rfc-editor.org]). Once an RFC is published, it is never revised. If the specification it describes changes, the standard will be re-published in another RFC that "obsoletes" the first. If a technical or editorial error is found in an RFC, an errata may be filed for review.  If accepted, the errata will be linked to the RFC and may be held for the next document update.
+A common misconception is that all RFCs are the work of the IETF.  In fact,
+there are four sources of RFCs: the IETF, the IAB, the IRTF, and Independant
+streams. (Soon there is likely to be a fifth, which is for documents on the RFC
+series itself.) Only documents coming directly from the IETF through Working
+Groups or sponsored by ADs are can have IETF consensus and be described as
+IETF specifications or standards.
 
-The IAB approves the organization that will act as RFC Editor and the RFC Editor's general policy. The RFC Editor is funded by IASA. Up through the end of 2009, the RFC Editor was a single entity. The function was split by the IAB, in coordination with the IETF community, into many roles that can be performed by different people or organizations, led by the IAB-appointed RFC Series Editor. The RFC Editor model is described in <a href="https://tools.ietf.org/html/rfc6635">RFC 6635</a>.
+Once an RFC is published, it is never revised.  If the specification it
+describes changes, the standard will be re-published in another RFC that
+"obsoletes" the first. If a technical or editorial error is found in an RFC,
+an errata may be filed for review.  If accepted, the errata will be linked to
+the RFC and may be held for the next document update.
 
-A common misconception is that all RFCs are the work of the IETF. In fact, of the four sources of RFCs listed above (IETF, IAB, IRTF, and Independent Submissions), only those coming directly from the IETF through working groups or sponsored by ADs are capable of having IETF consensus and being described as IETF specifications or standards.
+At the time of this writing, the model for the RFC Editor and the RPC is
+being revised under an
+<a href="https://www.iab.org/activities/programs/rfc-editor-future-development-program/">IAB Program</a>.
+In this revision, there is a position hired by the IETF LLC known as the RFC
+Series Editor, who is advised by a couple of groups.  As a newcomer, and
+potential author, the details shouldn't matter much to you right now.
 
-#### 2.2.6 IETF Secretariat
+The RPC is contracted by the IETF LLC.
 
-There are a few people who are paid to maintain the IETF. The IETF Secretariat provides day-to-day logistical support, which mainly means coordinating face-to-face meetings and running the IETF-specific mailing lists. The Secretariat is also responsible for keeping the official Internet-Drafts directory up to date and orderly, maintaining the IETF web site, and for helping the IESG do its work. It provides various tools for use by the community and the IESG. The IETF Secretariat is under contract to IASA, which in turn is financially supported by the fees collected for attending the face-to-face meetings, sponsorships, and contributions from ISOC.
+### 2.2.6 IETF Secretariat
 
-#### 2.2.7 IETF Trust
+There are a few people who are paid to maintain the IETF. The IETF
+Secretariat provides day-to-day logistical support, which mainly means
+coordinating face-to-face meetings and running the IETF presence on
+the web, including the <a href="https://www.ietf.org">IETF web site</a>,
+mailing lists, the repository for Internet-Drafts, and so on.
+The Secretariat also provides administrative assistance to the IESG
+and others.
 
-Near the end of 2005, the IETF Trust was set up to hold and license the intellectual property of the IETF. The reason the IETF Trust was set up is that someone has to hold intellectual property, and that someone should be a stable, legally-identifiable entity. Few IETF participants come into contact with the IETF Trust, which is a good sign that they are quietly doing their job. You can find out more about the IETF trust at their <a href="https://trustee.ietf.org">web site</a>.
+The Secretariat is contracted by the IETF LLC.
 
-### 2.3 IETF Mailing Lists
+### 2.2.7 IETF Trust
 
-Anyone who plans to participate in the IETF, including attending an IETF meeting, should join the IETF announcement mailing list (see [https://www.ietf.org/mailman/listinfo/IETF-Announce]). This is where all of the meeting information, RFC announcements, and IESG Protocol Actions and Last Calls are posted. People who would like to "get technical" may also join the IETF general discussion list (see [https://www.ietf.org/mailman/listinfo/ietf]). This is where general discussions are held (Working Groups have their own mailing lists for discussions related to their work). Another mailing list announces each new version of every Internet-Draft as it is published (see [https://www.ietf.org/mailman/listinfo/I-D-Announce]).
+The <a href="https://trustee.ietf.org">IETF Trust</a> was set up to hold and
+license the intellectual property of the IETF, such as trademarks (the IETF
+logo, etc.) and copyrights.  The trust is a stable, legally-identifiable
+entity.  Most participants never interact with the IETF Trust, beyond seeing
+it mentioned in RFC boilerplate.  This is a good sign, and indicates that
+they are quietly doing their job.
 
-The IETF discussion list is unmoderated. This means that all can express their opinions about issues affecting the Internet. However, it is not a place for companies or individuals to solicit or advertise, as noted in <a href="https://tools.ietf.org/html/bcp45">BCP 45</a>, "IETF Discussion List Charter". It is a good idea to read the whole RFC (it's short!) before posting to the IETF discussion list. Actually, the list does have two "sergeants at arms" who keep an eye open for inappropriate postings, and there is a process for banning persistent offenders from the list, but fortunately this is extremely rare.
+<a name="mail-lists"></a>
+## 2.3 IETF Mailing Lists
 
-Only the Secretariat and a small number of IETF leaders can approve messages sent to the announcement list, although those messages can come from a variety of people.
+The IETF does most of its communication, and all of its official work,
+via email.
 
-Even though the IETF mailing lists "represent" the IETF participants at large, it is important to note that attending an IETF meeting does not mean you'll be automatically added to either mailing list.
+Anyone who plans to participate in the IETF should join the <a
+href="https://www.ietf.org/mailman/listinfo/ietf-announce">IETF announcement
+mailing list</a>.  This is where all of the meeting information, RFC
+announcements, and IESG Protocol Actions and Last Calls are posted.  This
+list is strongly moderated, and nly the Secretariat and a small number of
+IETF leaders can approve messages sent to the announcement list, although
+those messages can come from a variety of people.
+
+There is also a <a href="https://www.ietf.org/mailman/listinfo/ietf"> general
+discussion list</a> that is unmoderated.  This means that everyone can
+express their opinions about issues affecting the Internet.  As an open
+discussion forum, it sometimes spins out of control and it helps to be quick
+on the *DELETE MESSAGE* button while also being slow to take offense.
+The mailing list does have a
+<a href="https://www.rfc-editor.org/info/bcp45">charter</a>, however, which
+points out that it is not a place for companies or individuals to solicit or
+advertise.  As of this writing, the charter is being revised.  It is lightly
+moderated by two people appointed by the IETF Chair; they used to called the
+Sargent At Arms (SAA), and you might see that term sometimes.  There is also
+a process for banning persistent offenders from the list, but fortunately
+this is extremely rare.
+
+There are also subset lists. The
+<a href="https://www.ietf.org/mailman/listinfo/i-d-announce">i-d-announce</a>
+list only posts when a new Internet-Draft is submitted.
+It is moderated.
+The <a href="https://www.ietf.org/mailman/listinfo/last-call">last-call</a>
+list is not moderated, and is for discussion of IETF Last Calls (the
+stage when the IETF community is given one last chance to comment on a
+draft before it is published as an RFC).
+
+Every Working Group has its own mailing list.
+
+Even though the IETF mailing lists "represent" the IETF participants at
+large, it is important to note that attending an IETF meeting does not mean
+you'll be automatically added to any list; you'll have to "opt in"
+directly.
 
 <a name="meetings"></a>
 
@@ -527,6 +718,7 @@ During registration you will also be offered to be linked to a mentor. This is a
 
 You'll find more about the emodir at [https://datatracker.ietf.org/group/emodir/about].
 
+<a name="where-do-i-fit-in">
 ### 3.12 Where Do I Fit In?
 
 The IETF is different things to different people. There are many people who have been very active in the IETF who have never attended an IETF meeting. You should not feel obligated to come to an IETF meeting just to get a feel for the IETF. If you however decide to come, RFC4144 provides some pointers on how to make your meeting a success [https://tools.ietf.org/html/rfc4144]. The following guidelines (based on stereotypes of people in various industries) might help you decide whether you actually want to come and, if so, what might be the best use of your time at your first meeting.
@@ -597,6 +789,7 @@ As volunteer cat-herders, a chair's first job is to determine the WG consensus g
 
 WG chairs are advised to participate in the WG chairs lunch mid-week during the meeting where chair-specific topics are presented and discussed. Slides of the previous versions of this session can be found in the datatracker.
 
+<a name="rough-consensus"></a>
 ### 4.2 Getting Things Done in a Working Group
 
 One fact that confuses many newcomers is that the face-to-face WG meetings are much less important in the IETF than they are in most other organizations. Any decision made at a face-to-face meeting must also gain consensus on the WG mailing list. There are numerous examples of important decisions made in WG meetings that are later overturned on the mailing list, often because someone who couldn't attend the meeting pointed out a serious flaw in the logic used to come to the decision. Finally, WG meetings aren't "drafting sessions", as they are in some other standards bodies: in the IETF, drafting is done elsewhere.
