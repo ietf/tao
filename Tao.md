@@ -1310,19 +1310,59 @@ The IESG has created guidelines on how it chooses between Informational and Expe
 
 ### 7.1 What You Can Do
 
-Read — Review the Internet-Drafts in your area of expertise and comment on them in the Working Groups. Participate in the discussion in a friendly, helpful fashion, with the goal being the best Internet standards possible. Listen much more than you speak. If you disagree, debate the technical issues: never attack the people.
+**Read:** Review the Internet-Drafts in your area of expertise and comment on
+them in the Working Groups. Participate in the discussion in a friendly,
+helpful fashion, with the goal being the best Internet standards possible.
+Listen much more than you speak. If you disagree, debate the technical
+issues: never attack the people.
 
-Implement — Write programs that use the current Internet standards. The standards aren't worth much unless they are available to Internet users. Implement even the "minor" standards, since they will become less minor if they appear in more software. Report any problems you find with the standards to the appropriate Working Group so that the standard can be clarified in later revisions. One of the oft-quoted tenets of the IETF is "running code wins", so you can help support the standards you want to become more widespread by creating more running code. You can help the development of protocols before they become standards by implementing (but not deploying) from I-Ds to ensure that the authors have done a good job. If you find errors or omissions, offer improvements based on your implementation experience.
+**Implement:** Write programs that use the current Internet standards. The
+standards aren't worth much unless they are available to Internet users.
+Implement even the "minor" standards, since they will become less minor if
+they appear in more software. Report any problems you find with the standards
+to the appropriate Working Group so that the standard can be clarified in
+later revisions. Remember the tenet, "rough consensus and running code,"
+so you can help support the standards you want to become more
+widespread by creating more running code. You can help the development of
+protocols before they become standards by implementing drafts (but not doing
+wide-spread deployment) to ensure that the authors have done a good job. If
+you find errors or omissions, offer improvements based on your implementation
+experience. A great way to get involved in this is by participating in
+the Hackathons.
 
-Write — Edit or co-author Internet-Drafts in your area of expertise. Do this for the benefit of the Internet community, not to get your name (or, even worse, your company's name) on a document. Draft authors are subject to all kinds of technical (and sometimes personal) criticism; receive it with equanimity and use it to improve your draft in order to produce the best and most interoperable standard.
+**Write:** Edit or co-author Internet-Drafts in your area of expertise. Do
+this for the benefit of the Internet community, not to get your name (or,
+even worse, your company's name) on a document. Draft authors receive kinds
+of technical (and, sadly, sometimes personal) criticism. Take the technical
+comments with equanimity and use it to improve your draft in order to produce
+the best and most interoperable standard, and ignore the personal ones.
 
 ### 7.2 What Your Company Can Do
 
-Share — Avoid proprietary standards. If you are an implementor, exhibit a strong preference for IETF standards. If the IETF standards aren't as good as the proprietary standards, work to make the IETF standards better. If you're a purchaser, avoid products that use proprietary standards that compete with the open standards of the IETF and tell the companies you buy from that you are doing so.
+**Share:** Avoid proprietary standards. If you are an implementor, exhibit a
+strong preference for IETF standards. If the IETF standards aren't as good as
+the proprietary standards, work to make the IETF standards better. If you're
+a purchaser, avoid products that use proprietary standards that compete with
+the open standards of the IETF and tell the vendors that you are doing so.
 
-Open Up — If your company controls a patent that is used in an IETF standard, convince the company to make the patent available at no cost to everyone who is implementing the standard. In the past few years, patents have caused a lot of serious problems for Internet standards because they prevent some companies from being able to freely implement the standards. Fortunately, many companies have generously offered unlimited licenses for particular patents in order to help the IETF standards flourish. These companies are usually rewarded with positive publicity for the fact that they are not as greedy or short-sighted as other patent-holders.
+**Open Up:** If your company owns a patent that is used in an IETF standard,
+convince the company to make the patent available at no cost to anyone who is
+implementing the standard. Patents have previously caused many serious
+problems for Internet standards because they prevent some companies from
+being able to freely implement them.  Fortunately, many companies have
+generously offered unlimited licenses for particular patents in order to help
+the IETF standards flourish. These companies are usually rewarded with
+positive publicity for the fact that they are not as greedy or short-sighted
+as other patent-holders.
 
-Join — Become a member of ISOC. More important, urge any company that has benefited from the Internet to become a corporate member of ISOC, since this has the greatest financial benefit for the group. It will, of course, also benefit the Internet as a whole.
+**Join:** The IETF has <a href="https://ietf.org/about/donors/">sponsorship
+opportunities</a> and
+<a href="https://www.ietf.org/endowment/donate-ietf-endowment/">an endowment</a>
+which can also take individual-sized donations.
+Become a member of ISOC. Urge any company that has
+benefited from the Internet to contribute, since this has the greatest
+financial benefit for the group. It will, of course, also benefit the
+Internet as a whole.
 
 <a name="outside"></a>
 
