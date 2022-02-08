@@ -783,21 +783,22 @@ colors have the meanings shown here.
 </table>
 </div>
 
-Members of the press wear orange tinted badges with the word 'press' on them.
+Members of the press wear orange-tinted badges with the word "press" on them.
 
 As newcomer, don't be afraid to strike up conversations with people who wear
 these dots. If the IAB and IESG members and Working Group and BOF chairs
 didn't want to talk to anybody, they wouldn't be wearing the dots in the
 first place! Note, however, that IETF meetings are usually intense times for
-Area Directors. Talking to an AD during an IETF meeting will often lead to a
-request to send her or him email about two weeks later. Also, when you start
+Area Directors. Talking to an AD during an IETF meeting will often result
+in them asking you to send email after the meeting ends.
+Also, when you start
 a hallway conversation with an Area Director (or even a WG chair, for that
 matter), it is often good to give them about 30 seconds of context for the
 discussion.
 
 Near the registration area there are usually ribbons and markers so that
 people can label their specific interests, history, and so on.
-Many people use them to make jokes, and the jokes are usually not funny.
+Many people use them to make (inside) jokes, which are sometimes amusing.
 
 ### 3.7 Terminal Room
 
@@ -807,8 +808,8 @@ access to a printer. The people and companies that donate their equipment,
 services, and time are to be heartily congratulated and thanked.
 
 You must be wearing your badge in order to get into the terminal room. The
-terminal room provides lots of power strips, lots of Ethernet ports, wireless
-(for the people who don't need Ethernet but want power), What it doesn't
+terminal room provides power strips, Ethernet ports, and wifi
+(for the people who don't need Ethernet but want power). What it doesn't
 provide are terminals; the name is historical. The help desk in the terminal
 room is also a good place to ask questions about network failures, although
 they might point you off to different networking staff.
@@ -850,11 +851,11 @@ The agenda for the IETF meetings is a very fluid thing. It is available on
 the web and through the IETF mobile apps starting a few weeks before the
 meeting. Of course, "final" in the IETF doesn't mean the same thing as it
 does elsewhere in the world. The final agenda is simply the last version
-posted before the meeting. he Secretariat will post agenda changes on the
+posted before the meeting. The Secretariat will post agenda changes on the
 bulletin board near the IETF registration desk (reminder, not the hotel
-registration desk). These late changes are not capricious: they are made
+registration desk!). These late changes are not capricious: they are made
 "just in time" as session chairs and speakers become aware of unanticipated
-clashes. The IETF is too dynamic for agendas to be tied down weeks in
+conflicts. The IETF is too dynamic for agendas to be tied down weeks in
 advance.
 
 A map showing the hotel layout and, specifically the meeting rooms, is also
