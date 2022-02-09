@@ -525,7 +525,7 @@ Anyone who plans to participate in the IETF should join the <a
 href="https://www.ietf.org/mailman/listinfo/ietf-announce">IETF announcement
 mailing list</a>.  This is where all of the meeting information, RFC
 announcements, and IESG Protocol Actions and Last Calls are posted.  This
-list is strongly moderated, and nly the Secretariat and a small number of
+list is strongly moderated, and only the Secretariat and a small number of
 IETF leaders can approve messages sent to the announcement list, although
 those messages can come from a variety of people.
 
