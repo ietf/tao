@@ -91,7 +91,7 @@ document but an informal and informational overview.
 7.2 What Your Company Can Do<br>
 <br>
 8. <a href="#outside">IETF and the Outside World</a><br>
-8.1 IETF and Other Standards Groups<br>
+8.1 IETF and Other SDOs<br>
 8.2 Press Coverage of the IETF<br>
 <br>
 
@@ -1527,22 +1527,66 @@ Internet as a whole.
 
 ## 8. IETF and the Outside World
 
-### 8.1 IETF and Other Standards Groups
+While many IETF participants would like to think otherwise, the IETF
+does not exist in a standards vacuum. This section discusses two important
+groups.
 
-As much as many IETF participants would like to think otherwise, the IETF does not exist in a standards vacuum. There are many (perhaps too many) other standards organizations whose decisions affect the Internet. There are also a fair number of standards bodies that ignored the Internet for a long time and now want to get a piece of the action.
+### 8.1 IETF and Other SDOs
 
-In general, the IETF tries to have cordial relationships with other standards bodies. This isn't always easy, since many other bodies have very different structures than the IETF does, and the IETF is mostly run by volunteers who would probably prefer to write standards rather than meet with representatives from other bodies. Even so, some other standards bodies make a great effort to interact well with the IETF despite the obvious cultural differences.
+There are many other standards organizations whose decisions affect the
+Internet. Some of them ignored the Iternet for a long time and now want to
+get a piece of the action. In general, the IETF tries to have cordial
+relationships with other SDOs. This isn't always easy, since they usually
+have different structures and processes than the IETF does, and the IETF is
+mostly run by volunteers who would probably prefer to write standards rather
+than meet with representatives from other bodies. Even so, man SDOs make a
+great effort to interact well with the IETF despite the obvious cultural
+differences.
 
-At the time of this writing, the IETF has some liaisons with large standards bodies, including the ITU-T (the Telecommunication Standardization Sector of the International Telecommunication Union), the W3C (World Wide Web Consortium), the IEEE (the Institute of Electrical and Electronics Engineers), and the Unicode Consortium. As stated in <a href="https://tools.ietf.org/html/bcp39">the IAB Charter (BCP39)</a>, "Liaisons are kept as informal as possible and must be of demonstrable value in improving the quality of IETF specifications". In practice, the IETF prefers liaisons to take place directly at Working Group level, with formal relationships and liaison documents in a backup role.
+As stated in <a href="https://tools.ietf.org/html/bcp39">the IAB Charter
+(BCP39)</a>, "Liaisons are kept as informal as possible and must be of
+demonstrable value in improving the quality of IETF specifications." In
+practice, the IETF prefers liaisons to take place directly at the WG
+level, with formal relationships and liaison documents in a backup role. The
+best place to check to see whether the IETF has any formal liaison at all is
+the list of <a href="https://www.ietf.org/about/liaisons">IETF liaisons</a>.
 
-Some of these liaison tasks fall to the IESG, whereas others fall to the IAB. Detail-oriented readers will learn much about the formal methods for dealing with other standards bodies in <a href="https://tools.ietf.org/html/bcp102">BCP 102</a>, "IAB Processes for Management of IETF Liaison Relationships", and <a href="https://tools.ietf.org/html/bcp103">BCP 103</a>, "Procedures for Handling Liaison Statements to and from the IETF". The best place to check to see whether the IETF has any formal liaison at all is the list of <a href="https://www.ietf.org/about/liaisons">IETF liaisons</a>.
+At the time of this writing, the IETF has around two dozen liaisons. Some of
+these liaison tasks fall to the IESG, whereas others fall to the IAB.
+Full details about the processes for dealing with other SDOs can be
+found in
+<a href="https://tools.ietf.org/html/bcp102">BCP 102</a>, "IAB Processes for
+Management of IETF Liaison Relationships", and <a
+href="https://tools.ietf.org/html/bcp103">BCP 103</a>, "Procedures for
+Handling Liaison Statements to and from the IETF".
 
 <a name="press-coverage"></a>
 
 ### 8.2 Press Coverage of the IETF
 
-Given that the IETF is one of the best-known bodies that is helping move the Internet forward, it's natural for the computer press (and even the trade press) to cover its actions. But it can be hard to cover the IETF. A common misunderstanding is that the IETF is considering something when in fact there is just an Internet-Draft in a Working Group, and reporting that the IETF approved something when all that happened was that an Informational RFC was published. In both cases, the press is not really to blame for the problem, since they are usually alerted to the story by a company trying to get publicity for a protocol that they developed or at least support. The default place that press should look for press contacts for the IETF is [https://www.ietf.org/contact].
+Given that the IETF is one of the best-known bodies that is helping move the
+Internet forward, it's natural for the media to cover its actions. But it can
+be hard to cover the IETF; a common mistake is reporting an individual's
+Internet-Draft as something the IETF is working on, or that the IETF has
+approved a new standard when it was an Informational or Individual RFC.
+Often, the press is not really to blame for the problem, as they might have
+been alerted to the story by a company trying to get publicity for a
+protocol, or they see the latest "controversy" on social media.
 
-Reporters who want to find out about "what the IETF is doing" on a particular topic would be well-advised to talk to more than one person who is active on that topic in the IETF, and should probably try to talk to the WG chair in any case. It's impossible to determine what will happen with a draft by looking at the draft or talking to the draft's author. Fortunately, all WGs have archives that a reporter can look through for recent indications about what the progress of a draft is; unfortunately, few reporters have the time or inclination to do this kind of research. 
+Reporters who want to find out about "what the IETF is doing" on a particular
+topic would be well-advised to talk to more than one person who is active on
+that topic in the IETF, and should probably try to talk to the WG chair in
+any case. It's impossible to determine what will happen with a draft by
+looking at the draft or talking to the draft's author. Fortunately, all WGs
+have archives that a reporter can look through for recent indications about
+what the progress of a draft is; unfortunately, few reporters have the time
+or inclination to do this kind of research.
 
-Reporters looking for information about the IETF, or pointers to IETF participants working on a particular topic relevant to the IETF, are encouraged to send email to media@ietf.org. Replies are usually sent within a day. Even if a direct answer to a particular query is not available, pointers to resources or people who can provide more information about a topic are often provided.
+Reporters looking for information about the IETF, or pointers to IETF
+participants working on a particular topic relevant to the IETF, should send
+a message to <a href="mailto:media@ietf.org">media@ietf.org</a>, and a full
+page of contacts for a variety of needs is available
+<a href="https://www.ietf.org/contact/">online</a>. Replies are usually sent
+within a day. Even if a direct answer to a particular query is not available,
+pointers to resources or people who can provide more information about a
+topic are often provided.
