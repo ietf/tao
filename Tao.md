@@ -1049,83 +1049,222 @@ conflicts are unavoidable.
 
 ## 4. Working Groups
 
-The vast majority of the IETF's work is done in many Working Groups; at the time of this writing, there are about 115 different WGs. <a href="https://tools.ietf.org/html/bcp25">BCP 25</a>, "IETF Working Group Guidelines and Procedures", is an excellent resource for anyone participating in WG discussions.
+The vast majority of the IETF's work is done in its many Working Groups; at
+the time of this writing, there are well over one hundred different WGs.
+<a href="https://www.rfc-editor.org/info/bcp25">BCP 25</a>, "IETF Working
+Group Guidelines and Procedures," is an excellent resource for anyone
+participating in WG discussions. The full list of working groups can be
+found on the <a href="https://datatracker.ietf.org/wg/">datatracker</a>.
 
-A WG is really just a mailing list with a bit of supervision and facilitation. You "join" the WG by subscribing to the mailing list; all mailing lists are open to anyone. Anyone can post to a WG mailing list, although most lists require non-subscribers to have their postings moderated. Each Working Group has one or two (or, rarely, three) chairs.
+A WG is really just a mailing list with a bit of supervision and facilitation.
+You "join" the WG by subscribing to the mailing list; all mailing lists are open
+to anyone. Anyone can post to a WG mailing list, although non-subscribers have
+to have their postings approved first.
 
-More important, each WG has a charter that the WG is supposed to follow. The charter states the scope of discussion for the Working Group, as well as its goals. The WG's mailing list and face-to-face meetings are supposed to focus on just what is in the charter and not to wander off on other "interesting" topics. Of course, looking a bit outside the scope of the WG is occasionally useful, but the large majority of the discussion should be on the topics listed in the charter. In fact, some WG charters actually specify what the WG will not do, particularly if there were some attractive but nebulous topics brought up during the drafting of the charter. The list of all WG charters makes interesting reading for folks who want to know what the different Working Groups are supposed to be doing.
+More importantly, each WG has a charter that the WG is supposed to follow. The
+charter states the scope of discussion for the Working Group and its goals. The
+WG's mailing list and face-to-face meetings are supposed to focus on ony what is
+in the charter and not to wander off on other "interesting" topics. Of course,
+looking a bit outside the scope of the WG is occasionally useful, but the large
+majority of the discussion should be on the topics listed in the charter. In fact,
+some WG charters actually specify what the WG will not do, particularly if there
+were some attractive but nebulous topics brought up during the drafting of the
+charter. The list of all WG charters makes interesting reading for folks who want
+to know what the different Working Groups are supposed to be doing.  Each WG has
+its own page on the datatracker.
 
 ### 4.1 Working Group Chairs
 
-The role of the WG chairs is described in both <a href="https://tools.ietf.org/html/bcp11">BCP 11</a> and <a href="https://tools.ietf.org/html/bcp25">BCP 25</a>.
+Each Working Group has one or two (or, rarely, three) chairs. The role of the WG
+chairs is described in both <a href="https://www.rfc-editor.org/info/bcp11">BCP 11</a>
+and <a href="https://www.rfc-editor.org/info/bcp25">BCP 25</a>.
 
-As volunteer cat-herders, a chair's first job is to determine the WG consensus goals and milestones, keeping the charter up to date. Next, often with the help of WG secretaries or document editors, the chair must manage WG discussion, both on the list and by scheduling meetings when appropriate. Sometimes discussions get stuck on contentious points and the chair may need to steer people toward productive interaction and then declare when rough consensus has been met and the discussion is over. Sometimes chairs also manage interactions with non-WG participants or the IESG, especially when a WG document approaches publication. Chairs have responsibility for the technical and non-technical quality of WG output. As you can imagine given the mix of secretarial, interpersonal, and technical demands, some Working Group chairs are much better at their jobs than others.
-
-WG chairs are advised to participate in the WG chairs lunch mid-week during the meeting where chair-specific topics are presented and discussed. Slides of the previous versions of this session can be found in the datatracker.
+Chairs have responsibility for the technical and non-technical quality of WG output.
+The chair must keep the WG productive, and making progress on its drafts. Sometmes there
+is a WG Secretary to help. Document editors, too, are usually incented in making
+progress on their drafts. The chair must manage WG discussion, both on the
+list and by scheduling meetings when appropriate. Sometimes discussions get stuck
+on contentious points and the chair may need to steer people toward productive
+interaction and then declare when rough consensus has been met and the discussion
+is over. Sometimes chairs also manage interactions with non-WG participants or the
+IESG, especially when a WG document approaches publication. As you can imagine given
+the mix of secretarial, interpersonal, and technical demands, some Working Group
+chairs are much better at their jobs than others.
 
 <a name="rough-consensus"></a>
 
 ### 4.2 Getting Things Done in a Working Group
 
-One fact that confuses many newcomers is that the face-to-face WG meetings are much less important in the IETF than they are in most other organizations. Any decision made at a face-to-face meeting must also gain consensus on the WG mailing list. There are numerous examples of important decisions made in WG meetings that are later overturned on the mailing list, often because someone who couldn't attend the meeting pointed out a serious flaw in the logic used to come to the decision. Finally, WG meetings aren't "drafting sessions", as they are in some other standards bodies: in the IETF, drafting is done elsewhere.
+One fact that confuses many newcomers is that the face-to-face WG meetings are much
+less important in the IETF than they are in most other organizations. Any decision
+made at a face-to-face meeting must also gain consensus on the WG mailing list. This
+is sometimes phrased as "at the last WG meeting, we decided XXX; if you disagree
+please speak up by the end of the week" and you'll therefore often hear the phrase
+"to be confirmed on the list." There are numerous examples of important decisions
+made in WG meetings that are later overturned on the mailing list, often because
+someone who couldn't attend the meeting pointed out a serious flaw in the logic
+used to come to the decision. Finally, WG meetings aren't "drafting sessions"
+as they are in some other standards bodies: in the IETF, drafting is done elsewhere.
 
-Another aspect of Working Groups that confounds many people is the fact that there is no formal voting. The general rule on disputed topics is that the Working Group has to come to "rough consensus", meaning that a very large majority of those who care must agree. The exact method of determining rough consensus varies from Working Group to Working Group. Sometimes consensus is determined by "humming" — if you agree with a proposal, you hum when prompted by the chair. Most "hum" questions come in two parts: you hum to the first part if you agree with the proposal, or you hum to the second part if you disagree with the proposal. Newcomers find it quite peculiar, but it works. It is up to the chair to decide when the Working Group has reached rough consensus.
+Another aspect of Working Groups that confounds many people is the fact that
+there is no formal voting. The general rule on disputed topics is that the
+Working Group has to come to "rough consensus," meaning that a very large
+majority of those who care must agree, and that those in the minority have had a
+chance to explain why. Generally consensus is determined by *humming*: if you
+agree with a proposal, you hum when prompted by the chair. Most hum questions
+come in three parts: you hum to the first part if you agree with the proposal,
+to the second part if you disagree, or to the third part if you do not have
+enough information to make up your mind. Newcomers find it quite peculiar, but
+it works. It is up to the chair to decide when the Working Group has reached
+rough consensus; sometimes the responsible AD will also do so.
 
-The lack of formal voting has caused some very long delays for some proposals, but most IETF participants who have witnessed rough consensus after acrimonious debates feel that the delays often result in better protocols. (And, if you think about it, how could you have "voting" in a group that invites all interested individuals to participate, and when it's impossible to count the participants?) Rough consensus has been defined in many ways; a simple version is that it means that strongly held objections must be debated until most people are satisfied that these objections are wrong.
+The lack of formal voting has caused some very long delays for some proposals,
+but most IETF participants who have witnessed rough consensus after acrimonious
+debates feel that the delays often result in better protocols. (And, if you
+think about it, how could you have "voting" in a group that invites all
+interested individuals to participate, and when it's impossible to count the
+participants?) The common definition and practice of humming can be found in
+<a href="https://www.rfc-editor.org/info/rfc7282">RFC 7282: On Consensus and
+Humming in the IETF</a>.
 
-A related problem is that some people think that their proposals should be discussed in the WG even when the WG Chairs do not. For example, if the proposed work is not really part of the charter, the WG Chairs may constrain the discussion of the proposal in order to keep the WG focused on the chartered work. Individuals who think that a WG should bring up a topic that is considered off-charter by the WG Chairs can bring their concerns to the responsible AD; the AD may agree to adjust the charter to add the topic with the working group, or that it is already covered in the charter, or that the WG Chairs are correct and that the participant should work on the proposal outside the WG.
+A related problem is that some people think that their topic should be discussed
+in the WG even when the WG chair believes it is outside the scope of the chater.
+If the WG agress, they can work to *re-chater* so that the topic is in scope.
+The individual can also bring their concerns to the responsible AD.
 
-When a WG document has been fully discussed, it usually goes through Working Group Last Call (often abbreviated as "WGLC"). This is a hopefully-final time for the WG to iron out issues. Sometimes, WGLC will bring out so many issues that there will be a second WGLC after the revisions have been incorporated. There are no formal rules for how a WGLC happens, or even if a WGLC is needed: it is up to the WG chairs.
-
-Another method that some Working Groups adopt is to have a Working Group "secretary" to handle the juggling of the documents and the changes. The secretary can run the issue tracker if there is one, or can simply be in charge of watching that all of the decisions that are made on the mailing list are reflected in newer versions of the documents.
-
-When a WG has fulfilled its charter, it is supposed to cease operations. (Most WG mailing lists continue on after a WG is closed, still discussing the same topics as the Working Group did.) In the IETF, it is a mark of success that the WG closes up because it fulfilled its charter. This is one of the aspects of the IETF that newcomers who have experience with other standards bodies have a hard time understanding. However, some WG chairs never manage to get their WG to finish, or keep adding new tasks to the charter so that the Working Group drags on for many years (or, in a few cases, decades). The output of these aging WGs is often not nearly as useful as the earlier products, and the messy results are sometimes attributed to what's called "degenerative Working Group syndrome".
+When a WG has fulfilled its charter, it is supposed to cease operations. (Most
+WG mailing lists continue on after a WG is closed, still discussing the same
+topics as the Working Group did.) In the IETF, it is a mark of success that the
+WG closes up because it fulfilled its charter. This is one of the aspects of the
+IETF that newcomers who have experience with other standards bodies have a hard
+time understanding.
 
 ### 4.3 Working Group Documents
 
-There is an official distinction between WG drafts and individual drafts, but in practice, sometimes there is not much procedural difference. For example, many WG mailing lists also discuss individual drafts (at the discretion of the WG chair). The WG chairs get to make the decisions about which drafts will become WG drafts and who the authors or editors of those drafts will be, usually based on consultation with the WG, and sometimes with their Area Director. This process can be tricky in cases where many people want to be a draft author, but can be just as tricky when no one wants to be a draft author but the WG is charted to do some specific work. Procedures for Internet-Drafts are covered in much more detail later in this document.
+There is an official distinction between WG drafts and individual drafts. A WG
+will have to review an individual draft before deciding if it should be adopte
+by the WG. The WG chairs appoint who will be the authors or editors of the
+drafts; often those who wrote the initial draft continue work on behalf of the
+WG. Procedures for Internet-Drafts are covered in much more detail later in this
+document.
 
-Some Working Groups have complex documents or a complex set of documents (or even both). Shaking all the bugs out of one or more complex documents is a daunting task. In order to help relieve this problem, some Working Groups use "issue trackers", which are online lists of the open issues with the documents, the status of the issue, proposed fixes, and so on. Using an issue tracker not only helps the WG not to forget to do something important, it helps when someone asks a question later about why something was done in a particular fashion.
+For Working Group documents, the document editor serves at the pleasure of the
+WG Chair. There is often more than one editor for Working Group documents,
+particularly for complex documents. The document editor is responsible for
+ensuring that the contents of the document accurately reflects Working Group
+decisions; when a document editor does not follow the WG consensus, the WG
+Chairs will either be more forceful about getting changes that match the
+consensus or replace the document editor with someone more responsive to the WG.
+As a Working Group document is progressing, participants suggest changes on the
+Working Group's mail list (or online if the document is maintained somewhere
+accessible); the editors are expected to follow the discussion and make changes
+when there is consensus.
 
-For Working Group documents, the document editor serves at the pleasure of the WG Chair. There are often more than one editor for Working Group documents, particularly for complex documents. The document editor is responsible for ensuring that the contents of the document accurately reflects Working Group decisions, particularly when creating a new protocol or extension; when a document editor does not follow the WG consensus, the WG Chairs will either be more forceful about getting changes that match the consensus or replace the document editor with someone more responsive to the WG. As a Working Group document is progressing, participants suggest changes on the Working Group's mail list; the editors are expected to follow the discussion and make changes when there is agreement.
+Sometimes a Working Group will consider several alternatives before selecting a
+particular Internet-Draft as a Working Group document. A Working Group will
+often take ideas from several of the alternatives to create a single Working
+Group document; in such a case, the chair determines who will be listed as
+authors on the title page and who will be acknowledged as contributors in the
+body of the document.
 
-If a participant makes significant contributions, the document editor or chair can invite the participant to become a co-author or co-editor, although such an addition needs to be approved by the WG Chairs. Sometimes a Working Group will consider several alternatives before selecting a particular Internet-Draft as a Working Group document. A Working Group will often take ideas from several of the alternatives to create a single Working Group document; in such a case, the chair determines who will be listed as authors on the title page and who will be acknowledged as contributors in the body of the document.
-
-When a WG document is ready to progress beyond the WG, the WG Chairs will assign a "shepherd" to take over the final process. The role of the document shepherd is described in <a href="https://tools.ietf.org/html/rfc4858" >RFC 4858</a>.
+When a WG document is ready to progress beyond the WG, the WG Chairs will assign
+a "shepherd" to take over the final process. The role of the document shepherd
+is described in <a href="https://www.rfc-editor.org/info/rfc4858">RFC 4858:
+Document Shepherding from Working Group Last Call to Publication</a>. The chair,
+who knows the history of the draft within the WG, often does the shepherd
+write-up.
 
 ### 4.4 Preparing for Working Group Meetings
 
-The most important thing that everyone (newcomers and seasoned experts) should do before coming to a face-to-face meeting is to read the Internet-Drafts and RFCs ahead of time. WG meetings are explicitly not for education: they are for developing the group's documents. Even if you do not plan to say anything in the meeting, you should read, or at least skim, the group's documents before attending so you can understand what is being said.
+The most important thing that **everyone** should do before coming to a
+face-to-face meeting is to read the Internet-Drafts and RFCs ahead of time. WG
+meetings are explicitly not for education: they are for developing the group's
+documents and often the documented is presented as a set of slides saying
+"here's what changed since last meeting." Even if you do not plan to say
+anything in the meeting, you should read, or at least skim, the group's
+documents before attending so you can understand what is being said.
 
-It's up to the WG chairs to set the meeting agenda, usually a few weeks in advance. If you want something discussed at the meeting, be sure to let the chair know about it. The agendas for all the WG meetings are available in advance on the IETF web site, but some WG chairs are lax (if not totally negligent) about turning them in.
+It's up to the WG chairs to set the meeting agenda, usually a few weeks in
+advance. If you want something discussed at the meeting, be sure to let the
+chair know about it. The agendas for all the WG meetings are available in
+advance on the datatacker, and links to will be found on every full meeting
+agenda. Unfortunately, some WG chairs are lax (if not totally negligent) about
+turning them in.
 
-The Secretariat only schedules WG meetings a few weeks in advance, and the schedule often changes as little as a week before the first day. If you are only coming for one WG meeting, you may have a hard time booking your flight with such little notice, particularly if the Working Group's meeting changes schedule. Be sure to keep track of the current agenda so you can schedule flights and hotels. But, when it comes down to it, you probably shouldn't be coming for just one WG meeting. It's likely that your knowledge could be valuable in a few WGs, assuming that you've read the drafts and RFCs for those groups. Work in the IETF is often reciprocal, contribute positively to others work and you are more likely to receive comments and feedback on your work.
+The Secretariat only makes the full IETF meeting schedule a few weeks in
+advance, and the schedule often changes as little as a week before the first
+day. If you are only coming for one WG meeting, you may have a hard time booking
+your flight with such little notice, particularly if the Working Group's meeting
+changes schedule. Be sure to keep track of the current agenda so you can
+schedule flights and hotels. But, when it comes down to it, you probably
+shouldn't be coming for just one WG meeting. It's likely that your knowledge
+could be valuable in a few WGs, assuming that you've read the drafts and RFCs
+for those groups. Work in the IETF is often reciprocal, contribute positively to
+others work and you are more likely to receive comments and feedback on your
+work.
 
-If you are on the agenda at a face-to-face meeting, you should probably come with a few slides prepared. But don't come with a tutorial; people are supposed to read the drafts in advance. Projectors for laptop-based presentations are available in all the meeting rooms.
+If you are on the agenda at a face-to-face meeting, you should prepare a few
+slides and mail them to the chair before the meeting. Don't come with a
+tutorial; people are supposed to read the drafts in advance. Projectors for
+laptop-based presentations are available in all the meeting rooms.
 
-And here's a tip for your slides in WG or plenary presentations: don't put your company's logo on every one, even though that is a common practice outside the IETF. The IETF frowns on this kind of corporate advertising (except for the meeting sponsor in the plenary presentation), and most presenters don't even put their logo on their opening slide. The IETF is about technical content, not company boosterism. Slides are often plain black and white for legibility, with color used only when it really adds clarity. Again, the content is the most important part of the slides, not how it's presented.
+And here's a tip for your slides: don't put your company's logo on every one,
+even though that is a common practice outside the IETF. The IETF frowns on this
+kind of corporate advertising (except for the meeting sponsor in the plenary
+presentation), and most presenters don't even put their logo on their opening
+slide. The IETF is about technical content, not company boosterism. Slides are
+often plain black and white for legibility, with color used only when it really
+adds clarity. Again, the content is the most important part of the slides, not
+how it's presented.
 
-One thing you might find helpful, and possibly even entertaining, during Working Group sessions is to follow the running commentary on the Jabber room associated with that Working Group. The running commentary is often used as the basis for the minutes of the meeting, but it can also include jokes, sighs, and other extraneous chatter. Jabber is a free, streaming XML technology mainly used for instant messaging. You can find pointers to Jabber clients for many platforms at [https://xmpp.org/xmpp-software/clients]. The Jabber chatrooms have the name of the Working Group followed by "@jabber.ietf.org". Those rooms are, in fact, available year-round, not just during IETF meetings, and some are used by active Working Group participants during protocol development.
+One thing you might find helpful, and possibly even entertaining, during Working
+Group sessions is to follow the running commentary on the Jabber room associated
+with that Working Group. Jabber is a free, streaming XML technology mainly used
+for instant messaging. You can find pointers to Jabber clients for many
+platforms at [https://xmpp.org/xmpp-software/clients]. The Jabber chatrooms have
+the name of the Working Group followed by "@jabber.ietf.org". Those rooms are,
+in fact, available year-round, not just during IETF meetings, and some are used
+by active Working Group participants during protocol development.
 
 ### 4.5 Working Group Mailing Lists
 
-As we mentioned earlier, the IETF announcement and discussion mailing lists are the central mailing lists for IETF activities. However, there are many other mailing lists related to IETF work. For example, every Working Group has its own discussion list. In addition, there are some long-term technical debates that have been moved off of the IETF list onto lists created specifically for those topics. It is highly recommended that you follow the discussions on the mailing lists of the Working Groups that you wish to attend. The more work that is done on the mailing lists, the less work that will need to be done at the meeting, leaving time for cross pollination (i.e., attending Working Groups outside one's primary area of interest in order to broaden one's perspective).
+As we mentioned earlier, the IETF announcement and discussion mailing lists are
+the central mailing lists for IETF activities. However, there are many other
+mailing lists related to IETF work. For example, every Working Group has its own
+discussion list. In addition, there are some long-term technical debates that
+have been moved off of the IETF list onto lists created specifically for those
+topics. It is highly recommended that you follow the discussions on the mailing
+lists of the Working Groups that you wish to attend. The more work that is done
+on the mailing lists, the less work that will need to be done at the meeting,
+leaving time for cross pollination (i.e., attending Working Groups outside one's
+primary areas of interest in order to broaden one's perspective).
 
-The mailing lists also provide a forum for those who wish to follow, or contribute to, the Working Groups' efforts, but can't attend the IETF meetings. That's why IETF procedures require all decisions to be confirmed "on the list" and you will often hear a WG chair say, "Let's take it to the list" to close a discussion.
+The mailing lists also provide a forum for those who wish to follow, or
+contribute to, the Working Groups' efforts, but can't attend the IETF meetings.
+That's why IETF procedures require all decisions to be confirmed "on the list"
+and you will often hear a WG chair say, "Let's take it to the list" to close a
+discussion.
 
-Many IETF discussion lists use either mailman or another list manager, Majordomo. They usually have a "-request" address that handles the administrative details of joining and leaving the list. (See Section 2.3 for more information on mailman.) It is generally frowned upon when such administrivia appears on the discussion mailing list.
-
-IETF discussion lists are archived. That is, all of the messages sent to the list are automatically stored and made accessible. Many such archives are <a href="https://mailarchive.ietf.org/">listed online</a>. If you don't find the list you're looking for, send a message to the list's "-request" address (not to the list itself!). <a href="https://datatracker.ietf.org/wg">The Working Group charter listings</a> are a useful source. There is a <a href="https://www6.ietf.org/wg/concluded">list of old, concluded WGs</a>. 
-
-Some WG lists apply size limits on messages, particularly to avoid large documents or presentations landing in everyone's mailbox. It is well worth remembering that although most participants do, not all have broadband connections (those in remote locations may still rely on lower bandwidth, slower connection when the Internet is available to them), so shorter messages are greatly appreciated. Documents can be posted as Internet-Drafts; presentation material can be posted to a web site controlled by the sender or sent personally to people who ask for it. Some WGs set up special sites to hold these large documents so that senders can post there first, then just send to the list the URL of the document.
+Every WG has a dedicated page on the datatracker site, and the "About" tab will
+point to mailing list subscription and archives. Every IETF list is archived.
 
 ### 4.6 Interim Working Group Meetings
 
-Working Groups sometimes hold interim meetings between IETFs. Interim meetings aren't a substitute for IETF meetings, however — a group can't decide to skip a meeting in a location they're not fond of and meet in Cancun (or even someplace mundane) three weeks later, for example. Interim meetings require AD approval and need to be announced at least one month in advance. Location and timing need to allow fair access for all participants. Like regular IETF meetings, someone needs to take notes and the group needs to take attendance. Decisions tentatively made during an interim WG meeting still must be ratified on the mailing list.
+Working Groups sometimes hold interim meetings between IETFs. Interim meetings
+aren't a substitute for IETF meetings, however — a group can't decide to skip a
+meeting in a location they're not fond of and meet in Cancun (or even someplace
+mundane) three weeks later, for example. Interim meetings need to be announced
+at least one month in advance. Location and timing need to allow fair access for
+all participants. Like regular IETF meetings, someone needs to take notes and
+the group needs to take attendance. Decisions tentatively made during an interim
+WG meeting must still be confirmed on the mailing list. Interim meetins are
+subject to the IETF Note Well. Most interim meetings are virtual these days and
+ have the same reporting requirements as face-to-face virtual meetings.
 
-Some Working Groups host "virtual interim meetings" which take place over the collaborative online tools or phone instead of face-to-face. Virtual interim meetings can be useful for getting Working Groups to pay attention to their work between the regular IETF face-to-face meetings, speed work progress, and have a much lower cost for attendance than face-to-face interim meetings. Virtual interim meetings have the same reporting requirements as face-to-face virtual meetings.
-
-The IESG has rules for advance notice on time and place of interim Working Group meetings, as well as reporting the results of the meetings. The purpose of these rules is to make interim meetings accessible to as many Working Group members as possible and to maintain the transparency of the Working Group process.
+The IESG has rules for advance notice on time and place of interim Working Group
+meetings, as well as reporting the results of the meetings. The purpose of these
+rules is to make interim meetings accessible to as many Working Group members as
+possible and to maintain the transparency of the Working Group process.
 
 <a name="bofs"></a>
 
