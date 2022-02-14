@@ -1268,17 +1268,43 @@ possible and to maintain the transparency of the Working Group process.
 
 <a name="bofs"></a>
 
-## 5. BOFs
+## 5. BOFs and Dispatching
 
-In order to form a Working Group, you need a charter and someone who is able to be chair. In order to get those things, you need to get people interested so that they can help focus the charter and convince an Area Director that the project is worthwhile. A face-to-face meeting is useful for this. In fact, very few WGs get started by an Area Director; most start after a face-to-face BOF because attendees have expressed interest in the topic.
+In order to form a Working Group, you need a charter and someone who is able
+to be chair. In order to get those things, you need to get people interested
+so that they can help focus the charter and convince an Area Director that
+the project is worthwhile. A face-to-face meeting is useful for this. In
+fact, very few WGs get started without an initial meeting.
 
-A Birds of a Feather (BOF) meeting has to be approved by the Area Director in the relevant Area before it can be scheduled. If you think you really need a new WG, approach an AD informally with your proposal and see what he or she thinks. The next step is to request a meeting slot at the next face-to-face meeting. Of course, you don't need to wait for that meeting to get some work done, such as setting up a mailing list and starting to discuss a charter.
+A *Birds of a Feather* (BOF) meeting has to be approved by the Area Director
+in the relevant area, in consultation with the IESG and the IAB, before it
+can be scheduled. If you think you need a new WG, approach an AD with your
+proposal and see what they think.  You will have to write some informative
+background text, and they will work with you to get it scheduled.  Of course,
+you can also gather interested people and work on a draft charter in the
+meantime.
 
-BOF meetings have a very different tone than do WG meetings. The purpose of a BOF is to make sure that a good charter with good milestones can be created and that there are enough people willing to do the work needed in order to create standards. Some BOFs have Internet-Drafts already in process, whereas others start from scratch.
+BOF meetings have a very different tone than do WG meetings. The purpose of
+a BOF is to make sure that a good charter with good milestones can be
+created, that there are enough people willing to do the work needed in order
+to create standards, and that any standards would get adoption. Often a
+self-selected group of key people will get together after the BOF to
+refine the draft charter.
 
-An advantage of having a draft before the BOF is to help focus the discussion. On the other hand, having a draft might tend to limit what the other folks in the BOF want to do in the charter. It's important to remember that most BOFs are held in order to get support for an eventual Working Group, not to get support for a particular document.
+Generally, there are only two BOF meetings allowed for the same topic.
+Sometimes it is obvious after one meeting that a WG should be created, and
+sometimes it is obvious a WG would not be succesful.
 
-Many BOFs don't turn into WGs for a variety of reasons. A common problem is that not enough people can agree on a focus for the work. Another typical reason is that the work wouldn't end up being a standard — if, for example, the document authors don't really want to relinquish change control to a WG. (We'll discuss change control later in this document.) Only two meetings of a BOF can be scheduled on a particular subject; either a WG has to form or the topic should be dropped.
+If you have a draft already written, you can submit it to the relevant
+"dispatch" WG.  Each area has one of these.  Their job is to review submitted
+documents, and come to a decision about the next steps: possibilities include
+create a new WG, send to an existing WG, hold a BOF, and so on.
+
+An advantage of using the dispatch WG compared to a BOF is that the
+discussion is more limited and focused.  On the other hand, a draft might
+tend to limit what the other folks in the BOF want to do in the charter.
+Remember that most BOFs are held in order to get support for an eventual
+Working Group, not to get support for a particular document.
 
 <a name="rfcs"></a>
 
