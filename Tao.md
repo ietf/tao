@@ -96,6 +96,7 @@ document but an informal and informational overview.
 <br>
 
 <a id="introduction"></a>
+
 ## 1. Introduction
 
 The Internet Engineering Taskforce (IETF) is the largest standard development
@@ -196,18 +197,18 @@ best current practices, and informational documents of various kinds."
 
 The ways to do that include the following:
 
- - Identifying and proposing solutions to pressing operational and
-   technical problems in the Internet.
- - Specifying the development or usage of protocols and the near-term
-   architecture to solve such technical problems for the Internet.
- - Making recommendations to the Internet Engineering Steering Group
-   (IESG) regarding the standardization of protocols and protocol usage
-   in the Internet.
- - Facilitating technology transfer from the Internet Research Task
-   Force (IRTF) to the wider Internet community.
- - Providing a forum for the exchange of information within the Internet
-   community among vendors, users, researchers, agency contractors,
-   operators, and network managers.
+- Identifying and proposing solutions to pressing operational and
+  technical problems in the Internet.
+- Specifying the development or usage of protocols and the near-term
+  architecture to solve such technical problems for the Internet.
+- Making recommendations to the Internet Engineering Steering Group
+  (IESG) regarding the standardization of protocols and protocol usage
+  in the Internet.
+- Facilitating technology transfer from the Internet Research Task
+  Force (IRTF) to the wider Internet community.
+- Providing a forum for the exchange of information within the Internet
+  community among vendors, users, researchers, agency contractors,
+  operators, and network managers.
 
 RFC 3935 further states that the Internet isn't value-neutral, and
 neither is the IETF.  The IETF wants the Internet to be useful for
@@ -428,6 +429,7 @@ recommendations to the IETF community and to the IESG. The IAB keeps the
 community informed through blogposts and by publishing RFCs.
 
 The IAB also:
+
 - Approves NomCom's IESG nominations
 - Acts as the appeals board for appeals against IESG actions
 - Oversees the RFC series policy and procedures
