@@ -35,7 +35,7 @@ document but an informal and informational overview.
 2.2.2 Internet Engineering Steering Group (IESG)<br>
 2.2.3 Internet Architecture Board (IAB)<br>
 2.2.4 Internet Assigned Numbers Authority (IANA)<br>
-2.2.5 RFC Edito and RFC Publication Center (RPC)r<br>
+2.2.5 RFC Editor and RFC Publication Center (RPC)r<br>
 2.2.6 IETF Secretariat<br>
 2.2.7 IETF Trust<br>
 2.3 IETF Mailing Lists<br>
