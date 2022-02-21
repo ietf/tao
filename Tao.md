@@ -1492,7 +1492,7 @@ draft.
 #### 6.3.1 Draft Language
 
 It is common for Internet-Drafts that revise existing RFCs often have draft
-names with "bis" in them, meaning "again" or "twice." Ror example, a draft
+names with "bis" in them, meaning "again" or "twice." For example, a draft
 might be called "draft-ietf-uta-rfc6125bis" meaning that this is intended to
 be a revision of, and eventual replacement for, RFC6125.
 
