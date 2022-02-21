@@ -3,11 +3,15 @@
 The current version of this web page can always be found at
 <a href="https://www.ietf.org/tao.html">https://www.ietf.org/tao.html</a>.
 To contribute to this document or to discuss its content, please join the
-<a href="https://www.ietf.org/mailman/listinfo/tao-discuss">tao-discuss</a> mailing list.
-This document is maintained on-line at <a href="https://github.com/ietf/tao">https://github.com/ietf/tao</a>.
+<a href="https://www.ietf.org/mailman/listinfo/tao-discuss">tao-discuss</a>
+mailing list.
+This document is maintained on-line at
+<a href="https://github.com/ietf/tao">https://github.com/ietf/tao</a>.
 The current editor is Niels ten Oever.
 
-This web page is in English. There is a <a href="https://www.ietf.org/about/participate/tao/tao-translations/">list of translations</a> available.
+This web page is in English. There is a
+<a href="https://www.ietf.org/about/participate/tao/tao-translations/">list
+of translations</a> available.
 
 This web page is a continuation of the series of the "Tao of the IETF" RFCs,
 first published in 1994 and written by Gary Malkin.  In 2012,
@@ -1081,17 +1085,19 @@ Each Working Group has one or two (or, rarely, three) chairs. The role of the WG
 chairs is described in both <a href="https://www.rfc-editor.org/info/bcp11">BCP 11</a>
 and <a href="https://www.rfc-editor.org/info/bcp25">BCP 25</a>.
 
-Chairs have responsibility for the technical and non-technical quality of WG output.
-The chair must keep the WG productive, and making progress on its drafts. Sometmes there
-is a WG Secretary to help. Document editors, too, are usually incented in making
-progress on their drafts. The chair must manage WG discussion, both on the
-list and by scheduling meetings when appropriate. Sometimes discussions get stuck
-on contentious points and the chair may need to steer people toward productive
-interaction and then declare when rough consensus has been met and the discussion
-is over. Sometimes chairs also manage interactions with non-WG participants or the
-IESG, especially when a WG document approaches publication. As you can imagine given
-the mix of secretarial, interpersonal, and technical demands, some Working Group
-chairs are much better at their jobs than others.
+Chairs have responsibility for the technical and non-technical quality
+of WG output. The chair must keep the WG productive, and making progress
+on its drafts. Sometmes there is a WG Secretary to help. Document editors,
+too, are usually incented in making progress on their drafts. The chair
+must manage WG discussion, both on the list and by scheduling meetings
+when appropriate. Sometimes discussions get stuck on contentious points
+and the chair may need to steer people toward productive interaction and
+then declare when rough consensus has been met and the discussion is
+over. Sometimes chairs also manage interactions with non-WG participants
+or the IESG, especially when a WG document approaches publication. As
+you can imagine given the mix of secretarial, interpersonal, and
+technical demands, some Working Group chairs are much better at
+their jobs than others.
 
 <a name="rough-consensus"></a>
 
@@ -1320,9 +1326,9 @@ If you're a new IETF participant and are looking for a particular RFC or
 Internet-Draft, you can use the IETF *datatracker*. This website,
 <a href="https://datatracker.ietf.org/">https://datatracker.ietf.org/</a>,
 has a text search capability (including content, keywords, author, and so
-on), and the search results point to the document status, page count, and 
-other useful information. A little-known hint is that *dt.ietf.org* is an 
-abbreviation (a DNS CNAME entry) for the longer "datatracker.ietf.org" 
+on), and the search results point to the document status, page count, and
+other useful information. A little-known hint is that *dt.ietf.org* is an
+abbreviation (a DNS CNAME entry) for the longer "datatracker.ietf.org"
 hostname.
 
 Most RFCs in the IETF stream follow the same process, and the sections
@@ -1456,7 +1462,7 @@ knows of IPR issues.
 
 ### 6.3 Writing a Draft
 
-Every RFC starts its life as a draft. Drafts have the same format as an RFC, 
+Every RFC starts its life as a draft. Drafts have the same format as an RFC,
 and are required to have all the content that should appear in the RFC. This
 includes a couple of sections detailed below. A draft may also have more
 information, such as an incremental list of changes from previous verions of
