@@ -1320,10 +1320,10 @@ If you're a new IETF participant and are looking for a particular RFC or
 Internet-Draft, you can use the IETF *datatracker*. This website,
 <a href="https://datatracker.ietf.org/">https://datatracker.ietf.org/</a>,
 has a text search capability (including content, keywords, author, and so
-on), and the search results point to the
-document status, page count, and other useful information.
-A little-known hint is that *dt.ietf.org* is an abbreviation (a DNS CNAME
-entry) for the longer "datatracker.ietf.org" hostname.
+on), and the search results point to the document status, page count, and 
+other useful information. A little-known hint is that *dt.ietf.org* is an 
+abbreviation (a DNS CNAME entry) for the longer "datatracker.ietf.org" 
+hostname.
 
 Most RFCs in the IETF stream follow the same process, and the sections
 below discuss the process and some of the issues. Note that there are
@@ -1456,8 +1456,8 @@ knows of IPR issues.
 
 ### 6.3 Writing a Draft
 
-Every RFC starts life as a draft. Drafts have the same format as an RFC, and
-are required to have all the content that should appear in the RFC. This
+Every RFC starts its life as a draft. Drafts have the same format as an RFC, 
+and are required to have all the content that should appear in the RFC. This
 includes a couple of sections detailed below. A draft may also have more
 information, such as an incremental list of changes from previous verions of
 the draft, or pointers to online locations for raising issues and suggesting
