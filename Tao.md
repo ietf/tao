@@ -31,11 +31,11 @@ document but an informal and informational overview.
 2. <a href="#what">What is the IETF</a><br>
 2.1 Humble Beginnings<br>
 2.2 The Hierarchy<br>
-2.2.1 The IETF LLC (IETF Administration LLC) and the ISOC (Internet Society)<br>
-2.2.2 IESG (Internet Engineering Steering Group)<br>
-2.2.3 IAB (Internet Architecture Board)<br>
-2.2.4 IANA (Internet Assigned Numbers Authority)<br>
-2.2.5 RFC Editor<br>
+2.2.1 The ISOC (Internet Society) and IETF LLC (IETF Administration LLC)<br>
+2.2.2 Internet Engineering Steering Group (IESG)<br>
+2.2.3 Internet Architecture Board (IAB)<br>
+2.2.4 Internet Assigned Numbers Authority (IANA)<br>
+2.2.5 RFC Editor and RFC Publication Center (RPC)r<br>
 2.2.6 IETF Secretariat<br>
 2.2.7 IETF Trust<br>
 2.3 IETF Mailing Lists<br>
@@ -45,15 +45,15 @@ document but an informal and informational overview.
 3.2 Take the Plunge and Stay All Week!<br>
 3.3 Newcomer Training<br>
 3.4 Dress Code<br>
-3.5 WG Meetings<br>
+3.5 Working Group  Meetings<br>
 3.6 Seeing Spots Before Your Eyes<br>
 3.7 Terminal Room<br>
-3.8 Meals and Other Delights<br>
+3.8 Meals and Snacks<br>
 3.9 Social Event<br>
 3.10 Agenda<br>
-3.11 emodir to the Rescue<br>
+3.11 EMODIR to the Rescue<br>
 3.12 Where Do I Fit In?<br>
-3.12.1 Information System Managers<br>
+3.12.1 IT Managers<br>
 3.12.2 Network Operators and ISPs<br>
 3.12.3 Networking Hardware and Software Vendors<br>
 3.12.4 Academics<br>
@@ -73,18 +73,14 @@ document but an informal and informational overview.
 5. <a href="#bofs">BOFs</a><br>
 <br>
 6. <a href="#rfcs">RFCs and Internet-Drafts</a><br>
-6.1 Getting an RFC Published<br>
-6.2 Letting Go Gracefully<br>
-6.3 Internet-Drafts<br>
-6.3.1 Recommended Reading for Writers<br>
-6.3.2 Filenames and Other Matters<br>
+6.1 The Overall Process<br>
+6.2 Common Issues<br>
+6.3 Writing a Draft<br>
+6.3.1 Draft Language<br>
+6.3.2 About References<br>
+6.3.3 About Required Content<br>
 6.4 Standards-Track RFCs<br>
-6.4.1 Telling It Like It Is - Using MUST and SHOULD and MAY<br>
-6.4.2 Normative References in Standards<br>
-6.4.3 IANA Considerations<br>
-6.4.4 Security Considerations<br>
-6.4.5 Patents in IETF Standards<br>
-6.5 Informational and Experimental RFCs<br>
+6.5 RFCs Other than Standards-Track<br>
 <br>
 7. <a href="#contribute">How to Contribute to the IETF</a><br>
 7.1 What You Can Do<br>
@@ -375,6 +371,8 @@ the IETF web site.
 </table>
 </div>
 
+<a name="iesg-review"></a>
+
 Because the IESG reviews all Internet-Drafts before they become RFCs, ADs
 have quite a bit of influence.  The ADs for a particular Area are expected to
 know more about the combined work of the WGs in that Area than anyone else.
@@ -439,6 +437,8 @@ The IAB also:
 Like the IESG, the IAB members are selected for two-year positions by the
 NomCom and are approved by the ISOC Board of Trustees.
 
+<a name="iana"></a>
+
 ### 2.2.4 Internet Assigned Numbers Authority (IANA)
 
 The core registrar for the IETF's activities is the <a
@@ -464,6 +464,8 @@ fond of their history.  Also, if you are a document author, you will most
 commonly come in contact with people responsible for editing your draft.
 Another important role is to provide <a href="https://www.rfc-editor.org">one
 definitive repository</a> for all RFCs.
+
+<a name="other-streams"></a>
 
 A common misconception is that all RFCs are the work of the IETF.  In fact,
 there are four sources of RFCs: the IETF, the IAB, the IRTF, and Independant
@@ -1310,158 +1312,342 @@ Working Group, not to get support for a particular document.
 
 ## 6. RFCs and Internet-Drafts
 
-This section discusses Internet-Drafts and RFCs in the IETF stream, that is, it describes how documents are produced and advanced within the IETF. For a brief note on other RFC streams, see Section 2.2.5.
+This section discusses Internet-Drafts and RFCs in the IETF stream, that is,
+it describes how documents are produced and advanced within the IETF. For a
+brief note on other RFC streams, see <a href="#other-streams">above</a>.
 
-If you're a new IETF participant and are looking for a particular RFC or Internet-Draft, go to <a href="https://datatracker.ietf.org/">the IETF Datatracker</a>. That site has many search capabilities and can help you find the right document and information about its status, dependencies, potential updates and other information. Another entry point for searching and navigating RFCs is Mark Nottingham's <a href="https://everyrfc.org/">EveryRFC</a>.
+If you're a new IETF participant and are looking for a particular RFC or
+Internet-Draft, you can use the IETF *datatracker*. This website,
+<a href="https://datatracker.ietf.org/">https://datatracker.ietf.org/</a>,
+has a text search capability (including content, keywords, author, and so
+on), and the search results point to the document status, page count, and 
+other useful information. A little-known hint is that *dt.ietf.org* is an 
+abbreviation (a DNS CNAME entry) for the longer "datatracker.ietf.org" 
+hostname.
 
-### 6.1 Getting an RFC Published
+Most RFCs in the IETF stream follow the same process, and the sections
+below discuss the process and some of the issues. Note that there are
+other ways to get an RFC published, particular if it is not intended
+for the standards track. For the sake of brevity, we will not mention
+those here. After all, this document is about "the Way of the IETF"
+and the main Way is "developing standards."
 
-One of the most common questions seasoned IETFers hear from newcomers is, "How do I get an IETF standard published?" A much better question is, "Should I write an IETF standard?" since the answer is not always "yes". If you do decide to try to write a document that becomes an IETF standard, be warned that the overall process may be arduous, even if the individual steps are fairly straightforward. Lots of people get through the process unscathed, though, and there's plenty of written guidance that helps authors emerge with their ego more or less intact.
+### 6.1 The Overall Process
 
-One of the first things you must decide is whether you want your document to be considered in a Working Group, of you want it to be considered as an individual (that is, non-WG) submission to the IETF. Even though most IETF standards come from Working Groups, some are individual efforts: there might be no appropriate Working Group, or a potentially-appropriate Working Group might be to busy on other work to consider your idea.
+The very first step is to have a draft document. Internet-Drafts
+should follow a specific format, and are required to have particular
+sections. This will be discussed more <a href="#writing-draft">below</a>.
 
-Every IETF standard is published as an RFC ("Request for Comments"), and every RFC starts out as an Internet-Draft (often called an "I-D" or just "draft"). The basic steps for getting something published as an IETF standard are as follows:
+RFCs are generally written by a Working Group. If an appropriate
+WG doesn't seem to exist, then the <a href="bofs">BOF or Dispatch</a>
+process mentioned above can be used to learn which one is appropriate,
+or start the process to create one.
 
-    - Publish the document as an Internet-Draft.
-    - Receive comments on the draft.
-    - Edit your draft based on the comments.
-    - Repeat steps 1 through 3 a few times.
-    - Ask an Area Director to take the draft to the IESG (if it's an individual submission). If the draft is an official Working Group product, the WG chair asks the AD to take it to the IESG.
-    - If the Area Director accepts the submission, they will do their own initial review, and maybe ask for updates before they move it forward.
-    - Get reviews from the wider IETF membership. In particular, some of the Areas in the IETF have formed review teams to look over drafts that are ready to go to the IESG.
-    - Discuss concerns with the IESG members. Their concerns might be resolved with a simple answer, or they might require additions or changes to the document.
-    - Wait for the document to be published by the RFC Editor.
+Once a potential WG exists, the document must be *adopted*. To do this, you
+submit your individual draft to the datatracker. It should start with
+`draft-YOURNAME-brief-subject` where *YOURNAME* is your name. Send a note to
+the WG mailing list, with an introduction to the draft, and why you think it
+is appropriate. After any discusison, the WG Chair will issue a *call for
+adoption*. If consensus is to adopt the draft, you will be asked to submit
+it with the name `draft-ietf-WGNAME-brief-subject`; you can probably guess
+what *WGNAME* should be.
 
-A much more complete explanation of these steps is contained in <a href="https://tools.ietf.org/html/bcp9">BCP 9</a>, "The Internet Standards Process". Those who write drafts that they hope will become IETF standards must read BCP 9 so that they can follow the path of their document through the process. You can follow the progress on the <a href="https://datatracker.ietf.org">IETF Datatracker</a>. <a href="https://tools.ietf.org/html/bcp9">BCP 9</a> (and various other documents that update it) goes into great detail on a topic that is very often misunderstood, even by seasoned IETF participants: different types of RFCs go through different processes and have different rankings. There are six kinds of RFCs:
+At this point, the IETF, notably the IETF Trust, now owns the copyright
+on the document and the IETF owns the right of "change control."
+This means the WG, and the overall IETF, can make any changes to the
+document, the one you initially wrote, that they want. If you are not
+comfortable with this, then the IETF is not the place for your
+document. There are a few more details on this
+<a href="#copyright">below</a>.
 
-    - Proposed standards
-    - Internet standards (sometimes called "full standards")
-    - Best current practices (BCP) documents
-    - Informational documents
-    - Experimental documents
-    - Historic documents
-    Only the first two, proposed and full, are standards within the IETF. A good summary of this can be found in the aptly titled <a href="https://tools.ietf.org/html/rfc1796">RFC 1796</a>, "Not All RFCs Are Standards".
+The WG now "works on" the document. This will be a combination of
+mailing list discussion, perhaps agenda time at a meeting, and publishing
+updated drafts. (Every draft ends with *-NN* where the digits indicate
+the draft number.)
 
-There are also two sub-series of RFCs, known as BCPs and STDs. Best Current Practice documents describe the application of various technologies in the Internet, and are also commonly used to document the many parts of the IETF process. The sub-series of FYIs are comprised of "Informational documents" in the sense of the enumeration above, with special tagging applied. (There was also a "For Your Information" RFC sub-series that was created to document overviews and topics that are introductory or that appeal to a broad audience; however, that series has been officially closed.)
+At some point, the document will seem finished. The WG Chair will put the
+document in *WG Last Call* (WGLC) which gives the members of the WG a chance
+for last-minute changes. It can be frustrating to get a bunch of changes
+after you think you're done, but don't take it personally. Like many things,
+people are often deadline-driven.
 
-The STD RFC sub-series was created to identify RFCs that do in fact specify Internet standards. Some STDs are actually sets of more than one RFC, and the "standard" designation applies to the whole set of documents.
+After WGLC, the responsible AD (the one who oversees the WG) does a review.
+They will probably have comments that must be resolved by you and the WG;
+it's quite likely you'll have to publish a new draft.  Then the IESG and
+the overall IETF reviews the draft, as
+<a href="#iesg-review">mentioned above</a>.
+The purpose of IETF Last Call is to get community-wide discussion on
+documents before the IESG considers them. Note the word *discussion* here. It
+is generally considered bad form to send IETF Last Call comments on documents
+that you have not read, or to send comments but not be prepared to discuss
+your views. The IETF Last Call is not a vote. Having said that, IETF Last
+Call comments that come from people who have just read the document for the
+first time can expose issues that IETF and WG regulars may have completely
+missed, which is why the discussion is open to everyone.
 
-### 6.2 Letting Go Gracefully
+Finally, the draft is given to the RPC Production Center (RPC), and prepared
+for publication. There might be other changes required, including  reviews by
+IANA for registrations and the like. The most common item you'll hear about
+this is *AUTH48* state, which means the document is in the final stages of
+copy-editing by the RPC and you. The publication process can take weeks,
+but be patient, and you'll eventually see an email announcement saying
+that your brand-new RFC has been published.  Congratulations!
 
-The biggest reason some people do not want their documents put on the IETF standards track is that they must give up change control of the protocol. That is, as soon as you propose that your protocol become an IETF standard, you must fully relinquish control of the protocol. If there is general agreement, parts of the protocol can be completely changed, whole sections can be ripped out, new things can be added, and the name can be changed.
+A much more complete explanation of these steps is contained in <a
+href="https://tools.ietf.org/html/bcp9">BCP 9</a>, "The Internet Standards
+Process." This set of documents goes into great detail on a topic that is
+very often misunderstood, even by seasoned IETF participants: different types
+of RFCs go through different processes and have different rankings.
 
-Some authors find it very hard to give up control of their pet protocol. If you are one of those people, pursuing an IETF standard may not be a fruitful path. On the other hand, if your goal is the best standard possible with the widest implementation, then you might find the IETF process to your liking.
+### 6.2 Common Issues
 
-Incidentally, the change control on Internet standards doesn't end when the protocol is put on the standards track. The protocol itself can be changed later for a number of reasons, the most common of which is that implementors discover a problem as they implement the standard. These later changes are also under the control of the IETF, not the editors of the standards document.
+There are two major issues that often come up while preparing drafts:
+copyright, and patents.
 
-IETF standards exist so that people will use them to write Internet programs that interoperate. They don't exist to document the (possibly wonderful) ideas of their authors, nor do they exist so that a company can say, "We have an IETF standard". If a standards- track RFC only has one implementation (whereas two are required for it to advance on the standards track), it was probably a mistake to put it on the standards track in the first place.
+<a name="copyright"></a>
 
-Note that new authors cannot take someone else's document and pass it off as their own; see <a href="https://tools.ietf.org/html/bcp78">BCP 78</a>, section 5.6, point (a).
+We discussed copyright above, but expand on it here. When the IETF adopts a
+Internet-Draft, it is required that the *boilerplate*, the common text that
+appears in every draft, has a notice that says the IETF, *and the document
+authors* own the copyright. This means that while the IETF can do what it
+wants with the document, within limitations so can you. You cannot, for
+example, claim this is an IETF standard, nor use the IETF trademarks.
 
-### 6.3 Internet-Drafts
+Incidentally, the change control on Internet standards doesn't end when the
+RFC is published. Things can be changed later for a number of reasons, such
+as to solve a newly-discovered problem or address new use-cases. These later
+changes are also under the control of the IETF, not the editors of the
+standards document.
 
-First things first. Every document that ends up in the RFC repository starts life as an Internet-Draft. Internet-Drafts are tentative documents — they're meant for readers to comment on, so authors can mull over those comments and decide which ones to incorporate in the draft. In order to remind folks of their tentativeness, Internet-Drafts are automatically removed from the active online directories after six months. They are most definitely not standards. As <a href="https://tools.ietf.org/html/bcp9">BCP 9</a> says:
+The second issue is patents. The goal of the IETF is to have its standards
+widely used and validated by the marketplace. If creating a product that
+uses a standard requires getting a license for a patent, people are less
+likely to implement the standard. Not surprisingly, then, the general rule
+has been "use good non-patented technology where possible."
 
-"An Internet-Draft is NOT a means of 'publishing' a specification; specifications are published through the RFC mechanism.... Internet-Drafts have no formal status, and are subject to change or removal at any time. Under no circumstances should an Internet-Draft be referenced by any paper, report, or Request-for-Proposal, nor should a vendor claim compliance with an Internet-Draft".
+Of course, this isn't always possible. Sometimes patents appear after a
+standard has been established and there is little the IETF can do about that.
+Sometimes there's a patent on something that is so valuable that there isn't
+a non-patented equivalent, and generally the IETF tries to avoid it.
 
-When you submit an Internet-Draft, you give some publication rights to the IETF. This is so that your Internet-Draft is freely available to everyone who wants to read and comment on it. The rights you do and don't give to the IETF are described in <a href="https://tools.ietf.org/html/bcp78">BCP 78</a>, "IETF Rights in Contributions".
+Sometimes the patent holder is generous and promises to give all implementors
+of a standard a royalty-free license to the patent, thereby making it almost
+as easy to implement as it would have been if no patent existed. Ideally,
+and this is the common case when a patent-holder is active in a document,
+the patent holder will grant free use of the patent to implement the
+specification.
 
-There is a very useful checking tool at [https://tools.ietf.org/tools/idnits]. Using this tool before you turn in an Internet-Draft will help prevent the draft from being rejected due to errors in form and formatting.
+The official rules for all intellectual property rights (IPR) in
+IETF documents, not just patents but also code samples and the like,
+are covered in
+<a href="https://www.rfc-editor.org/info/bcp78">BCP 78</a> and
+<a href="https://www.rfc-editor.org/info/bcp79">BCP 79</a>.
 
-An I-D should have approximately the same format as an RFC. Contrary to many people's beliefs, an I-D does not need to look exactly like an RFC, but if you can use the same formatting procedures used by the RFC Editor when you create your I-Ds, it will simplify the RFC Editor's work when your draft is published as an RFC. <a href="https://tools.ietf.org/html/rfc2223">RFC 2223</a>, "Instructions to RFC Authors", describes the submission format. There is also a tool called <a href="https://xml2rfc.tools.ietf.org">xml2rfc</a>, that takes XML-formatted text and turns it into a valid Internet-Draft, you can also use a tool called <a href="https://github.com/cabo/kramdown-rfc2629">kramdown</a>, that takes markdown-formatted text and turns it into a valid Internet-Draft.
+If you are writing an Internet-Draft and you know of a patent that applies to
+the technology you're writing about, don't list the patent in the document.
+Instead, consult the <a href="https://datatracker.ietf.org/ipr/about/">IPR
+disclosures</a> page. If you still have issues, consult with the WG Chair or
+the responsible AD. Intellectual property rights aren't mentioned in RFCs
+because RFCs never change after they are published, while knowledge of IPR
+can change at any time. Therefore, an IPR list in an RFC could be incomplete
+and mislead the reader. <a href="https://www.rfc-editor.org/info/bcp79">BCP
+79</a> provides specific text that should be added to RFCs where the author
+knows of IPR issues.
 
-An Internet-Draft can be either a Working Group draft or an individual submission. Working Group drafts are usually reviewed by the Working Group before being accepted as a WG item, although the chairs have the final say.
+### 6.3 Writing a Draft
 
-If you're interested in checking the status of a particular draft, or can't remember its exact name, or want to find out which drafts a WG is working on, two handy tools are available. The "Internet-Drafts Database Interface", at https://datatracker.ietf.org/doc, lets you search for a draft by author, Working Group, date, or filename. This is especially useful for authors who want to track the progress of their draft as it makes its way through the publication process.
+Every RFC starts its life as a draft. Drafts have the same format as an RFC, 
+and are required to have all the content that should appear in the RFC. This
+includes a couple of sections detailed below. A draft may also have more
+information, such as an incremental list of changes from previous verions of
+the draft, or pointers to online locations for raising issues and suggesting
+changes.
 
-There are some informal rules for Internet-Draft naming that have evolved over the years. Internet-Drafts that revise existing RFCs often have draft names with "bis" in them, meaning "again" or "twice"; for example, a draft might be called "draft-someone-rfc2345bis-00.txt".
+For the past several years, the official canonical source of RFCs as <a
+href="https://www.rfc-editor.org/info/rfc7991">RFC 7991: The "xml2rfc"
+Version 3 Vocabulary</a>. Some people enjoy writing in XML, and some don't.
+An alternative for the second group is to use a specific dialect of markdown,
+which is then converted to XML as needed (and especially during the
+publication process). A recent trend is the increasing use of markdown, and
+hosting drafts on GitHub to attract a wider audience of Internet-savvy users.
+Some information on this can be found at
+<a href="https://www.rfc-editor.org/info/rfc8874">RFC 8874:
+Working Group GitHub Usage Guidance</a>.
 
-#### 6.3.1 Recommended Reading for Writers
+The IETF is setting up a new site,
+<a href="https://authors.ietf.org">https://authors.ietf.org</a>,
+to contain guides and online tools to help both new and
+experienced authors.
+As of this writing, it's still a draft but it does contain a great
+deal of useful content.
+You should feelfree to use the site, and offer feedback.
 
-Before you create the first draft of your Internet-Draft, you should read four documents:
+Outside of the formatting decision, the most important document you can
+read is <a href="https://www.ietf.org/how/ids/guidelines">Guidelines
+to Authors of Internet-Drafts</a>.
+That document explains the naming conventions, formatting requirements,
+required content, and details of how to submit (also called *post*) your
+draft.
 
-    - More important than just explaining formatting, <a href="https://tools.ietf.org/html/rfc2223">RFC 2223</a> also explains what needs to be in an Internet-Draft before it can become an RFC. This document describes all the sections and notices that will need to be in your document, and it's good to have them there from the beginning so that readers aren't surprised when you put them in later versions.
-    - <a href="https://tools.ietf.org/html/bcp78">BCP 22</a>, "Guide for Internet Standards Writers", provides tips that will help you write a standard that leads to interoperability. For instance, it explains how to choose the right number of protocol options, how to respond to out-of-spec behavior, and how to show state diagrams.
-    - The online <a href="https://www.ietf.org/ietf/1id-guidelines.txt">Guidelines to Authors of Internet-Drafts</a>, has up-to-date information about the process for turning in Internet-Drafts, as well as the most current boilerplate information that has to be included in each Internet-Draft.
-    - When you think you are finished with the draft process and are ready to request that the draft become an RFC, you should definitely read <a href="https://www.ietf.org/standards/ids/guidelines">Checklist for Internet-Drafts (I-Ds) Submitted for RFC Publication</a>, a list of common issues that have been known to stop documents in the IESG. In fact, you should probably read that document well before you are finished, so that you don't have to make a bunch of last-minute changes.
-    There are also guides specific to important areas to cover in your draft, such as <a href="https://tools.ietf.org/html/rfc3552">the Security Considerations</a> and even templates for drafts the occur frequently such as <a href="https://tools.ietf.org/html/rfc6087">YANG modules</a> and <a href="https://tools.ietf.org/html/rfc4181">mibs</a>.
-    <a href="https://github.com/martinthomson/i-d-template">The templates and scripts from Martin Thomson</a>, might help you more easily write an Internet-Draft and automate the submission process. 
+#### 6.3.1 Draft Language
 
-Also, you should visit <a href="https://tools.ietf.org">the IETF Tools web pages</a>, where you'll find pointers to other tools that will automate some of your work for the IETF.
+It is common for Internet-Drafts that revise existing RFCs often have draft
+names with "bis" in them, meaning "again" or "twice." For example, a draft
+might be called "draft-ietf-uta-rfc6125bis" meaning that this is intended to
+be a revision of, and eventual replacement for, RFC6125.
 
-#### 6.3.2 Filenames and Other Matters
+Writing clear specifications can be a bit of an art, particularly for people
+that don't have English as their native language. You can keep the
+specification very short, with just a list of requirements, but that tends to
+cause implementors to take too much leeway. If you instead make the
+specification very wordy with lots of suggestions, implementors tend to miss
+the requirements (and often disagree with your suggestions anyway). An
+optimal specification is somewhere in between.
 
-When you're ready to turn in your Internet-Draft, you submit it to [https://datatracker.ietf.org/submit]. The instructions on that web page will walk you through the needed steps, and there is also an email address there in case you need personalized help.
+One way to make it more likely that developers will create interoperable
+implementations of standards is to be clear about what's being mandated in a
+specification. Over time, the IETF has realized that defining a few words
+with specific meanings helps a great deal.
+<a href="https://www.rfc-editor.org/info/bcp79">BCP 14</a>
+defines about a dozen keywords that can be used to clarify what are
+requirements, as compared to what is purely informative.
+It defines the meaning of words like *MUST* and points out that it
+has to appear in all uppercase to its special meaning.
 
-When you submit the first version of the draft, you also tell the draft administrator your proposed filename for the draft. If the draft is an official Working Group product, the name will start with "draft-ietf-" followed by the designation of the WG, followed by a descriptive word or two, followed by "00.txt".
+It is not uncommon for feedback on standards-track drafts to question
+the particular uses of what is called "2119 language." For example,
+"The document says MAY but doesn't explain why not; should it be
+a MUST?"
 
-For example, a draft in the S/MIME WG about creating keys might be named "draft-ietf-smime-keying-00.txt". If it's not the product of a Working Group, the name will start with "draft-" but is not followed by "ietf-". Often the last name of one of the authors (or some other identifier) is followed by a descriptive word or two, followed by "00.txt". For example, a draft that someone named Smith wrote might be named "draft-smith-keying-00.txt". If a draft is an individual submission but relates to a particular Working Group, authors sometimes follow their name with the name of the Working Group, such as "draft-smith-smime-keying-00.txt". If you follow the naming guidelines given at [https://www.ietf.org/ietf/1id-guidelines.txt], chances are quite good that your suggested filename will be fine.
+#### 6.3.2 About References
 
-After the first edition of a draft, the number in the filename is incremented; for instance, the second edition of the S/MIME draft named above would be "draft-ietf-smime-keying-01.txt". Note that there are cases where the filename changes after one or more versions, such as when a personal effort is pulled into a Working Group; when a draft has its filename changed, the number reverts to -00. The WG chairs will let the Internet-Drafts administrator know the previous name of the draft when such a name change occurs so that the databases can be kept accurate.
+One aspect of writing IETF standards that trips up many newcomers is the rule
+about how to make *normative references* to non-IETF documents or to other
+RFCs in a standard. A normative reference is a reference to a document that
+must be followed in order to implement the standard. A non-normative
+reference (sometimes called an *informative reference*) is one that is
+helpful to an implementor but not strictly needed to implement it.
+
+An IETF standard may make a normative reference to any other standards-track
+RFC that is at the same standards level or higher, or to any "open standard"
+that has been developed outside the IETF. The "same level or higher" rule
+means that before a standard can move from Proposed to Internet Standard, all
+of the RFCs that appear as a normative reference must also be an Internet
+Standard. This rule gives implementors assurance that everything in a
+Internet standard is quite stable, even the things referenced outside the
+standard. This rule, and its exceptions, is described in
+<a href="https://tools.ietf.org/html/bcp97">BCP 97</a>.
+
+There is no hard-and-fast rule about what is an "open standard", but
+generally this means a stable standard that was made by a
+generally-recognized SDO, and that anyone can get a copy of, although not
+necessarily for free. If the external standard changes, you have to
+reference the particular instantiation of that standard in your
+specification, as with a designation of the date of the standard. Some
+external standards bodies don't make old standards available, which is a
+problem for IETF standards that need to be used in the future. When in doubt,
+ask the WG chair or AD if a particular external standard can be used in an
+IETF standard.
+
+#### 6.3.3 About Required Content
+
+Every draft is required to have some content. Some of this is boilerplate
+text about copyright, "2119 keyword," and so on. The document formatting
+tools  will generate this for you automatically if you use the right keyword.
+In addition, there are special sections that might be required for your
+draft, and you (and the WG) will have to write them.
+
+Many IETF standards have extension points, such as unassigned fields in
+a message header, or for something like email or HTTP, an actual message
+header. As <a href="#iana"/>mentioned above</a>, IANA maintains online
+registries for these. Because of the large and diverse kinds of registries
+that standards require, IANA needs to have specific information about how to
+register parameters, what not to register, who (if anyone) approves any
+registration requests, and so on.
+
+Anyone writing a draft that needs one or more registries, or adds values to
+existing registries must have an "IANA Considerations" section.  Authors
+should read <a href="https://www.rfc-editor.org/info/bcp26">BCP 26</a>,
+"Guidelines for Writing an IANA Considerations Section in RFCs," which
+describes how to properly ask for IANA to make the changes requested in their
+draft. If there are no considerations, it is a good idea to have the section
+and explicitly say "This document has no IANA requests."
+
+Every draft must have a "Security Considerations" section. This describes
+possible threats or attacks, known vulnerabilities, information that could be
+exposed, and so on. It should also describe any strategies or mechanisms to
+mitigate them. When the security directorate (SECDIR) reviews your draft,
+this section will be one of their major focuses. Don't gloss over the
+section, or say things like "use TLS to get security" without explaining how
+the protocol uses TLS and what it provides. See
+<a href="https://www.rfc-editor.org/info/bcp72">BCP 72</a>, "Guidelines for
+Writing RFC Text on Security Considerations", for more information on writing
+good security considerations sections.
+
+Finally, a draft might a "Privacy Considerations" section.
+An Informational RFC,
+<a href="https://www.rfc-editor.org/info/rfc6973">RFC 6973:
+Privacy Considerations for Internet Protocols</a>, written by the
+IAB, is intended to raise the general awareness of privacy on the
+Internet. It also provides advice for when a draft should have an
+explicit privacy section.
+
+More detail on the required content can be found
+<a href="https://www.ietf.org/how/ids/guidelines/#required-content">online</a>.
 
 ### 6.4 Standards-Track RFCs
 
-The procedure for creating and advancing a standard is described in <a href="https://tools.ietf.org/html/bcp9" >BCP 9</a>. After an Internet-Draft has been sufficiently discussed and there is rough consensus that what it says would be a useful standard, it is presented to the IESG for consideration. If the draft is an official WG draft, the WG chair sends it to the appropriate Area Director. If the draft is an individual submission, the draft's author or editor submits it to the appropriate Area Director. BCP 9 also describes the appeals process for people who feel that a Working Group chair, an AD, or the IESG has made the wrong decision in considering the creation or advancement of a standard.
+If the IESG approves the draft to become a standards-track RFC, they ask the
+RPC to publish it as a *Proposed Standard*.
 
-After the I-D is submitted to the IESG, the IESG announces an IETF-wide Last Call (often abbreviated as "LC"). This helps get the attention of people who weren't following the progress of the draft, and can sometimes cause further changes to the draft. It is also a time when people in the WG who feel that they weren't heard can make their comments to everyone. The IETF Last Call is at least two weeks for drafts coming from WGs and four weeks for individual submissions.
+Don't be surprised if a particular standard doesn't progress from Proposed
+Standard to Internet Standard. To become an Internet Standard, an RFC must
+have multiple interoperable implementations and the unused features in the
+Proposed Standard must be removed; there are additional requirements listed
+in <a href="https://tools.ietf.org/html/bcp9">BCP 9</a>. Most of the
+protocols in common use are Proposed standards and never move forward. This
+may be because no one took the time to try to get them to Internet Standard,
+or some of the normative references in the standard are still at Proposed
+standard, or it may be that everyone found more important things to do.
 
-The purpose of IETF Last Call is to get community-wide discussion on documents before the IESG considers them. Note the word "discussion" here. It is generally considered bad form to send IETF Last Call comments on documents that you have not read, or to send comments but not be prepared to discuss your views. The IETF Last Call is not a vote, and campaigns aimed at getting people to send support or opposition to a document usually backfire. Having said that, IETF Last Call comments that come from people who have just read the document for the first time can expose issues that IETF and WG regulars may have completely missed, which is why the discussion is open to everyone.
+<a name="non-std-rfcs"></a>
 
-If the IESG approves the draft to become a standards-track RFC, they ask the RFC Editor to publish it as a Proposed standard. A few things typically happen at this point. First, it's common to find that some of the specifications in the standard need to be reworded because one implementor thought they meant one thing whereas another implementor thought they meant something else. Another common occurrence is that none of the implementations actually tried to implement a few of the features of the standard; these features get removed not just because no one tested them but also because they weren't needed.
+### 6.5 RFCs Other than Standards-Track
 
-Don't be surprised if a particular standard doesn't progress from Proposed Standard to Internet Standard. To become an Internet Standard, an RFC must have multiple interoperable implementations and the unused features in the Proposed Standard must be removed; there are additional requirements listed in <a href="https://tools.ietf.org/html/bcp9">BCP 9</a>. Most of the standards in common use are Proposed standards and never move forward. This may be because no one took the time to try to get them to Internet Standard, or some of the normative references in the standard are still at Proposed standard, or it may be that everyone found more important things to do.
+As mentioned earlier, not all RFCs are standards. In fact, many important
+RFCs are not on the standards track at all. At the time of writing, there
+are also categories for Informational, Experimental, Best Current Practice,
+and Historical for standards that are no longer recommended for use. The
+role of Informational RFCs can be confusing, and people sometimes refer to
+them as "standards," when they are not.
 
-#### 6.4.1 Telling It Like It Is - Using MUST and SHOULD and MAY
+Experimental RFCs are for specifications that are interesting, but for which
+it is unclear if there will be widespead deployment, or if they will scale to
+work after such deployment. That is, a specification might solve a problem,
+but there might not be IETF consensus that the problem is worth solving or
+that the specification is complete enough to address the problem.
+Experimental RFCs are also used to get people to experiment with a technology
+that looks like it might be standards-track material, but for which there are
+still unanswered questions.
 
-Writing specifications that get implemented the way you want is a bit of an art. You can keep the specification very short, with just a list of requirements, but that tends to cause implementors to take too much leeway. If you instead make the specification very wordy with lots of suggestions, implementors tend to miss the requirements (and often disagree with your suggestions anyway). An optimal specification is somewhere in between.
+The IESG has created
+<a href="https://www.ietf.org/standards/process/informational-vs-experimental/">
+guidelines</a> that can help choose between Informational and Experimental
+classification. This is a short informal read, and if are not sure where
+your document fits, it is worth reading.
 
-One way to make it more likely that developers will create interoperable implementations of standards is to be clear about what's being mandated in a specification. Early RFCs used all kinds of expressions to explain what was needed, so implementors didn't always know which parts were suggestions and which were requirements. As a result, standards writers in the IETF generally agreed to limit their wording to a few specific words with a few specific meanings.
+Finally, there are two sub-series of RFCs: Best Current Practice
+(BCP) and Internet Standards (STD). BCP describes the application of various
+technologies in the Internet, and are also commonly used to document the many
+parts of the IETF process. The STD sub-series was created to identify RFCs
+that do in fact specify Internet standards.
 
-<a href="https://tools.ietf.org/html/std3">STD 3</a>, "Requirements for Internet Hosts -- Application and Support", written way back in 1989, had a short list of words that had appeared to be useful, namely, "must", "should", and "may". These definitions were updated and further refined in <a href="https://tools.ietf.org/html/bcp14">BCP 14</a>, "Key words for use in RFCs to Indicate Requirement Levels", which is widely referenced in current Internet standards. BCP 14 also specifically defines "must not" and "should not", and it lists a few synonyms for the words defined.
-
-In a standard, in order to make it clear that you're using the definitions from BCP 14, you should do two things. First, refer to <a href="https://tools.ietf.org/html/bcp14">BCP 14</a> (although most people refer to it as <a href="https://tools.ietf.org/html/rfc2119">RFC 2119</a>, because that's what BCP 14 tells you to do), so that the reader knows how you're defining your words. Second, you should point out which instances of the words you are using come from BCP 14. The accepted practice for this is to capitalize the words. That is why you see "MUST" and "SHOULD" capitalized in IETF standards. <a href="https://tools.ietf.org/html/rfc8174">RFC 8174</a> is a helpful reference when determining what should be capitalized.
-
-<a href="https://tools.ietf.org/html/bcp14">BCP 14</a> includes two short documents, and it should be read by everyone who is reading or writing IETF standards. Although the definitions of "must" and "must not" are fairly clear, the definitions of "should" and "should not" cause a great deal of discussion in many WGs. When reviewing an Internet-Draft, the question is often raised, "Should that sentence have a MUST or a SHOULD in it?" This is, indeed, a very good question, because specifications shouldn't have gratuitous MUSTs, but also should not have SHOULDs where a MUST is needed for interoperability. This goes to the crux of the question of over-specifying and under-specifying requirements in standards.
-
-#### 6.4.2 Normative References in Standards
-
-One aspect of writing IETF standards that trips up many newcomers (and quite a few long-time IETF folks) is the rule about how to make "normative references" to non-IETF documents or to other RFCs in a standard. A normative reference is a reference to a document that must be followed in order to implement the standard. A non-normative reference (sometimes called an "informative reference") is one that is helpful to an implementor but is not needed.
-
-An IETF standard may make a normative reference to any other standards-track RFC that is at the same standards level or higher, or to any "open standard" that has been developed outside the IETF. The "same level or higher" rule means that before a standard can move from Proposed to Draft, all of the RFCs for which there is a normative reference must also be at Draft or Internet standard. This rule is described in <a href="https://tools.ietf.org/html/bcp97">BCP 97</a>. This rule gives implementors assurance that everything in a Internet standard is quite stable, even the things referenced outside the standard. This can also delay the publication of the Draft or Internet standard by many months (sometimes even years) while the other documents catch up.
-
-There is no hard-and-fast rule about what is an "open standard", but generally this means a stable standard that anyone can get a copy of (although they might have to pay for it) and that was made by a generally recognized standards group. If the external standard changes, you have to reference the particular instantiation of that standard in your specification, as with a designation of the date of the standard. Some external standards bodies don't make old standards available, which is a problem for IETF standards that need to be used in the future. When in doubt, a draft author should ask the WG chair or appropriate Area Director if a particular external standard can be used in an IETF standard.
-
-#### 6.4.3 IANA Considerations
-
-More and more IETF standards require the registration of various protocol parameters, such as named options in the protocol. As we noted in Section 2.2.4, the main registry for all IETF standards has long been IANA. Because of the large and diverse kinds of registries that standards require, IANA needs to have specific information about how to register parameters, what not to register, who (if anyone) will decide what is to be registered, and so on.
-
-Anyone writing an Internet standard that may need a new IANA registry or new values in a current IANA registry needs to read <a href="https://tools.ietf.org/html/bcp26">BCP 26</a>, "Guidelines for Writing an IANA Considerations Section in RFCs", which describes how RFC authors should properly ask for IANA to start or take over a registry. IANA also maintains registries that were started long before BCP 26 was produced.
-
-#### 6.4.4 Security Considerations
-
-One thing that's required in every RFC and Internet-Draft is a "Security Considerations" section. This section should describe any known vulnerabilities of the protocol, possible threats, and mechanisms or strategies to address them. Don't gloss over this section — in particular, don't say, "Here's our protocol, if you want security, just use IPsec". This won't do at all, because it doesn't answer the question of how IPsec interacts with your protocol, and vice versa. See <a href="https://tools.ietf.org/html/bcp72">BCP 72</a>, "Guidelines for Writing RFC Text on Security Considerations", for more information on writing good security considerations sections.
-
-#### 6.4.5 Patents in IETF Standards
-
-The problems of intellectual property have cropped up more and more often in the past few years, particularly with respect to patents. The goal of the IETF is to have its standards widely used and validated in the marketplace. If creating a product that uses a standard requires getting a license for a patent, people are less likely to implement the standard. Not surprisingly, then, the general rule has been "use good non-patented technology where possible".
-
-Of course, this isn't always possible. Sometimes patents appear after a standard has been established. Sometimes there's a patent on something that is so valuable that there isn't a non-patented equivalent. Sometimes the patent holder is generous and promises to give all implementors of a standard a royalty-free license to the patent, thereby making it almost as easy to implement as it would have been if no patent existed.
-
-The IETF's methods for dealing with patents in standards are a subject of much debate. The official rules for all intellectual property rights (IPR) in IETF documents (not just patents) are covered in <a href="https://tools.ietf.org/html/bcp78">BCP 78</a> and <a href="https://tools.ietf.org/html/bcp79">BCP 79</a>, "Intellectual Property Rights in IETF Technology". Everyone who participates in IETF Working Groups will probably find these documents interesting because they lay out the rules that everyone agrees to follow.
-
-Patent holders who freely allow their patents to be used by people implementing IETF standards often get a great deal of goodwill from the folks in the IETF. Such generosity is more common than you might think. For example, <a href="https://tools.ietf.org/html/rfc1822">RFC 1822</a> is a license from IBM for one of its security patents in a particular protocol context, and the security community has responded very favorably to IBM for this (whereas a number of other companies have made themselves pariahs for their intractability on their security patents).
-
-If you are writing an Internet-Draft and you know of a patent that applies to the technology you're writing about, don't list the patent in the document. Instead, consult the IETF IPR page at https://datatracker.ietf.org/ipr/about to determine how to proceed. Intellectual property rights aren't mentioned in RFCs because RFCs never change after they are published, but knowledge of IPR can change at any time. Therefore, an IPR list in an RFC could be incomplete and mislead the reader. <a href="https://tools.ietf.org/html/bcp79">BCP 79</a> provides specific text that should be added to RFCs where the author knows of IPR issues.
-
-### 6.5 Informational and Experimental RFCs
-
-As we noted earlier, not all RFCs are standards. In fact, plenty of important RFCs are not on the standards track at all. Currently, there are two designations for RFCs that are not meant to be standards: Informational, like the Tao, and Experimental. (There is actually a third designation, Historic, but that is reserved for documents that were on the standards track and have been removed due to lack of current use, or that more recent thinking indicates the technology is actually harmful to the Internet.)
-
-The role of Informational RFCs is often debated in the IETF. Many people like having them, particularly for specifications that were created outside the IETF but are referenced by IETF documents. They are also useful for specifications that are the precursors for work being done by IETF Working Groups. On the other hand, some people refer to Informational RFCs as "standards" even though the RFCs are not standards, usually to fool the gullible public about something that the person is selling or supporting. When this happens, the debate about Informational RFCs is renewed.
-
-Experimental RFCs are for specifications that may be interesting, but for which it is unclear if there will be much interest in implementing them, or whether they will work once deployed. That is, a specification might solve a problem, but if it is not clear that many people think that the problem is important, or think that they will bother fixing the problem with the specification, the specification might be labeled an Experimental RFC. If, later, the specification becomes popular (or proves that it works well), it can be re-issued as a standards-track RFC. Experimental RFCs are also used to get people to experiment with a technology that looks like it might be standards-track material, but for which there are still unanswered questions.
-
-The IESG has created guidelines on how it chooses between Informational and Experimental status: [https://ietf.org/standards/process/informational-vs-experimental]. If you are creating a document that you think might become an Experimental RFC, knowing the current thinking will help you justify your proposed choice.
+These are an example of the aphorism that everything in computer science can
+be solved by a layer of indirection. For example, a single BCP can refer to
+one or more RFCs, and the specific RFCs can change such as when a new version
+of a protocol is published. Likewise, some STDs are actually
+sets of more than one RFC, and the "standard" designation applies to the
+whole set of documents.
 
 <a name="contribute"></a>
 
