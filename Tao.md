@@ -15,8 +15,9 @@ of translations</a> available.
 
 This web page is a continuation of the series of the "Tao of the IETF" RFCs,
 first published in 1994 and written by Gary Malkin.  In 2012,
-<a href="https://tools.ietf.org/html/rfc6722">RFC 6722</a> changed it from an
-RFC document to a web page.
+<a href="https://www.rfc-editor.org/info/rfc6722">RFC 6722:
+Publishing the "Tao of the IETF" as a Web Page</a> changed
+it from an RFC document to a web page.
 
 ## Abstract
 
@@ -186,8 +187,8 @@ See <a href="#where-do-i-fit-in">Where do I fit in?</a>
 for information about the ways that many people
 fit into the IETF.
 
-Quoting from <a href="https://tools.ietf.org/html/rfc3935">
-RFC 3935: A Mission Statement for the IETF</a>,
+Quoting from <a href="https://www.rfc-editor.org/info/rfc3935">RFC 3935:
+A Mission Statement for the IETF</a>:
 "the overall goal of the IETF is to make the Internet work better.
 Its mission is to produce high quality, relevant
 technical and engineering documents that influence the way people
@@ -235,7 +236,7 @@ information about current IETF activities and focus can be found.
 Of course, no organization can be as successful as the IETF is without having
 some sort of structure. In the IETF's case, that structure is provided by
 other supporting organizations, as described in
-<a href="https://tools.ietf.org/html/rfc2028">RFC 2028: The Organizations
+<a href="https://www.rfc-editor.org/info/rfc2028">RFC 2028: The Organizations
 Involved in the IETF Standards Process</a>.
 Please note that RFC 2028 is outdated and being revised.
 
@@ -283,9 +284,9 @@ distributing the timezone difficulty for those who participate remotely. The
 IETF has also met in Latin America and Oceania, but these continents are
 currently not part of the 1-1-1 rotation schedule.
 More information on picking the venue and the meeting policy can be found
-in <a href="https://tools.ietf.org/html/rfc8718">RFC 8718: IETF Plenary
+in <a href="https://www.rfc-editor.org/info/rfc8718">RFC 8718: IETF Plenary
 Meeting Venue Selection Process</a>
-and <a href="https://tools.ietf.org/html/rfc8719">RFC 8719: High-Level
+and <a href="https://www.rfc-editor.org/info/rfc8719">RFC 8719: High-Level
 Guidance for the Meeting Policy of the IETF</a>.
 
 Remote participation in IETF meetings has been growing significantly in the
@@ -342,7 +343,7 @@ IETF status reports.
 The IESG consists of the Area Directors (ADs), who are selected by the
 Nominations Committee (NomCom) and are appointed for two years. The process
 for choosing the members of the IESG is detailed in
-<a href="https://tools.ietf.org/html/bcp10">BCP 10</a>.
+<a href="https://www.rfc-editor.org/info/bcp10">BCP 10</a>.
 
 The current Areas and abbreviations are shown below, and
 <a href="https://www.ietf.org/topics/areas/"> more details</a> are at
@@ -897,11 +898,11 @@ The IETF is different things to different people. There are many people who
 have been very active in the IETF who have never attended an IETF meeting,
 and you should not feel obligated to come to an IETF meeting just to get a feel
 for the IETF.
-If, however, decide to come, this document and
-<a href="https://tools.ietf.org/html/rfc4144">RFC 4144: How to Gain
+If, however, you decide to come, this document and
+<a href="https://www.rfc-editor.org/info/rfc4144">RFC 4144: How to Gain
 Prominence and Influence in Standards Organizations</a>
 provides some pointers
-on how to make your meeting a success [https://tools.ietf.org/html/rfc4144].
+on how to make your meeting a success.
 The following guidelines (based on stereotypes of people in various
 industries) might help you decide whether you actually want to come and, if
 so, what might be the best use of your time at your first meeting.
@@ -1081,8 +1082,9 @@ its own page on the datatracker.
 
 ### 4.1 Working Group Chairs
 
-Each Working Group has one or two (or, rarely, three) chairs. The role of the WG
-chairs is described in both <a href="https://www.rfc-editor.org/info/bcp11">BCP 11</a>
+Each Working Group has one or two (or, rarely, three) chairs. The role of the
+WG chairs is described in both
+<a href="https://www.rfc-editor.org/info/bcp11">BCP 11</a>
 and <a href="https://www.rfc-editor.org/info/bcp25">BCP 25</a>.
 
 Chairs have responsibility for the technical and non-technical quality
@@ -1400,8 +1402,8 @@ but be patient, and you'll eventually see an email announcement saying
 that your brand-new RFC has been published.  Congratulations!
 
 A much more complete explanation of these steps is contained in <a
-href="https://tools.ietf.org/html/bcp9">BCP 9</a>, "The Internet Standards
-Process." This set of documents goes into great detail on a topic that is
+href="https://www.rfc-editor.org/info/bcp9">BCP 9</a>.
+This set of documents goes into great detail on a topic that is
 very often misunderstood, even by seasoned IETF participants: different types
 of RFCs go through different processes and have different rankings.
 
@@ -1542,7 +1544,7 @@ of the RFCs that appear as a normative reference must also be an Internet
 Standard. This rule gives implementors assurance that everything in a
 Internet standard is quite stable, even the things referenced outside the
 standard. This rule, and its exceptions, is described in
-<a href="https://tools.ietf.org/html/bcp97">BCP 97</a>.
+<a href="https://www.rfc-editor.org/info/bcp97">BCP 97</a>.
 
 There is no hard-and-fast rule about what is an "open standard", but
 generally this means a stable standard that was made by a
@@ -1610,7 +1612,7 @@ Don't be surprised if a particular standard doesn't progress from Proposed
 Standard to Internet Standard. To become an Internet Standard, an RFC must
 have multiple interoperable implementations and the unused features in the
 Proposed Standard must be removed; there are additional requirements listed
-in <a href="https://tools.ietf.org/html/bcp9">BCP 9</a>. Most of the
+in <a href="https://www.rfc-editor.org/info/bcp9">BCP 9</a>. Most of the
 protocols in common use are Proposed standards and never move forward. This
 may be because no one took the time to try to get them to Internet Standard,
 or some of the normative references in the standard are still at Proposed
@@ -1735,8 +1737,9 @@ than meet with representatives from other bodies. Even so, man SDOs make a
 great effort to interact well with the IETF despite the obvious cultural
 differences.
 
-As stated in <a href="https://tools.ietf.org/html/bcp39">the IAB Charter
-(BCP39)</a>, "Liaisons are kept as informal as possible and must be of
+As stated in <a href="https://www.rfc-editor.org/info/bcp39">BCP 39</a>,
+the IAB Charter:
+"Liaisons are kept as informal as possible and must be of
 demonstrable value in improving the quality of IETF specifications." In
 practice, the IETF prefers liaisons to take place directly at the WG
 level, with formal relationships and liaison documents in a backup role. The
@@ -1747,10 +1750,8 @@ At the time of this writing, the IETF has around two dozen liaisons. Some of
 these liaison tasks fall to the IESG, whereas others fall to the IAB.
 Full details about the processes for dealing with other SDOs can be
 found in
-<a href="https://tools.ietf.org/html/bcp102">BCP 102</a>, "IAB Processes for
-Management of IETF Liaison Relationships", and <a
-href="https://tools.ietf.org/html/bcp103">BCP 103</a>, "Procedures for
-Handling Liaison Statements to and from the IETF".
+<a href="https://www.rfc-editor.org/info/bcp102">BCP 102</a>
+and <a href="https://www.rfc-editor.org/info/bcp103">BCP 103</a>.
 
 <a name="press-coverage"></a>
 
