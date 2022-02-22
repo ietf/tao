@@ -1,4 +1,4 @@
-## About This Document
+# About This Document
 
 The current version of this web page can always be found at
 <a href="https://www.ietf.org/tao.html">https://www.ietf.org/tao.html</a>.
@@ -18,7 +18,7 @@ first published in 1994 and written by Gary Malkin.  In 2012,
 <a href="https://tools.ietf.org/html/rfc6722">RFC 6722</a> changed it from an
 RFC document to a web page.
 
-## Abstract
+# Abstract
 
 This document introduces you to the "ways of the IETF": it will convey the
 might and magic of networking people and packets in the Internet's most
@@ -27,12 +27,12 @@ IETF meetings and Working Groups, discuss organizations related to the IETF,
 and introduce the standards process. This is not a formal IETF process
 document but an informal and informational overview.
 
-## Table of Contents
+# Table of Contents
 
-1. <a href="#introduction">Introduction</a><br>
+1 <a href="#introduction">Introduction</a><br>
 1.1 Acronyms and Abbreviations Used in the Tao<br>
 <br>
-2. <a href="#what">What is the IETF</a><br>
+2 <a href="#what">What is the IETF</a><br>
 2.1 Humble Beginnings<br>
 2.2 The Hierarchy<br>
 2.2.1 The ISOC (Internet Society) and IETF LLC (IETF Administration LLC)<br>
@@ -44,7 +44,7 @@ document but an informal and informational overview.
 2.2.7 IETF Trust<br>
 2.3 IETF Mailing Lists<br>
 <br>
-3. <a href="#meetings">IETF Meetings</a><br>
+3 <a href="#meetings">IETF Meetings</a><br>
 3.1 Registration<br>
 3.2 Take the Plunge and Stay All Week!<br>
 3.3 Newcomer Training<br>
@@ -66,7 +66,7 @@ document but an informal and informational overview.
 3.14 Other General Things<br>
 3.15 Remote Participation<br>
 <br>
-4. <a href="#wgs">Working Groups</a><br>
+4 <a href="#wgs">Working Groups</a><br>
 4.1 Working Group Chairs<br>
 4.2 Getting Things Done in a Working Group<br>
 4.3 Working Group Documents<br>
@@ -74,9 +74,9 @@ document but an informal and informational overview.
 4.5 Working Group Mailing Lists<br>
 4.6 Interim Working Group Meetings<br>
 <br>
-5. <a href="#bofs">BOFs</a><br>
+5 <a href="#bofs">BOFs</a><br>
 <br>
-6. <a href="#rfcs">RFCs and Internet-Drafts</a><br>
+6 <a href="#rfcs">RFCs and Internet-Drafts</a><br>
 6.1 The Overall Process<br>
 6.2 Common Issues<br>
 6.3 Writing a Draft<br>
@@ -86,18 +86,18 @@ document but an informal and informational overview.
 6.4 Standards-Track RFCs<br>
 6.5 RFCs Other than Standards-Track<br>
 <br>
-7. <a href="#contribute">How to Contribute to the IETF</a><br>
+7 <a href="#contribute">How to Contribute to the IETF</a><br>
 7.1 What You Can Do<br>
 7.2 What Your Company Can Do<br>
 <br>
-8. <a href="#outside">IETF and the Outside World</a><br>
+8 <a href="#outside">IETF and the Outside World</a><br>
 8.1 IETF and Other SDOs<br>
 8.2 Press Coverage of the IETF<br>
 <br>
 
 <a id="introduction"></a>
 
-## 1. Introduction
+# 1 Introduction
 
 The Internet Engineering Taskforce (IETF) is the largest standard development
 organization (SDO) for the Internet. Since its early years, participation in
@@ -138,7 +138,7 @@ href="https://www.rfc-editor.org/info/bcp9">BCP 9</a> points to a collection
 of RFCs that describe the IETF's standardization processes.
 See <a href="#rfcs">RFCs and Internet-Drafts</a> for more details.
 
-### 1.1 Acronyms and Abbreviations Used in the Tao
+## 1.1 Acronyms and Abbreviations Used in the Tao
 
 Some of the acronyms and abbreviations from this document are listed below.
 
@@ -169,7 +169,7 @@ Some of the acronyms and abbreviations from this document are listed below.
 
 <a name="what"></a>
 
-# 2. What is the IETF?
+# 2 What is the IETF?
 
 The IETF has no members and no dues;
 it is a loosely self-organized group of people who contribute to the
@@ -561,7 +561,7 @@ directly.
 
 <a name="meetings"></a>
 
-## 3. IETF Meetings
+# 3 IETF Meetings
 
 The computer industry is rife with conferences, seminars, expositions, and
 all manner of other kinds of meetings. IETF face-to-face meetings are not
@@ -613,7 +613,7 @@ Note that COVID-19 disrupted the in-person meetings.
 After several virtual or online meetings, the IETF is trying its
 first hybrid meeting, in Vienna, in March 2022.
 
-### 3.1 Registration
+## 3.1 Registration
 
 To attend an IETF meeting, either online or in person, you have to register
 and pay a registration fee. If you cannot afford the registration fee, you
@@ -675,7 +675,7 @@ arrange to meet people. If someone says "meet me at registration," you should
 clarify if they mean the IETF registration desk, or the hotel registration
 desk: This has been a common cause of missed connections.
 
-### 3.2 Take the Plunge and Stay All Week!
+## 3.2 Take the Plunge and Stay All Week!
 
 IETF WG meetings are scheduled from Monday morning through Friday afternoon.
 Associated non-WG meetings often take place on the preceding or following
@@ -697,7 +697,7 @@ and there's no charge to use the "IETF wifi." This usually covers many places
 of the meeting venue (restaurants, coffee shops, and so on), so catching up
 on email when not in meetings is a fairly common task for IETFers.
 
-### 3.3 Newcomer Training
+## 3.3 Newcomer Training
 
 Newcomers should attend the Newcomer's Tutorial on Sunday, which is
 especially designed for them. The tutorial is organized and conducted by the
@@ -716,14 +716,14 @@ participants. It is a great chance to meet people, and establish contacts
 that can be useful during the rest of the week. Registration is required
 as space is limited. It is held right before the welcome reception.
 
-### 3.4 Dress Code
+## 3.4 Dress Code
 
 At meetings people generally dress informally, and newcomers could feel out
 of place if they show up Monday morning in suits. The general rule is "dress
 for casual comfort." Note that the hotel air conditioning might mean bringing
 a sweater or other covering as well.
 
-### 3.5 Working Group Meetings
+## 3.5 Working Group Meetings
 
 The heart of an IETF meeting is the WG meetings themselves. Different WGs
 chairs have very different styles, so it is impossible to generalize how a WG
@@ -761,7 +761,7 @@ first speak, say your name and affiliation for identification purposes. If
 you miss this, folks will often say "name!" to remind you. Don't be
 embarassed if this happens, it's not uncommon.
 
-### 3.6 Seeing Spots Before Your Eyes
+## 3.6 Seeing Spots Before Your Eyes
 
 Some attendees will have a little colored dot on their name tag, and a few
 people have more than one. These dots identify people who have volunteered to
@@ -800,7 +800,7 @@ Near the registration area there are usually ribbons and markers so that
 people can label their specific interests, history, and so on.
 Many people use them to make (inside) jokes, which are sometimes amusing.
 
-### 3.7 Terminal Room
+## 3.7 Terminal Room
 
 The IETF wifi is provided by volunteers who run the Network Operations Center
 (NOC). The terminal room is where you can get wired connectivity and limited
@@ -814,7 +814,7 @@ provide are terminals; the name is historical. The help desk in the terminal
 room is also a good place to ask questions about network failures, although
 they might point you off to different networking staff.
 
-### 3.8 Meals and Snacks
+## 3.8 Meals and Snacks
 
 Although it is true that some people eat very well at the IETF, they find the
 food on their own since lunches and dinners are not included in the
@@ -831,7 +831,7 @@ If you prefer to get out of the hotel for meals, the local host usually
 provides a list of places to eat within easy reach of the meeting site,
 and the meeting-specific email list is also a useful source.
 
-### 3.9 Social Event
+## 3.9 Social Event
 
 Another of the most important things organized and managed by the host is the
 IETF social event. The social event is sometimes high-tech-related event, or
@@ -845,7 +845,7 @@ social ticket costs extra, is reserved at registration time, and has limited
 capacity. People looking to buy or sell a social ticket often post to the
 email list, or on the corkboards mentioned above.
 
-### 3.10 Agenda
+## 3.10 Agenda
 
 The agenda for the IETF meetings is a very fluid thing. It is available on
 the web and through the IETF mobile apps starting a few weeks before the
@@ -864,7 +864,7 @@ changes. Some Working Groups meet multiple times during a meeting, and every
 attempt is made to have a Working Group meet in the same room for each
 session.
 
-### 3.11 EMODIR to the Rescue
+## 3.11 EMODIR to the Rescue
 
 If, after you finish reading this document, certain aspects of the IETF still
 mystify you, you'll want to drop in on the on-site training offered by the
@@ -891,7 +891,7 @@ Details on EMODIR membership and charter are available
 
 <a name="where-do-i-fit-in"></a>
 
-### 3.12 Where Do I Fit In?
+## 3.12 Where Do I Fit In?
 
 The IETF is different things to different people. There are many people who
 have been very active in the IETF who have never attended an IETF meeting,
@@ -906,7 +906,7 @@ The following guidelines (based on stereotypes of people in various
 industries) might help you decide whether you actually want to come and, if
 so, what might be the best use of your time at your first meeting.
 
-#### 3.12.1 IT Managers
+### 3.12.1 IT Managers
 
 As discussed throughout this document, an IETF meeting is nothing like any
 trade show you have attended. IETF meetings are singularly bad places to go
@@ -922,7 +922,7 @@ people read the current Internet-Drafts and email traffic on the relevant
 Working Group lists, they will get a sense of whether or not their presence
 would be worthwhile for your company or for the Working Groups.
 
-#### 3.12.2 Network Operators and ISPs
+### 3.12.2 Network Operators and ISPs
 
 Running a network is hard enough without having to grapple with new protocols
 or new versions of the protocols with which you are already dealing. If you
@@ -940,7 +940,7 @@ organizations is quite valuable to keep this work vibrant and relevant. Many
 of the best operations documents from the IETF come from real-world
 operators, not vendors and academics.
 
-#### 3.12.3 Networking Hardware and Software Vendors
+### 3.12.3 Networking Hardware and Software Vendors
 
 The image of the IETF being mostly network researchers may have been true in
 the distant past, but the jobs of today's attendees are typically in
@@ -966,7 +966,7 @@ Internet for some or all of its business, the strategy should probably cover
 the IETF, but note that IETF participation is as an *individual* not a
 formal representative of their employer.
 
-#### 3.12.4 Academics
+### 3.12.4 Academics
 
 IETF meetings are often excellent places for all kinds of researchers to find
 out what is happening in the way of soon-to-be-deployed protocols, and
@@ -986,12 +986,12 @@ IETF attendees can attend for free. The IRTF also hosts the
 which includes a cash prize, a travel grant to attend, and a chance to
 present. See the web page for requirements.
 
-#### 3.12.5 Computer Trade Press
+### 3.12.5 Computer Trade Press
 
 If you're a member of the press and are considering attending IETF,
 please see the <a href="#press-coverage">special section</a> below.
 
-### 3.13 Proceedings
+## 3.13 Proceedings
 
 IETF proceedings are compiled in the weeks and months after each meeting and
 are available
@@ -1001,7 +1001,7 @@ information about IETF that you're not likely to find anywhere else. For
 example, you'll copies of every session's slides, links to the video
 recording, copies of the blue sheets (attendance), and so on.
 
-### 3.14 Other General Things
+## 3.14 Other General Things
 
 IETFers in general are very approachable. Never be afraid to approach someone
 and introduce yourself. Also, don't be afraid to ask questions, especially
@@ -1034,7 +1034,7 @@ of online IETF-related information). Please check with the Secretariat before
 placing materials on the desk; the Secretariat has the right to remove
 material that they feel is not appropriate.
 
-### 3.15 Remote Participation
+## 3.15 Remote Participation
 
 People have joined IETF meetings remotely for a long time, but the tools for
 this have changed a lot over the years. Currently the IETF uses a browser-
@@ -1053,7 +1053,7 @@ conflicts are unavoidable.
 
 <a name="wgs"></a>
 
-## 4. Working Groups
+# 4 Working Groups
 
 The vast majority of the IETF's work is done in its many Working Groups; at
 the time of this writing, there are well over one hundred different WGs.
@@ -1079,7 +1079,7 @@ charter. The list of all WG charters makes interesting reading for folks who wan
 to know what the different Working Groups are supposed to be doing.  Each WG has
 its own page on the datatracker.
 
-### 4.1 Working Group Chairs
+## 4.1 Working Group Chairs
 
 Each Working Group has one or two (or, rarely, three) chairs. The role of the WG
 chairs is described in both <a href="https://www.rfc-editor.org/info/bcp11">BCP 11</a>
@@ -1101,7 +1101,7 @@ their jobs than others.
 
 <a name="rough-consensus"></a>
 
-### 4.2 Getting Things Done in a Working Group
+## 4.2 Getting Things Done in a Working Group
 
 One fact that confuses many newcomers is that the face-to-face WG meetings are much
 less important in the IETF than they are in most other organizations. Any decision
@@ -1147,7 +1147,7 @@ WG closes up because it fulfilled its charter. This is one of the aspects of the
 IETF that newcomers who have experience with other standards bodies have a hard
 time understanding.
 
-### 4.3 Working Group Documents
+## 4.3 Working Group Documents
 
 There is an official distinction between WG drafts and individual drafts. A WG
 will have to review an individual draft before deciding if it should be adopte
@@ -1182,7 +1182,7 @@ Document Shepherding from Working Group Last Call to Publication</a>. The chair,
 who knows the history of the draft within the WG, often does the shepherd
 write-up.
 
-### 4.4 Preparing for Working Group Meetings
+## 4.4 Preparing for Working Group Meetings
 
 The most important thing that **everyone** should do before coming to a
 face-to-face meeting is to read the Internet-Drafts and RFCs ahead of time. WG
@@ -1234,7 +1234,7 @@ the name of the Working Group followed by "@jabber.ietf.org". Those rooms are,
 in fact, available year-round, not just during IETF meetings, and some are used
 by active Working Group participants during protocol development.
 
-### 4.5 Working Group Mailing Lists
+## 4.5 Working Group Mailing Lists
 
 As we mentioned earlier, the IETF announcement and discussion mailing lists are
 the central mailing lists for IETF activities. However, there are many other
@@ -1256,7 +1256,7 @@ discussion.
 Every WG has a dedicated page on the datatracker site, and the "About" tab will
 point to mailing list subscription and archives. Every IETF list is archived.
 
-### 4.6 Interim Working Group Meetings
+## 4.6 Interim Working Group Meetings
 
 Working Groups sometimes hold interim meetings between IETFs. Interim meetings
 aren't a substitute for IETF meetings, however — a group can't decide to skip a
@@ -1276,7 +1276,7 @@ possible and to maintain the transparency of the Working Group process.
 
 <a name="bofs"></a>
 
-## 5. BOFs and Dispatching
+# 5 BOFs and Dispatching
 
 In order to form a Working Group, you need a charter and someone who is able
 to be chair. In order to get those things, you need to get people interested
@@ -1316,7 +1316,7 @@ Working Group, not to get support for a particular document.
 
 <a name="rfcs"></a>
 
-## 6. RFCs and Internet-Drafts
+# 6 RFCs and Internet-Drafts
 
 This section discusses Internet-Drafts and RFCs in the IETF stream, that is,
 it describes how documents are produced and advanced within the IETF. For a
@@ -1338,7 +1338,7 @@ for the standards track. For the sake of brevity, we will not mention
 those here. After all, this document is about "the Way of the IETF"
 and the main Way is "developing standards."
 
-### 6.1 The Overall Process
+## 6.1 The Overall Process
 
 The very first step is to have a draft document. Internet-Drafts
 should follow a specific format, and are required to have particular
@@ -1405,7 +1405,7 @@ Process." This set of documents goes into great detail on a topic that is
 very often misunderstood, even by seasoned IETF participants: different types
 of RFCs go through different processes and have different rankings.
 
-### 6.2 Common Issues
+## 6.2 Common Issues
 
 There are two major issues that often come up while preparing drafts:
 copyright, and patents.
@@ -1460,7 +1460,7 @@ and mislead the reader. <a href="https://www.rfc-editor.org/info/bcp79">BCP
 79</a> provides specific text that should be added to RFCs where the author
 knows of IPR issues.
 
-### 6.3 Writing a Draft
+## 6.3 Writing a Draft
 
 Every RFC starts its life as a draft. Drafts have the same format as an RFC,
 and are required to have all the content that should appear in the RFC. This
@@ -1495,7 +1495,7 @@ That document explains the naming conventions, formatting requirements,
 required content, and details of how to submit (also called *post*) your
 draft.
 
-#### 6.3.1 Draft Language
+### 6.3.1 Draft Language
 
 It is common for Internet-Drafts that revise existing RFCs often have draft
 names with "bis" in them, meaning "again" or "twice." For example, a draft
@@ -1525,7 +1525,7 @@ the particular uses of what is called "2119 language." For example,
 "The document says MAY but doesn't explain why not; should it be
 a MUST?"
 
-#### 6.3.2 About References
+### 6.3.2 About References
 
 One aspect of writing IETF standards that trips up many newcomers is the rule
 about how to make *normative references* to non-IETF documents or to other
@@ -1555,7 +1555,7 @@ problem for IETF standards that need to be used in the future. When in doubt,
 ask the WG chair or AD if a particular external standard can be used in an
 IETF standard.
 
-#### 6.3.3 About Required Content
+### 6.3.3 About Required Content
 
 Every draft is required to have some content. Some of this is boilerplate
 text about copyright, "2119 keyword," and so on. The document formatting
@@ -1601,7 +1601,7 @@ explicit privacy section.
 More detail on the required content can be found
 <a href="https://www.ietf.org/how/ids/guidelines/#required-content">online</a>.
 
-### 6.4 Standards-Track RFCs
+## 6.4 Standards-Track RFCs
 
 If the IESG approves the draft to become a standards-track RFC, they ask the
 RPC to publish it as a *Proposed Standard*.
@@ -1618,7 +1618,7 @@ standard, or it may be that everyone found more important things to do.
 
 <a name="non-std-rfcs"></a>
 
-### 6.5 RFCs Other than Standards-Track
+## 6.5 RFCs Other than Standards-Track
 
 As mentioned earlier, not all RFCs are standards. In fact, many important
 RFCs are not on the standards track at all. At the time of writing, there
@@ -1657,9 +1657,9 @@ whole set of documents.
 
 <a name="contribute"></a>
 
-## 7. How to Contribute to the IETF
+# 7 How to Contribute to the IETF
 
-### 7.1 What You Can Do
+## 7.1 What You Can Do
 
 **Read:** Review the Internet-Drafts in your area of expertise and comment on
 them in the Working Groups. Participate in the discussion in a friendly,
@@ -1688,7 +1688,7 @@ of technical (and, sadly, sometimes personal) criticism. Take the technical
 comments with equanimity and use it to improve your draft in order to produce
 the best and most interoperable standard, and ignore the personal ones.
 
-### 7.2 What Your Company Can Do
+## 7.2 What Your Company Can Do
 
 **Share:** Avoid proprietary standards. If you are an implementor, exhibit a
 strong preference for IETF standards. If the IETF standards aren't as good as
@@ -1717,13 +1717,13 @@ Internet as a whole.
 
 <a name="outside"></a>
 
-## 8. IETF and the Outside World
+# 8 IETF and the Outside World
 
 While many IETF participants would like to think otherwise, the IETF
 does not exist in a standards vacuum. This section discusses two important
 groups.
 
-### 8.1 IETF and Other SDOs
+## 8.1 IETF and Other SDOs
 
 There are many other standards organizations whose decisions affect the
 Internet. Some of them ignored the Iternet for a long time and now want to
@@ -1754,7 +1754,7 @@ Handling Liaison Statements to and from the IETF".
 
 <a name="press-coverage"></a>
 
-### 8.2 Press Coverage of the IETF
+## 8.2 Press Coverage of the IETF
 
 Given that the IETF is one of the best-known bodies that is helping move the
 Internet forward, it's natural for the media to cover its actions. But it can
