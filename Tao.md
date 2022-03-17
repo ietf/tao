@@ -486,8 +486,9 @@ an errata may be filed for review.  If accepted, the errata will be linked to
 the RFC and may be held for the next document update.
 
 At the time of this writing, the model for the RFC Editor and the RPC is
-being revised under an
-<a href="https://www.iab.org/activities/programs/rfc-editor-future-development-program/">IAB Program</a>.
+being revised under an <a
+href="https://www.iab.org/activities/programs/rfc-editor-future-development-program/">
+IAB Program</a>.
 In this revision, there is a position hired by the IETF LLC known as the RFC
 Series Editor, who is advised by a couple of groups.  As a newcomer, and
 potential author, the details shouldn't matter much to you right now.
