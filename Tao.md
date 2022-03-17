@@ -1,4 +1,4 @@
-## About This Document
+# About This Document
 
 The current version of this web page can always be found at
 <a href="https://www.ietf.org/tao.html">https://www.ietf.org/tao.html</a>.
@@ -30,10 +30,10 @@ document but an informal and informational overview.
 
 ## Table of Contents
 
-1. <a href="#introduction">Introduction</a><br>
+1 <a href="#introduction">Introduction</a><br>
 1.1 Acronyms and Abbreviations Used in the Tao<br>
 <br>
-2. <a href="#what">What is the IETF</a><br>
+2 <a href="#what">What is the IETF</a><br>
 2.1 Humble Beginnings<br>
 2.2 The Hierarchy<br>
 2.2.1 The ISOC (Internet Society) and IETF LLC (IETF Administration LLC)<br>
@@ -45,7 +45,7 @@ document but an informal and informational overview.
 2.2.7 IETF Trust<br>
 2.3 IETF Mailing Lists<br>
 <br>
-3. <a href="#meetings">IETF Meetings</a><br>
+3 <a href="#meetings">IETF Meetings</a><br>
 3.1 Registration<br>
 3.2 Take the Plunge and Stay All Week!<br>
 3.3 Newcomer Training<br>
@@ -67,7 +67,7 @@ document but an informal and informational overview.
 3.14 Other General Things<br>
 3.15 Remote Participation<br>
 <br>
-4. <a href="#wgs">Working Groups</a><br>
+4 <a href="#wgs">Working Groups</a><br>
 4.1 Working Group Chairs<br>
 4.2 Getting Things Done in a Working Group<br>
 4.3 Working Group Documents<br>
@@ -75,9 +75,9 @@ document but an informal and informational overview.
 4.5 Working Group Mailing Lists<br>
 4.6 Interim Working Group Meetings<br>
 <br>
-5. <a href="#bofs">BOFs</a><br>
+5 <a href="#bofs">BOFs</a><br>
 <br>
-6. <a href="#rfcs">RFCs and Internet-Drafts</a><br>
+6 <a href="#rfcs">RFCs and Internet-Drafts</a><br>
 6.1 The Overall Process<br>
 6.2 Common Issues<br>
 6.3 Writing a Draft<br>
@@ -87,18 +87,18 @@ document but an informal and informational overview.
 6.4 Standards-Track RFCs<br>
 6.5 RFCs Other than Standards-Track<br>
 <br>
-7. <a href="#contribute">How to Contribute to the IETF</a><br>
+7 <a href="#contribute">How to Contribute to the IETF</a><br>
 7.1 What You Can Do<br>
 7.2 What Your Company Can Do<br>
 <br>
-8. <a href="#outside">IETF and the Outside World</a><br>
+8 <a href="#outside">IETF and the Outside World</a><br>
 8.1 IETF and Other SDOs<br>
 8.2 Press Coverage of the IETF<br>
 <br>
 
 <a id="introduction"></a>
 
-## 1. Introduction
+## 1 Introduction
 
 The Internet Engineering Taskforce (IETF) is the largest standard development
 organization (SDO) for the Internet. Since its early years, participation in
@@ -170,7 +170,7 @@ Some of the acronyms and abbreviations from this document are listed below.
 
 <a name="what"></a>
 
-# 2. What is the IETF?
+## 2 What is the IETF?
 
 The IETF has no members and no dues;
 it is a loosely self-organized group of people who contribute to the
@@ -254,7 +254,7 @@ patrol, the Internet. If your interest in the IETF is because you want to be
 part of the overseers, you may be badly disappointed by the IETF.
 A saying you will sometimes hear is "we are not the protocol police."
 
-## 2.1 Humble Beginnings
+### 2.1 Humble Beginnings
 
 The first IETF meeting was held in January 1986 at Linkabit in San Diego,
 with 21 attendees. The 4th IETF, held at SRI in Menlo Park in October 1986,
@@ -293,9 +293,9 @@ Remote participation in IETF meetings has been growing significantly in the
 past few years, thanks in part to the ongoing effort to improve the tools and
 processes used to faciliate this mode participation.
 
-## 2.2 The Hierarchy
+### 2.2 The Hierarchy
 
-### 2.2.1 The Internet Society (ISOC) and the IETF Administration LLC (IETF LLC)
+#### 2.2.1 The Internet Society (ISOC) and the IETF Administration LLC (IETF LLC)
 
 The Internet Society (ISOC) is an international, non-profit, membership
 organization that supports and promotes the development of the Internet as a
@@ -325,7 +325,7 @@ The IETF and ISOC continue to be strongly aligned on key principles. ISOC
 initiatives related to the IETF continue to support participation in, and
 deployment of, the standards created by the IETF.
 
-### 2.2.2 Internet Engineering Steering Group (IESG)
+#### 2.2.2 Internet Engineering Steering Group (IESG)
 
 The IESG is responsible for technical management of IETF activities and the
 Internet standards process.  However, the IESG doesn't exercise much direct
@@ -411,7 +411,7 @@ review drafts with a focus on potential issues for their area.
 The quality of the IETF standards comes both from the review they get in the
 Working Groups and the scrutiny that the WG review gets from the ADs.
 
-### 2.2.3 Internet Architecture Board (IAB)
+#### 2.2.3 Internet Architecture Board (IAB)
 
 The IAB is responsible for keeping an eye on the "big picture" of the
 Internet, and it focuses on long-range planning and coordination among the
@@ -444,7 +444,7 @@ NomCom and are approved by the ISOC Board of Trustees.
 
 <a name="iana"></a>
 
-### 2.2.4 Internet Assigned Numbers Authority (IANA)
+#### 2.2.4 Internet Assigned Numbers Authority (IANA)
 
 The core registrar for the IETF's activities is the <a
 href="https://www.iana.org>">IANA</a> Many Internet protocols require that
@@ -461,7 +461,7 @@ Having a stable, long-term repository run by careful and conservative
 operators makes it much easier for people to experiment without worrying
 about messing things up.
 
-### 2.2.5 RFC Editor and RFC Publication Center (RPC)
+#### 2.2.5 RFC Editor and RFC Publication Center (RPC)
 
 The RPC edits, formats, and published RFC's. This used to be done by one
 person, which is why you will still see the term *RFC Editor*; IETFers are
@@ -494,7 +494,7 @@ potential author, the details shouldn't matter much to you right now.
 
 The RPC is contracted by the IETF LLC.
 
-### 2.2.6 IETF Secretariat
+#### 2.2.6 IETF Secretariat
 
 There are a few people who are paid to maintain the IETF. The IETF
 Secretariat provides day-to-day logistical support, which mainly means
@@ -506,7 +506,7 @@ and others.
 
 The Secretariat is contracted by the IETF LLC.
 
-### 2.2.7 IETF Trust
+#### 2.2.7 IETF Trust
 
 The <a href="https://trustee.ietf.org">IETF Trust</a> was set up to hold and
 license the intellectual property of the IETF, such as trademarks (the IETF
@@ -517,7 +517,7 @@ they are quietly doing their job.
 
 <a name="mail-lists"></a>
 
-## 2.3 IETF Mailing Lists
+### 2.3 IETF Mailing Lists
 
 The IETF does most of its communication, and all of its official work,
 via email.
@@ -562,7 +562,7 @@ directly.
 
 <a name="meetings"></a>
 
-## 3. IETF Meetings
+## 3 IETF Meetings
 
 The computer industry is rife with conferences, seminars, expositions, and
 all manner of other kinds of meetings. IETF face-to-face meetings are not
@@ -1054,7 +1054,7 @@ conflicts are unavoidable.
 
 <a name="wgs"></a>
 
-## 4. Working Groups
+## 4 Working Groups
 
 The vast majority of the IETF's work is done in its many Working Groups; at
 the time of this writing, there are well over one hundred different WGs.
@@ -1278,7 +1278,7 @@ possible and to maintain the transparency of the Working Group process.
 
 <a name="bofs"></a>
 
-## 5. BOFs and Dispatching
+## 5 BOFs and Dispatching
 
 In order to form a Working Group, you need a charter and someone who is able
 to be chair. In order to get those things, you need to get people interested
@@ -1318,7 +1318,7 @@ Working Group, not to get support for a particular document.
 
 <a name="rfcs"></a>
 
-## 6. RFCs and Internet-Drafts
+## 6 RFCs and Internet-Drafts
 
 This section discusses Internet-Drafts and RFCs in the IETF stream, that is,
 it describes how documents are produced and advanced within the IETF. For a
@@ -1659,7 +1659,7 @@ whole set of documents.
 
 <a name="contribute"></a>
 
-## 7. How to Contribute to the IETF
+## 7 How to Contribute to the IETF
 
 ### 7.1 What You Can Do
 
@@ -1719,7 +1719,7 @@ Internet as a whole.
 
 <a name="outside"></a>
 
-## 8. IETF and the Outside World
+## 8 IETF and the Outside World
 
 While many IETF participants would like to think otherwise, the IETF
 does not exist in a standards vacuum. This section discusses two important
