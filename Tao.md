@@ -100,7 +100,7 @@ document but an informal and informational overview.
 
 ## 1 Introduction
 
-The Internet Engineering Taskforce (IETF) is the largest standard development
+The Internet Engineering Task Force (IETF) is the largest standard development
 organization (SDO) for the Internet. Since its early years, participation in
 the IETF has grown phenomenally. In-person
 attendance at face-to-face meetings
@@ -168,7 +168,7 @@ Some of the acronyms and abbreviations from this document are listed below.
 </table>
 </div>
 
-<a name="what"></a>
+<a id="what"></a>
 
 ## 2 What is the IETF?
 
@@ -378,7 +378,7 @@ the IETF web site.
 </table>
 </div>
 
-<a name="iesg-review"></a>
+<a id="iesg-review"></a>
 
 Because the IESG reviews all Internet-Drafts before they become RFCs, ADs
 have quite a bit of influence.  The ADs for a particular Area are expected to
@@ -444,7 +444,7 @@ The IAB also:
 Like the IESG, the IAB members are selected for two-year positions by the
 NomCom and are approved by the ISOC Board of Trustees.
 
-<a name="iana"></a>
+<a id="iana"></a>
 
 #### 2.2.4 Internet Assigned Numbers Authority (IANA)
 
@@ -471,7 +471,7 @@ commonly come in contact with people responsible for editing your draft.
 Another important role is to provide <a href="https://www.rfc-editor.org">one
 definitive repository</a> for all RFCs.
 
-<a name="other-streams"></a>
+<a id="other-streams"></a>
 
 A common misconception is that all RFCs are the work of the IETF.  In fact,
 there are four sources of RFCs: the IETF, the IAB, the IRTF, and Independant
@@ -517,7 +517,7 @@ entity.  Most participants never interact with the IETF Trust, beyond seeing
 it mentioned in RFC boilerplate.  This is a good sign, and indicates that
 they are quietly doing their job.
 
-<a name="mail-lists"></a>
+<a id="mail-lists"></a>
 
 ### 2.3 IETF Mailing Lists
 
@@ -562,7 +562,7 @@ large, it is important to note that attending an IETF meeting does not mean
 you'll be automatically added to any list; you'll have to "opt in"
 directly.
 
-<a name="meetings"></a>
+<a id="meetings"></a>
 
 ## 3 IETF Meetings
 
@@ -892,7 +892,7 @@ any questions you might have.
 Details on EMODIR membership and charter are available
 <a href="https://datatracker.ietf.org/group/emodir/about/">online</a>.
 
-<a name="where-do-i-fit-in"></a>
+<a id="where-do-i-fit-in"></a>
 
 ### 3.12 Where Do I Fit In?
 
@@ -1054,7 +1054,7 @@ memory while writing a trip report, or for catching up on what happened
 when you wanted to be in two WG meetings at once. It happens; scheduling
 conflicts are unavoidable.
 
-<a name="wgs"></a>
+<a id="wgs"></a>
 
 ## 4 Working Groups
 
@@ -1103,7 +1103,7 @@ you can imagine given the mix of secretarial, interpersonal, and
 technical demands, some Working Group chairs are much better at
 their jobs than others.
 
-<a name="rough-consensus"></a>
+<a id="rough-consensus"></a>
 
 ### 4.2 Getting Things Done in a Working Group
 
@@ -1278,7 +1278,7 @@ meetings, as well as reporting the results of the meetings. The purpose of these
 rules is to make interim meetings accessible to as many Working Group members as
 possible and to maintain the transparency of the Working Group process.
 
-<a name="bofs"></a>
+<a id="bofs"></a>
 
 ## 5 BOFs and Dispatching
 
@@ -1318,7 +1318,7 @@ tend to limit what the other folks in the BOF want to do in the charter.
 Remember that most BOFs are held in order to get support for an eventual
 Working Group, not to get support for a particular document.
 
-<a name="rfcs"></a>
+<a id="rfcs"></a>
 
 ## 6 RFCs and Internet-Drafts
 
@@ -1416,7 +1416,7 @@ of RFCs go through different processes and have different rankings.
 There are two major issues that often come up while preparing I-Ds:
 copyright, and patents.
 
-<a name="copyright"></a>
+<a id="copyright"></a>
 
 We discussed copyright above, but expand on it here. When the IETF adopts a
 Internet-Draft, it is required that the *boilerplate*, the common text that
@@ -1622,7 +1622,7 @@ may be because no one took the time to try to get them to Internet Standard,
 or some of the normative references in the standard are still at Proposed
 standard, or it may be that everyone found more important things to do.
 
-<a name="non-std-rfcs"></a>
+<a id="non-std-rfcs"></a>
 
 ### 6.5 RFCs Other than Standards-Track
 
@@ -1661,7 +1661,7 @@ of a protocol is published. Likewise, some STDs are actually
 sets of more than one RFC, and the "standard" designation applies to the
 whole set of documents.
 
-<a name="contribute"></a>
+<a id="contribute"></a>
 
 ## 7 How to Contribute to the IETF
 
@@ -1721,7 +1721,7 @@ benefited from the Internet to contribute, since this has the greatest
 financial benefit for the group. It will, of course, also benefit the
 Internet as a whole.
 
-<a name="outside"></a>
+<a id="outside"></a>
 
 ## 8 IETF and the Outside World
 
@@ -1757,7 +1757,7 @@ found in
 <a href="https://www.rfc-editor.org/info/bcp102">BCP 102</a>
 and <a href="https://www.rfc-editor.org/info/bcp103">BCP 103</a>.
 
-<a name="press-coverage"></a>
+<a id="press-coverage"></a>
 
 ### 8.2 Press Coverage of the IETF
 
