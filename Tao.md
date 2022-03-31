@@ -108,13 +108,13 @@ attendance at face-to-face meetings
 between 1000 and 1500 participants</a>.
 At any given meeting, around 200 attendees are *newcomers* (defined by the IETF
 as someone who has attended five or fewer meetings), and many of those go on to
-become regular participants.  When the IETF was smaller, it was relatively
+become regular participants. When the IETF was smaller, it was relatively
 easy for a newcomer to adjust. Today, however, a newcomer meets many more new
 people -- some previously known only as the authors of documents or
 thought-provoking email messages.
 
 Of course, it's true that many IETF participants don't go to the face-to-face
-meetings at all - especially since the COVID-19 pandemic when meetings when
+meetings at all - especially since the COVID-19 pandemic when meetings were
 completely online for a while. There also also many participants that solely
 focus on the mailing lists of various IETF Working Groups. Since the inner
 workings of Working Groups can be hard for newcomers to understand, this
@@ -122,7 +122,7 @@ document provides the mundane bits of information that newcomers will need in
 order to become active participants. The IETF website also has a lot of
 <a href="https://www.ietf.org/about/participate/get-started/">newcomer
 information</a> in various formats.
-Tn this document we try to cover as much as possible in one place.
+In this document we try to cover as much as possible in one place.
 
 The IETF is always evolving.  Although the principles in this document are
 expected to remain consistent over time, practical details may well
@@ -132,7 +132,7 @@ replaced an email address for requesting some sort of action.
 Many types of IETF documentation are mentioned here.  The IETF publishes its
 technical documentation as RFCs, still known by their historical term
 *Requests for Comments*.  (Sometimes people joke that it stands for
-*Request for Compliance*.) STDs are RFCs identified as "standards."
+*Request for Compliance*.) STDs are RFCs identified as "standards"
 and BCPs are RFCs that represent thoughts on Best Current Practices in the
 Internet. Both STDs and BCPs are also RFCs.  For example, <a
 href="https://www.rfc-editor.org/info/bcp9">BCP 9</a> points to a collection
@@ -273,7 +273,7 @@ The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first
 IETF meeting held in Europe, and the US/non-US attendee split was nearly
 50/50. The IETF first met in Oceania (in Adelaide, Australia) in 2000, the
 first meeting in Asia (in Yokohama, Japan) was in 2002, and the first meeting
-in Latin America (in Buenos Aires, Agentina) was in 2002. So far, the IETF
+in Latin America (in Buenos Aires, Agentina) was in 2016. So far, the IETF
 has never met in Africa.
 
 The IETF currently has a "1-1-1" meeting policy where the goal is to
@@ -305,7 +305,7 @@ throughout the world." One of the ways that ISOC does this is through
 support of the IETF.
 
 The <a href="https://www.ietf.org/about/administration/">IETF Administration
-LLC</a> is a "disregarded entity" of the ISOC, which means it is treated as
+LLC</a> (IETF LLC) is a "disregarded entity" of the ISOC, which means it is treated as
 as a branch or division for tax purposes. The IETF LLC has no role in the
 oversight or steering of the standards process, the appeal chain, the
 confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's
@@ -313,6 +313,8 @@ memberships in other organizations. Rather, the IETF LLC, as overseen by its
 Board of Directors, is responsible for staffing and contracts with places
 like hotels to host IETF meetings. Most of the day-to-day activities
 are delegated to the IETF's Executive Director.
+
+Responsibilities of the IETF LLC include:
 
 - Supporting the ongoing operations of the IETF, including meetings and
   non-meeting activities.
@@ -333,10 +335,10 @@ leadership, such as the kind you will find in many other standards
 organizations. As its name suggests, its role is to set directions rather
 than to give orders. The IESG gets WGs started and finished, ratifies or
 steers the output from the IETF's Working Groups (WGs), and makes sure that
-non-WG drafts that are about to become RFCs are correct.
+non-WG I-Ds that are about to become RFCs are correct.
 
 Check the <a href="https://www.ietf.org/about/groups/iesg">IESG web
-pages</a>, to find up-to-date information about IESG statements, drafts
+pages</a> to find up-to-date information about IESG statements, I-Ds
 processed, RFCs published, and documents in Last Call, as well as the monthly
 IETF status reports.
 
@@ -404,9 +406,9 @@ positions.
 
 Another important job of the IESG is to watch over the output of all the WGs
 to help prevent IETF protocols that are at odds with each other. This is why
-ADs are supposed to review the drafts coming out of Areas other than their
+ADs are supposed to review the I-Ds coming out of Areas other than their
 own, and each Area has a *directorate*, a set of experienced volunteers who
-review drafts with a focus on potential issues for their area.
+review I-Ds with a focus on potential issues for their area.
 
 The quality of the IETF standards comes both from the review they get in the
 Working Groups and the scrutiny that the WG review gets from the ADs.
@@ -450,12 +452,11 @@ The core registrar for the IETF's activities is the <a
 href="https://www.iana.org>">IANA</a> Many Internet protocols require that
 someone keep track of protocol items that were added after the protocol came
 out. Typical examples of the kinds of registries needed are for TCP port
-numbers and MIME types.  IANA is overseen by the IAB, and is funded by the
-IETF LLC. There is a
+numbers and MIME types. IANA's work on behalf of the IETF is overseen by the IAB. There is a
 <a href="https://www.iab.org/activities/programs/ietf-iana-group/">joint
-group</a> that advises IANA.
+group</a> that advises IANA. IANA is funded by ICANN.
 
-Even though being a registrar may not sound interesting, many IETF
+Even though being a registry may not sound interesting, many IETF
 participants will testify to how important IANA has been for the Internet.
 Having a stable, long-term repository run by careful and conservative
 operators makes it much easier for people to experiment without worrying
@@ -497,7 +498,7 @@ The RPC is contracted by the IETF LLC.
 
 #### 2.2.6 IETF Secretariat
 
-There are a few people who are paid to maintain the IETF. The IETF
+There are a few people who are paid to support the IETF. The IETF
 Secretariat provides day-to-day logistical support, which mainly means
 coordinating face-to-face meetings and running the IETF presence on
 the web, including the <a href="https://www.ietf.org">IETF web site</a>,
@@ -618,7 +619,7 @@ first hybrid meeting, in Vienna, in March 2022.
 ### 3.1 Registration
 
 To attend an IETF meeting, either online or in person, you have to register
-and pay a registration fee. If you cannot afford the registration fee, you
+and pay a registration fee. If you cannot afford the online registration fee, you
 can apply for a fee waiver during the registration process. The meeting site
 (if the meeting is not purely online) is generally announced at several
 months ahead of the meeting -- earlier if possible. An announcement goes out
@@ -1152,10 +1153,10 @@ time understanding.
 
 ### 4.3 Working Group Documents
 
-There is an official distinction between WG drafts and individual drafts. A WG
-will have to review an individual draft before deciding if it should be adopte
+There is an official distinction between WG I-Ds and individual I-Ds. A WG
+will have to review an individual draft before deciding if it should be adopted
 by the WG. The WG chairs appoint who will be the authors or editors of the
-drafts; often those who wrote the initial draft continue work on behalf of the
+I-Ds; often those who wrote the initial draft continue work on behalf of the
 WG. Procedures for Internet-Drafts are covered in much more detail later in this
 document.
 
@@ -1209,14 +1210,14 @@ your flight with such little notice, particularly if the Working Group's meeting
 changes schedule. Be sure to keep track of the current agenda so you can
 schedule flights and hotels. But, when it comes down to it, you probably
 shouldn't be coming for just one WG meeting. It's likely that your knowledge
-could be valuable in a few WGs, assuming that you've read the drafts and RFCs
+could be valuable in a few WGs, assuming that you've read the I-Ds and RFCs
 for those groups. Work in the IETF is often reciprocal, contribute positively to
 others work and you are more likely to receive comments and feedback on your
 work.
 
 If you are on the agenda at a face-to-face meeting, you should prepare a few
 slides and mail them to the chair before the meeting. Don't come with a
-tutorial; people are supposed to read the drafts in advance. Projectors for
+tutorial; people are supposed to read the I-Ds in advance. Projectors for
 laptop-based presentations are available in all the meeting rooms.
 
 And here's a tip for your slides: don't put your company's logo on every one,
@@ -1341,6 +1342,8 @@ for the standards track. For the sake of brevity, we will not mention
 those here. After all, this document is about "the Way of the IETF"
 and the main Way is "developing standards."
 
+If you are interested in learning more about how to author an Internet-Draft yourself, the <a href="https://authors.ietf.org">I-D Authors website</a> has a lot of information and resources, including pointers to online tools that can help.
+
 ### 6.1 The Overall Process
 
 The very first step is to have a draft document. Internet-Drafts
@@ -1410,7 +1413,7 @@ of RFCs go through different processes and have different rankings.
 
 ### 6.2 Common Issues
 
-There are two major issues that often come up while preparing drafts:
+There are two major issues that often come up while preparing I-Ds:
 copyright, and patents.
 
 <a name="copyright"></a>
@@ -1465,7 +1468,7 @@ knows of IPR issues.
 
 ### 6.3 Writing a Draft
 
-Every RFC starts its life as a draft. Drafts have the same format as an RFC,
+Every RFC starts its life as an I-D. Internet-Drafts have the same format as an RFC,
 and are required to have all the content that should appear in the RFC. This
 includes a couple of sections detailed below. A draft may also have more
 information, such as an incremental list of changes from previous verions of
@@ -1478,7 +1481,7 @@ Version 3 Vocabulary</a>. Some people enjoy writing in XML, and some don't.
 An alternative for the second group is to use a specific dialect of markdown,
 which is then converted to XML as needed (and especially during the
 publication process). A recent trend is the increasing use of markdown, and
-hosting drafts on GitHub to attract a wider audience of Internet-savvy users.
+hosting I-Ds on GitHub to attract a wider audience of Internet-savvy users.
 Some information on this can be found at
 <a href="https://www.rfc-editor.org/info/rfc8874">RFC 8874:
 Working Group GitHub Usage Guidance</a>.
@@ -1523,7 +1526,7 @@ requirements, as compared to what is purely informative.
 It defines the meaning of words like *MUST* and points out that it
 has to appear in all uppercase to its special meaning.
 
-It is not uncommon for feedback on standards-track drafts to question
+It is not uncommon for feedback on standards-track I-Ds to question
 the particular uses of what is called "2119 language." For example,
 "The document says MAY but doesn't explain why not; should it be
 a MUST?"
@@ -1678,7 +1681,7 @@ to the appropriate Working Group so that the standard can be clarified in
 later revisions. Remember the tenet, "rough consensus and running code,"
 so you can help support the standards you want to become more
 widespread by creating more running code. You can help the development of
-protocols before they become standards by implementing drafts (but not doing
+protocols before they become standards by implementing I-Ds (but not doing
 wide-spread deployment) to ensure that the authors have done a good job. If
 you find errors or omissions, offer improvements based on your implementation
 experience. A great way to get involved in this is by participating in
