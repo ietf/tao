@@ -449,7 +449,7 @@ NomCom and are approved by the ISOC Board of Trustees.
 #### 2.2.4 Internet Assigned Numbers Authority (IANA)
 
 The core registrar for the IETF's activities is the <a
-href="https://www.iana.org>">IANA</a> Many Internet protocols require that
+href="https://www.iana.org">IANA</a>. Many Internet protocols require that
 someone keep track of protocol items that were added after the protocol came
 out. Typical examples of the kinds of registries needed are for TCP port
 numbers and MIME types. IANA's work on behalf of the IETF is overseen by the IAB. There is a
