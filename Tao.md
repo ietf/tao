@@ -1,22 +1,21 @@
 # About This Document
 
 The current version of this web page can always be found at
-<a href="https://www.ietf.org/tao.html">https://www.ietf.org/tao.html</a>.
+[https://www.ietf.org/tao.html](https://www.ietf.org/tao.html).
 To contribute to this document or to discuss its content, please join the
-<a href="https://www.ietf.org/mailman/listinfo/tao-discuss">tao-discuss</a>
+[tao-discuss](https://www.ietf.org/mailman/listinfo/tao-discuss)
 mailing list.
 This document is maintained on-line at
-<a href="https://github.com/ietf/tao">https://github.com/ietf/tao</a>.
+[https://github.com/ietf/tao](https://github.com/ietf/tao).
 The current editor is Niels ten Oever.
 
 This web page is in English. There is a
-<a href="https://www.ietf.org/about/participate/tao/tao-translations/">list
-of translations</a> available.
+[list
+of translations](https://www.ietf.org/about/participate/tao/tao-translations/) available.
 
 This web page is a continuation of the series of the "Tao of the IETF" RFCs,
 first published in 1994 and written by Gary Malkin.  In 2012,
-<a href="https://www.rfc-editor.org/info/rfc6722">RFC 6722:
-Publishing the "Tao of the IETF" as a Web Page</a> changed
+[RFC 6722: Publishing the "Tao of the IETF" as a Web Page](https://www.rfc-editor.org/info/rfc6722) changed
 it from an RFC document to a web page.
 
 ## Abstract
@@ -80,8 +79,8 @@ document but an informal and informational overview.
 6 <a href="#6">RFCs and Internet-Drafts</a></a><br>
 6.1 <a href="#6-1">The Overall Process</a><br>
 6.2 <a href="#6-2">Common Issues</a><br>
-6.3 <a href="#6-3">Writing a Draft</a><br>
-6.3.1 <a href="#6-3-1">Draft Language</a><br>
+6.3 <a href="#6-3">Writing an Internet-Draft</a><br>
+6.3.1 <a href="#6-3-1">Internet-Draft Language</a><br>
 6.3.2 <a href="#6-3-2">About References</a><br>
 6.3.3 <a href="#6-3-3">About Required Content</a><br>
 6.4 <a href="#6-4">Standards-Track RFCs</a><br>
@@ -103,9 +102,8 @@ document but an informal and informational overview.
 The Internet Engineering Task Force (IETF) is the largest standard development
 organization (SDO) for the Internet. Since its early years, participation in
 the IETF has grown phenomenally. In-person
-attendance at face-to-face meetings
-<a href="https://datatracker.ietf.org/stats/meeting/overview/">now averages
-between 1000 and 1500 participants</a>.
+attendance at face-to-face meetings [now averages
+between 1000 and 1500 participants](https://datatracker.ietf.org/stats/meeting/overview/).
 At any given meeting, around 200 attendees are *newcomers* (defined by the IETF
 as someone who has attended five or fewer meetings), and many of those go on to
 become regular participants. When the IETF was smaller, it was relatively
@@ -120,8 +118,8 @@ focus on the mailing lists of various IETF Working Groups. Since the inner
 workings of Working Groups can be hard for newcomers to understand, this
 document provides the mundane bits of information that newcomers will need in
 order to become active participants. The IETF website also has a lot of
-<a href="https://www.ietf.org/about/participate/get-started/">newcomer
-information</a> in various formats.
+[newcomer
+information](https://www.ietf.org/about/participate/get-started/) in various formats.
 In this document we try to cover as much as possible in one place.
 
 The IETF is always evolving.  Although the principles in this document are
@@ -134,8 +132,7 @@ technical documentation as RFCs, still known by their historical term
 *Requests for Comments*.  (Sometimes people joke that it stands for
 *Request for Compliance*.) STDs are RFCs identified as "standards"
 and BCPs are RFCs that represent thoughts on Best Current Practices in the
-Internet. Both STDs and BCPs are also RFCs.  For example, <a
-href="https://www.rfc-editor.org/info/bcp9">BCP 9</a> points to a collection
+Internet. Both STDs and BCPs are also RFCs.  For example, [BCP 9](https://www.rfc-editor.org/info/bcp9) points to a collection
 of RFCs that describe the IETF's standardization processes.
 See <a href="#6">RFCs and Internet-Drafts</a> for more details.
 
@@ -182,15 +179,14 @@ is unusual in that it exists as a collection of meetings (both in-person
 online) and on-line activities (such as email and pull request discussions),
 in which individuals voluntarily participate.
 
-IETF welcomes all interested individuals: IETF participants come from all
+The IETF welcomes all interested individuals: IETF participants come from all
 over the world and from many different parts of the Internet industry. The
 IETF conducts its work solely in English.
 See <a href="#3-12">Where do I fit in?</a>
 for information about the ways that many people
 fit into the IETF.
 
-Quoting from <a href="https://www.rfc-editor.org/info/rfc3935">RFC 3935:
-A Mission Statement for the IETF</a>:
+Quoting from [RFC 3935: A Mission Statement for the IETF](https://www.rfc-editor.org/info/rfc3935):
 "the overall goal of the IETF is to make the Internet work better.
 Its mission is to produce high quality, relevant
 technical and engineering documents that influence the way people
@@ -227,7 +223,7 @@ founding beliefs is embodied in an early quote about the IETF from David
 Clark: "We reject kings, presidents and voting. We believe in rough consensus
 and running code." Another early quote that has become a commonly-held belief
 in the IETF comes from Jon Postel: "Be conservative in what you send and
-liberal in what you accept".
+liberal in what you accept."
 
 There is no membership in the IETF. Anyone may sign up to working group
 mailing lists, or register for a meeting and then attend. The closest thing
@@ -238,13 +234,13 @@ information about current IETF activities and focus can be found.
 Of course, no organization can be as successful as the IETF is without having
 some sort of structure. In the IETF's case, that structure is provided by
 other supporting organizations, as described in
-<a href="https://www.rfc-editor.org/info/rfc2028">RFC 2028: The Organizations
-Involved in the IETF Standards Process</a>.
+[RFC 2028: The Organizations
+Involved in the IETF Standards Process](https://www.rfc-editor.org/info/rfc2028).
 Please note that RFC 2028 is outdated and being revised.
 
-The <a href="https://www.ietf.org">IETF web site</a> is the best source for
+The [IETF web site](https://www.ietf.org) is the best source for
 information about upcoming IETF meetings and newcomer materials. The IETF
-<a href="https://datatracker.ietf.org/">Datatracker</a> is the best source for
+[Datatracker](https://datatracker.ietf.org/) is the best source for
 information about Internet-Drafts, RFCs, and Working Groups.
 
 One more thing that is important for newcomers: the IETF in no way "runs the
@@ -267,7 +263,7 @@ was introduced at the 5th IETF meeting at the NASA Ames Research Center in
 California in February 1987. The 7th IETF, held at MITRE in McLean, Virginia,
 in July 1987, was the first meeting with more than 100 attendees.
 
-After the Internet Society (ISOC) was formed in January 1992, the IAB
+After the [Internet Society](https://www.internetsociety.org) (ISOC) was formed in January 1992, the IAB
 proposed to ISOC that the IAB's activities should take place under the
 auspices of the Internet Society. During INET92 in Kobe, Japan, the ISOC
 Trustees approved a new charter for the IAB to reflect the proposed
@@ -277,7 +273,7 @@ The IETF met in Amsterdam, The Netherlands, in July 1993. This was the first
 IETF meeting held in Europe, and the US/non-US attendee split was nearly
 50/50. The IETF first met in Oceania (in Adelaide, Australia) in 2000, the
 first meeting in Asia (in Yokohama, Japan) was in 2002, and the first meeting
-in Latin America (in Buenos Aires, Agentina) was in 2016. So far, the IETF
+in Latin America (in Buenos Aires, Argentina) was in 2016. So far, the IETF
 has never met in Africa.
 
 The IETF currently has a "1-1-1" meeting policy where the goal is to
@@ -288,14 +284,12 @@ distributing the timezone difficulty for those who participate remotely. The
 IETF has also met in Latin America and Oceania, but these continents are
 currently not part of the 1-1-1 rotation schedule.
 More information on picking the venue and the meeting policy can be found
-in <a href="https://www.rfc-editor.org/info/rfc8718">RFC 8718: IETF Plenary
-Meeting Venue Selection Process</a>
-and <a href="https://www.rfc-editor.org/info/rfc8719">RFC 8719: High-Level
-Guidance for the Meeting Policy of the IETF</a>.
+in [RFC 8718: IETF Plenary Meeting Venue Selection Process](https://www.rfc-editor.org/info/rfc8718)
+and [RFC 8719: High-Level Guidance for the Meeting Policy of the IETF](https://www.rfc-editor.org/info/rfc8719).
 
 Remote participation in IETF meetings has been growing significantly in the
 past few years, thanks in part to the ongoing effort to improve the tools and
-processes used to faciliate this mode participation.
+processes used to facilitate this mode participation.
 
 <a id="2-2"></a>
 
@@ -312,15 +306,14 @@ development, evolution, and use of the Internet for the benefit of all people
 throughout the world." One of the ways that ISOC does this is through
 support of the IETF.
 
-The <a href="https://www.ietf.org/about/administration/">IETF Administration
-LLC</a> (IETF LLC) is a "disregarded entity" of the ISOC, which means it is treated as
+The [IETF Administration LLC](https://www.ietf.org/about/administration/) (IETF LLC) is a "disregarded entity" of ISOC, which means it is treated as
 as a branch or division for tax purposes. The IETF LLC has no role in the
 oversight or steering of the standards process, the appeal chain, the
 confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's
 memberships in other organizations. Rather, the IETF LLC, as overseen by its
 Board of Directors, is responsible for staffing and contracts with places
 like hotels to host IETF meetings. Most of the day-to-day activities
-are delegated to the IETF's Executive Director.
+are delegated to the IETF Executive Director.
 
 Responsibilities of the IETF LLC include:
 
@@ -347,18 +340,15 @@ than to give orders. The IESG gets WGs started and finished, ratifies or
 steers the output from the IETF's Working Groups (WGs), and makes sure that
 non-WG I-Ds that are about to become RFCs are correct.
 
-Check the <a href="https://www.ietf.org/about/groups/iesg">IESG web
-pages</a> to find up-to-date information about IESG statements, I-Ds
+Check the [IESG web pages](https://www.ietf.org/about/groups/iesg) to find up-to-date information about IESG statements, I-Ds
 processed, RFCs published, and documents in Last Call, as well as the monthly
 IETF status reports.
 
 The IESG consists of the Area Directors (ADs), who are selected by the
 Nominations Committee (NomCom) and are appointed for two years. The process
-for choosing the members of the IESG is detailed in
-<a href="https://www.rfc-editor.org/info/bcp10">BCP 10</a>.
+for choosing the members of the IESG is detailed in [BCP 10](https://www.rfc-editor.org/info/bcp10).
 
-The current Areas and abbreviations are shown below, and
-<a href="https://www.ietf.org/topics/areas/"> more details</a> are at
+The current Areas and abbreviations are shown below, and [more details](https://www.ietf.org/topics/areas/) are at
 the IETF web site.
 
 <div class="block-table">
@@ -401,7 +391,7 @@ the person or the answer that you're looking for. They are often very busy
 during meetings, however, so an email to schedule a meeting can be useful, or
 just ask your questions.
 
-The entire IESG reviews each Internet-Draft that is proposed to become an RFC
+The entire IESG reviews each Internet-Draft (I-D or "draft") that is proposed to become an RFC
 and should be aware of general trends that can be gleaned from the collective
 work products of the IETF. As part of the document reviews, ADs place ballots
 that may contain comments on documents.  The AD enters a position that may be
@@ -410,8 +400,7 @@ their review.  Any AD may record a *DISCUSS* ballot position against a draft
 if he or she has serious concerns and would like to discuss these concerns.
 It is common for documents to be approved with one or two *YES*
 ballots, and the majority of the remaining IESG balloting *NO OBJECTION*.  An
-<a href="https://www.ietf.org/blog/handling-iesg-ballot-positions/">IETF blog
-post</a> gives advice on how draft authors could handle the various ballot
+[IETF blog post](https://www.ietf.org/blog/handling-iesg-ballot-positions/) gives advice on how draft authors could handle the various ballot
 positions.
 
 Another important job of the IESG is to watch over the output of all the WGs
@@ -427,7 +416,7 @@ Working Groups and the scrutiny that the WG review gets from the ADs.
 
 #### 2.2.3 Internet Architecture Board (IAB)
 
-The IAB is responsible for keeping an eye on the "big picture" of the
+The [IAB](https://www.iab.org) is responsible for keeping an eye on the "big picture" of the
 Internet, and it focuses on long-range planning and coordination among the
 various areas of IETF activity. The IAB stays informed about important
 long-term issues in the Internet, and it brings these topics to the attention
@@ -439,11 +428,11 @@ architectural consistency and integrity. Even before the group is chartered,
 the IAB members are more than willing to discuss new ideas with the people
 proposing them.
 
-The IAB also sponsors and organizes the Internet Research Task Force and
+The IAB also sponsors and organizes the [Internet Research Task Force](https://www.irtf.org) (IRTF) and
 convenes invitational workshops that provide in-depth reviews of specific
 Internet architectural issues. Typically, the workshop reports make
 recommendations to the IETF community and to the IESG. The IAB keeps the
-community informed through blogposts and by publishing RFCs.
+community informed through blog posts and by publishing RFCs.
 
 The IAB also:
 
@@ -460,13 +449,11 @@ NomCom and are approved by the ISOC Board of Trustees.
 
 #### 2.2.4 Internet Assigned Numbers Authority (IANA)
 
-The core registrar for the IETF's activities is the <a
-href="https://www.iana.org">IANA</a>. Many Internet protocols require that
+The core registrar for the IETF's activities is the (https://www.iana.org)[IANA]. Many Internet protocols require that
 someone keep track of protocol items that were added after the protocol came
 out. Typical examples of the kinds of registries needed are for TCP port
 numbers and MIME types. IANA's work on behalf of the IETF is overseen by the IAB. There is a
-<a href="https://www.iab.org/activities/programs/ietf-iana-group/">joint
-group</a> that advises IANA. IANA is funded by ICANN.
+[joint group](https://www.iab.org/activities/programs/ietf-iana-group/) that advises IANA. IANA is funded by [ICANN](https://www.icann.org).
 
 Even though being a registry may not sound interesting, many IETF
 participants will testify to how important IANA has been for the Internet.
@@ -480,15 +467,14 @@ about messing things up.
 
 The RPC edits, formats, and published RFC's. This used to be done by one
 person, which is why you will still see the term *RFC Editor*; IETFers are
-fond of their history.  Also, if you are a document author, you will most
+fond of their history. Also, if you are a document author, you will most
 commonly come in contact with people responsible for editing your draft.
-Another important role is to provide <a href="https://www.rfc-editor.org">one
-definitive repository</a> for all RFCs.
+Another important role is to provide [one definitive repository](https://www.rfc-editor.org) for all RFCs.
 
 <a id="other-streams"></a>
 
 A common misconception is that all RFCs are the work of the IETF.  In fact,
-there are four sources of RFCs: the IETF, the IAB, the IRTF, and Independant
+there are four sources of RFCs: the IETF, the IAB, the IRTF, and Independent
 streams. (Soon there is likely to be a fifth, which is for documents on the RFC
 series itself.) Only documents coming directly from the IETF through Working
 Groups or sponsored by ADs are can have IETF consensus and be described as
@@ -501,9 +487,7 @@ an errata may be filed for review.  If accepted, the errata will be linked to
 the RFC and may be held for the next document update.
 
 At the time of this writing, the model for the RFC Editor and the RPC is
-being revised under an <a
-href="https://www.iab.org/activities/programs/rfc-editor-future-development-program/">
-IAB Program</a>.
+being revised under an [IAB Program](https://www.iab.org/activities/programs/rfc-editor-future-development-program/).
 In this revision, there is a position hired by the IETF LLC known as the RFC
 Series Editor, who is advised by a couple of groups.  As a newcomer, and
 potential author, the details shouldn't matter much to you right now.
@@ -528,7 +512,7 @@ The Secretariat is contracted by the IETF LLC.
 
 #### 2.2.7 IETF Trust
 
-The <a href="https://trustee.ietf.org">IETF Trust</a> was set up to hold and
+The [IETF Trust](https://trustee.ietf.org) was set up to hold and
 license the intellectual property of the IETF, such as trademarks (the IETF
 logo, etc.) and copyrights.  The trust is a stable, legally-identifiable
 entity.  Most participants never interact with the IETF Trust, beyond seeing
@@ -542,21 +526,19 @@ they are quietly doing their job.
 The IETF does most of its communication, and all of its official work,
 via email.
 
-Anyone who plans to participate in the IETF should join the <a
-href="https://www.ietf.org/mailman/listinfo/ietf-announce">IETF announcement
-mailing list</a>.  This is where all of the meeting information, RFC
+Anyone who plans to participate in the IETF should join the [IETF announcement mailing list](https://www.ietf.org/mailman/listinfo/ietf-announce).  This is where all of the meeting information, RFC
 announcements, and IESG Protocol Actions and Last Calls are posted.  This
 list is strongly moderated, and only the Secretariat and a small number of
 IETF leaders can approve messages sent to the announcement list, although
 those messages can come from a variety of people.
 
-There is also a <a href="https://www.ietf.org/mailman/listinfo/ietf"> general
-discussion list</a> that is unmoderated.  This means that everyone can
+There is also a [general
+discussion list](https://www.ietf.org/mailman/listinfo/ietf) that is unmoderated.  This means that everyone can
 express their opinions about issues affecting the Internet.  As an open
 discussion forum, it sometimes spins out of control and it helps to be quick
 on the *DELETE MESSAGE* button while also being slow to take offense.
 The mailing list does have a
-<a href="https://www.rfc-editor.org/info/bcp45">charter</a>, however, which
+[charter](https://www.rfc-editor.org/info/bcp45), however, which
 points out that it is not a place for companies or individuals to solicit or
 advertise.  As of this writing, the charter is being revised.  It is lightly
 moderated by two people appointed by the IETF Chair; they used to called the
@@ -565,10 +547,10 @@ a process for banning persistent offenders from the list, but fortunately
 this is extremely rare.
 
 There are also subset lists. The
-<a href="https://www.ietf.org/mailman/listinfo/i-d-announce">i-d-announce</a>
+[i-d-announce](https://www.ietf.org/mailman/listinfo/i-d-announce)
 list only posts when a new Internet-Draft is submitted.
 It is moderated.
-The <a href="https://www.ietf.org/mailman/listinfo/last-call">last-call</a>
+The [last-call](https://www.ietf.org/mailman/listinfo/last-call)
 list is not moderated, and is for discussion of IETF Last Calls (the
 stage when the IETF community is given one last chance to comment on a
 draft before it is published as an RFC).
@@ -606,13 +588,9 @@ lobby, but drink whatever you want) is highly conducive to collaboration.
 On the other hand, IETFers can sometimes be surprisingly direct, sometimes
 verging on rude. To build a climate in which people of many different
 backgrounds are treated with dignity, decency, and respect, the IETF has an
-<a href="https://www.ietf.org/blog/ietf-anti-harassment-policy">anti-harassment
-policy</a>, a <a href="https://www.rfc-editor.org/info/bcp54">code of
-conduct</a>, and an <a
-href="https://www.ietf.org/contact/ombudsteam">Ombudsteam</a> that you can
-reach out.
+[anti-harassment policy](https://www.ietf.org/blog/ietf-anti-harassment-policy), a [code of conduct](https://www.rfc-editor.org/info/bcp54), and an [Ombudsteam](https://www.ietf.org/contact/ombudsteam) that you can reach out to.
 
-The general flow of an IETF meeting is that it begins with a hackathon on
+The general flow of an IETF meeting is that it begins with an [IETF Hackathon](https://www.ietf.org/how/runningcode/) on
 Saturday and Sunday, tutorials and an informal gathering on Sunday, and
 WG and BoF meetings Monday through Friday. WG meetings last for
 between one and 2.5 hours each, and some WGs meet more than once,
@@ -631,7 +609,7 @@ concerns; praise is welcome, but more often concerns and gripes are raised.
 
 There have been more than 110 IETF meetings so far.
 The list of future meetings is available
-<a href="https://www.ietf.org/how/meetings/">online</a>, and they
+[online](https://www.ietf.org/how/meetings/upcoming/), and they
 are also announced on the *ietf-announce* mailing list mentioned above.
 
 Note that COVID-19 disrupted the in-person meetings.
@@ -647,8 +625,7 @@ and pay a registration fee. If you cannot afford the online registration fee, yo
 can apply for a fee waiver during the registration process. The meeting site
 (if the meeting is not purely online) is generally announced at several
 months ahead of the meeting -- earlier if possible. An announcement goes out
-via email to the *ietf-announce* mailing list, and information is posted on
-<a href="https://www.ietf.org">the IETF web site</a>, that same day.
+via email to the *ietf-announce* mailing list, and information is posted on [the IETF web site](https://www.ietf.org), that same day.
 Upcoming meeting locations are also mentioned at the plenary, and the host
 for the next meeting often gives a welcome.
 
@@ -660,8 +637,7 @@ snack breaks.
 
 The IETF and related organizations are committed to transparency and protecting
 the privacy of individuals. For information about the personal data
-that is collected, and how it is managed, please see the
-<a href="https://www.ietf.org/privacy-statement/">privacy statement</a>.
+that is collected, and how it is managed, please see the [privacy statement](https://www.ietf.org/privacy-statement/).
 
 You might also consider subscribing to the meeting-specific email list, which
 is presented as an option when you register to participate in the meeting
@@ -681,8 +657,7 @@ reception, a popular event where you can get a small bite to eat and
 socialize with other attendees.
 
 During registration, you will be asked to confirm that you agree to
-follow the *Note Well*. You can also read it, anytime,
-<a href="https://www.ietf.org/about/note-well/">online</a>.
+follow the *Note Well*. You can also read it, anytime, [online](https://www.ietf.org/about/note-well/).
 This points out the rules for IETF intellectual property rights (IPR),
 anti-harassment, and other important guiding policies for the IETF.
 These slides will also be shown before every WG session; as it gets
@@ -740,12 +715,7 @@ especially designed for them. The tutorial is organized and conducted by the
 IETF Education, Mentoring, and Outreach Directorate (*EMODIR*) team and is
 intended to provide useful introductory information. The session covers the
 structure of the IETF, how to get the most out of the meeting, and many other
-essential and enlightening topics for new IETFers. The IETF has a
-<a href="https://www.youtube.com/channel/UC8dtK9njBLdFnBahHFp0eZQ">YouTube
-channel</a> which has the previous tutorials. This has recently been
-broken down into
-<a href="https://www.ietf.org/how/meetings/112/newcomers/">four 15-minute
-segments</a> which might be easier to view.
+essential and enlightening topics for new IETFers. The IETF has a [YouTube channel](https://www.youtube.com/user/ietf) which has the previous tutorials. This has recently been broken down into [four 15-minute segments](https://www.youtube.com/playlist?list=PLC86T-6ZTP5hFWNekiZYEYwEqVWB-cwfr) which might be easier to view.
 
 *Quick Connections* is a session limited to newcomers and experienced IETF
 participants. It is a great chance to meet people, and establish contacts
@@ -767,13 +737,13 @@ a sweater or other covering as well.
 
 The heart of an IETF meeting is the WG meetings themselves. Different WGs
 chairs have very different styles, so it is impossible to generalize how a WG
-meeting will feel. All WGs have agenda's, however, and most will follow the
+meeting will feel. All WGs have agendas, however, and most will follow the
 following approach.
 
 At the beginning of the meeting, the chair will pass around the *blue
 sheets*, which are paper forms on which everyone writes their name and their
 affiliation. These are archived and used for planning capacity needs for the
-next time the WG meetgs. In very rare cases, they have been used to indicate
+next time the WG meets. In very rare cases, they have been used to indicate
 exactly who showed up. When you are handed the sheet, sign your name and
 pass it along in the same direction. If you arrive after the start, at the
 end of the meeting you can go up front and sign it then. For virtual
@@ -799,7 +769,7 @@ you are sitting, the mics perform a very useful task: they let the people
 listening remotely and in the room hear your question or comment. When you
 first speak, say your name and affiliation for identification purposes. If
 you miss this, folks will often say "name!" to remind you. Don't be
-embarassed if this happens, it's not uncommon.
+embarrassed if this happens, it's not uncommon.
 
 <a id="3-6"></a>
 
@@ -869,7 +839,7 @@ way to get additional work done.
 
 If sponsorship for it is secured, the welcome reception provides drinks
 and appetizers but is not meant to be a full replacement for dinner.
-Sometimes a continential breakfast can be included with the hotel registration.
+Sometimes a continental breakfast can be included with the hotel registration.
 There IETF meeting also includes a morning coffee and snack break, and
 a similar one in the afternoon.
 
@@ -938,8 +908,7 @@ with your mentor before the meeting, a meeting during the beginning of the
 meeting, and check in some time during the meeting, so they can help you with
 any questions you might have.
 
-Details on EMODIR membership and charter are available
-<a href="https://datatracker.ietf.org/group/emodir/about/">online</a>.
+Details on EMODIR membership and charter are available [online](https://datatracker.ietf.org/group/emodir/about/).
 
 <a id="3-12"></a>
 
@@ -949,9 +918,7 @@ The IETF is different things to different people. There are many people who
 have been very active in the IETF who have never attended an IETF meeting,
 and you should not feel obligated to come to an IETF meeting just to get a feel
 for the IETF.
-If, however, you decide to come, this document and
-<a href="https://www.rfc-editor.org/info/rfc4144">RFC 4144: How to Gain
-Prominence and Influence in Standards Organizations</a>
+If, however, you decide to come, this document and [RFC 4144: How to Gain Prominence and Influence in Standards Organizations](https://www.rfc-editor.org/info/rfc4144)
 provides some pointers
 on how to make your meeting a success.
 The following guidelines (based on stereotypes of people in various
@@ -1006,7 +973,7 @@ industry. In most areas of the IETF, employees of vendors are the ones
 writing the protocols and leading the Working Groups, so it's completely
 appropriate for vendors to attend. If you create Internet hardware or
 software, or run a service available on the Internet, and no one from your
-company has ever attended an IETF meeting, it behoves you to come to a
+company has ever attended an IETF meeting, it behooves you to come to a
 meeting if for no other reason than to tell the others how relevant the
 meeting was or was not to your business.
 
@@ -1030,7 +997,7 @@ formal representative of their employer.
 
 IETF meetings are often excellent places for all kinds of researchers to find
 out what is happening in the way of soon-to-be-deployed protocols, and
-networking achitecture and infrastructure. Professors and grad students (and
+networking architecture and infrastructure. Professors and grad students (and
 sometimes overachieving undergrads) who are doing research in networking or
 communications can get a wealth of information by following Working Groups in
 their specific fields of interest. Wandering into different Working Group
@@ -1039,10 +1006,9 @@ department. Researchers are also, of course, likely to be interested in IRTF
 activities.
 
 In addition, the IRTF and ACM co-host the annual
-<a href="https://irtf.org/anrw/">Applied Networking Research Workshop</a>,
+[Applied Networking Research Workshop](https://irtf.org/anrw/),
 normally scheduled during the July IETF meeting  Registration is required,
-IETF attendees can attend for free. The IRTF also hosts the
-<a href="https://irtf.org/anrp/">Applied Networking Research Prize</a>,
+IETF attendees can attend for free. The IRTF also hosts the [Applied Networking Research Prize](https://irtf.org/anrp/),
 which includes a cash prize, a travel grant to attend, and a chance to
 present. See the web page for requirements.
 
@@ -1059,7 +1025,7 @@ please see the <a href="#8-2">special section</a> below.
 
 IETF proceedings are compiled in the weeks and months after each meeting and
 are available
-<a href="https://www.ietf.org/how/meetings/proceedings/">online</a>.
+[online](https://www.ietf.org/how/meetings/proceedings/).
 Be sure to look through a copy at least once; the proceedings are filled with
 information about IETF that you're not likely to find anywhere else. For
 example, you'll copies of every session's slides, links to the video
@@ -1125,10 +1091,10 @@ conflicts are unavoidable.
 
 The vast majority of the IETF's work is done in its many Working Groups; at
 the time of this writing, there are well over one hundred different WGs.
-<a href="https://www.rfc-editor.org/info/bcp25">BCP 25</a>, "IETF Working
+[BCP 25](https://www.rfc-editor.org/info/bcp25), "IETF Working
 Group Guidelines and Procedures," is an excellent resource for anyone
 participating in WG discussions. The full list of working groups can be
-found on the <a href="https://datatracker.ietf.org/wg/">datatracker</a>.
+found on the [datatracker](https://datatracker.ietf.org/wg/).
 
 A WG is really just a mailing list with a bit of supervision and facilitation.
 You "join" the WG by subscribing to the mailing list; all mailing lists are open
@@ -1137,7 +1103,7 @@ to have their postings approved first.
 
 More importantly, each WG has a charter that the WG is supposed to follow. The
 charter states the scope of discussion for the Working Group and its goals. The
-WG's mailing list and face-to-face meetings are supposed to focus on ony what is
+WG's mailing list and face-to-face meetings are supposed to focus on only what is
 in the charter and not to wander off on other "interesting" topics. Of course,
 looking a bit outside the scope of the WG is occasionally useful, but the large
 majority of the discussion should be on the topics listed in the charter. In fact,
@@ -1152,14 +1118,13 @@ its own page on the datatracker.
 ### 4.1 Working Group Chairs
 
 Each Working Group has one or two (or, rarely, three) chairs. The role of the
-WG chairs is described in both
-<a href="https://www.rfc-editor.org/info/bcp11">BCP 11</a>
-and <a href="https://www.rfc-editor.org/info/bcp25">BCP 25</a>.
+WG chairs is described in both [BCP 11](https://www.rfc-editor.org/info/bcp11)
+and [BCP 25](https://www.rfc-editor.org/info/bcp25).
 
 Chairs have responsibility for the technical and non-technical quality
 of WG output. The chair must keep the WG productive, and making progress
-on its drafts. Sometmes there is a WG Secretary to help. Document editors,
-too, are usually incented in making progress on their drafts. The chair
+on its drafts. Sometimes there is a WG Secretary to help. Document editors,
+too, are usually incentivized to make progress on their drafts. The chair
 must manage WG discussion, both on the list and by scheduling meetings
 when appropriate. Sometimes discussions get stuck on contentious points
 and the chair may need to steer people toward productive interaction and
@@ -1207,8 +1172,8 @@ participants?) A common definition and practice of humming can be found in
 Humming in the IETF</a>.
 
 A related problem is that some people think that their topic should be discussed
-in the WG even when the WG chair believes it is outside the scope of the chater.
-If the WG agress, they can work to *re-chater* so that the topic is in scope.
+in the WG even when the WG chair believes it is outside the scope of the charter.
+If the WG agrees, they can work to *re-charter* so that the topic is in scope.
 The individual can also bring their concerns to the responsible AD.
 
 When a WG has fulfilled its charter, it is supposed to cease operations. (Most
@@ -1250,8 +1215,7 @@ body of the document.
 
 When a WG document is ready to progress beyond the WG, the WG Chairs will assign
 a "shepherd" to take over the final process. The role of the document shepherd
-is described in <a href="https://www.rfc-editor.org/info/rfc4858">RFC 4858:
-Document Shepherding from Working Group Last Call to Publication</a>. The chair,
+is described in [RFC 4858: Document Shepherding from Working Group Last Call to Publication](https://www.rfc-editor.org/info/rfc4858). The chair,
 who knows the history of the draft within the WG, often does the shepherd
 write-up.
 
@@ -1270,7 +1234,7 @@ documents before attending so you can understand what is being said.
 It's up to the WG chairs to set the meeting agenda, usually a few weeks in
 advance. If you want something discussed at the meeting, be sure to let the
 chair know about it. The agendas for all the WG meetings are available in
-advance on the datatacker, and links to will be found on every full meeting
+advance on the datatracker, and links to will be found on every full meeting
 agenda. Unfortunately, some WG chairs are lax (if not totally negligent) about
 turning them in.
 
@@ -1304,7 +1268,7 @@ One thing you might find helpful, and possibly even entertaining, during Working
 Group sessions is to follow the running commentary on the Jabber room associated
 with that Working Group. Jabber is a free, streaming XML technology mainly used
 for instant messaging. You can find pointers to Jabber clients for many
-platforms at [https://xmpp.org/xmpp-software/clients]. The Jabber chatrooms have
+platforms at (https://xmpp.org/xmpp-software/clients). The Jabber chatrooms have
 the name of the Working Group followed by "@jabber.ietf.org". Those rooms are,
 in fact, available year-round, not just during IETF meetings, and some are used
 by active Working Group participants during protocol development.
@@ -1344,7 +1308,7 @@ mundane) three weeks later, for example. Interim meetings need to be announced
 at least one month in advance. Location and timing need to allow fair access for
 all participants. Like regular IETF meetings, someone needs to take notes and
 the group needs to take attendance. Decisions tentatively made during an interim
-WG meeting must still be confirmed on the mailing list. Interim meetins are
+WG meeting must still be confirmed on the mailing list. Interim meetings are
 subject to the IETF Note Well. Most interim meetings are virtual these days and
  have the same reporting requirements as face-to-face virtual meetings.
 
@@ -1380,7 +1344,7 @@ refine the draft charter.
 
 Generally, there are only two BOF meetings allowed for the same topic.
 Sometimes it is obvious after one meeting that a WG should be created, and
-sometimes it is obvious a WG would not be succesful.
+sometimes it is obvious a WG would not be successful.
 
 If you have a draft already written, you can submit it to the relevant
 "dispatch" WG.  Each area has one of these.  Their job is to review submitted
@@ -1402,8 +1366,7 @@ it describes how documents are produced and advanced within the IETF. For a
 brief note on other RFC streams, see <a href="#other-streams">above</a>.
 
 If you're a new IETF participant and are looking for a particular RFC or
-Internet-Draft, you can use the IETF *datatracker*. This website,
-<a href="https://datatracker.ietf.org/">https://datatracker.ietf.org/</a>,
+Internet-Draft, you can use the IETF *Datatracker*. This website, [https://datatracker.ietf.org/](https://datatracker.ietf.org/),
 has a text search capability (including content, keywords, author, and so
 on), and the search results point to the document status, page count, and
 other useful information. A little-known hint is that *dt.ietf.org* is an
@@ -1432,7 +1395,7 @@ should follow a specific format, and are required to have particular
 sections. This will be discussed more <a href="#6-3">below</a>.
 
 RFCs are generally written by a Working Group. If an appropriate
-WG doesn't seem to exist, then the <a href="#bofs">BOF or Dispatch</a>
+WG doesn't seem to exist, then the <a href="#5">BOF or Dispatch</a>
 process mentioned above can be used to learn which one is appropriate,
 or start the process to create one.
 
@@ -1486,8 +1449,7 @@ copy-editing by the RPC and you. The publication process can take weeks,
 but be patient, and you'll eventually see an email announcement saying
 that your brand-new RFC has been published.  Congratulations!
 
-A much more complete explanation of these steps is contained in <a
-href="https://www.rfc-editor.org/info/bcp9">BCP 9</a>.
+A much more complete explanation of these steps is contained in [BCP 9](https://www.rfc-editor.org/info/bcp9).
 This set of documents goes into great detail on a topic that is
 very often misunderstood, even by seasoned IETF participants: different types
 of RFCs go through different processes and have different rankings.
@@ -1497,7 +1459,7 @@ of RFCs go through different processes and have different rankings.
 ### 6.2 Common Issues
 
 There are two major issues that often come up while preparing I-Ds:
-copyright, and patents.
+copyright and patents.
 
 <a id="copyright"></a>
 
@@ -1534,37 +1496,28 @@ specification.
 
 The official rules for all intellectual property rights (IPR) in
 IETF documents, not just patents but also code samples and the like,
-are covered in
-<a href="https://www.rfc-editor.org/info/bcp78">BCP 78</a> and
-<a href="https://www.rfc-editor.org/info/bcp79">BCP 79</a>.
+are covered in [BCP 78](https://www.rfc-editor.org/info/bcp78) and
+[BCP 79](https://www.rfc-editor.org/info/bcp79).
 
 If you are writing an Internet-Draft and you know of a patent that applies to
 the technology you're writing about, don't list the patent in the document.
-Instead, consult the <a href="https://datatracker.ietf.org/ipr/about/">IPR
-disclosures</a> page. If you still have issues, consult with the WG Chair or
+Instead, consult the [IPR disclosures](https://datatracker.ietf.org/ipr/about/) page. If you still have issues, consult with the WG Chair or
 the responsible AD. Intellectual property rights aren't mentioned in RFCs
 because RFCs never change after they are published, while knowledge of IPR
 can change at any time. Therefore, an IPR list in an RFC could be incomplete
-and mislead the reader. <a href="https://www.rfc-editor.org/info/bcp79">BCP
-79</a> provides specific text that should be added to RFCs where the author
+and mislead the reader. [BCP 79](https://www.rfc-editor.org/info/bcp79) provides specific text that should be added to RFCs where the author
 knows of IPR issues.
 
 <a id="6-3"></a>
 
-### 6.3 Writing a Draft
+### 6.3 Writing an Internet-Draft
 
 Every RFC starts its life as an I-D. Internet-Drafts have the same format as an RFC,
 and are required to have all the content that should appear in the RFC. This
 includes a couple of sections detailed below. A draft may also have more
-information, such as an incremental list of changes from previous verions of
+information, such as an incremental list of changes from previous versions of
 the draft, or pointers to online locations for raising issues and suggesting
 changes.
-
-Formally, Internet-Drafts expire six months after publication, except if
-they are in the final stages prior to publication as an RFC. This is to
-underline that they are work in progress that may be changed without notice,
-and they cannot be relied on for reference purposes. All the same, they
-are permanently archived on IETF servers.
 
 For the past several years, the official canonical source of RFCs as <a
 href="https://www.rfc-editor.org/info/rfc7991">RFC 7991: The "xml2rfc"
@@ -1594,15 +1547,15 @@ draft.
 
 <a id="6-3-1"></a>
 
-#### 6.3.1 Draft Language
+#### 6.3.1 Internet-Draft Language
 
-It is common for Internet-Drafts that revise existing RFCs often have draft
+It is common for Internet-Drafts that revise existing RFCs to have draft
 names with "bis" in them, meaning "again" or "twice." For example, a draft
 might be called "draft-ietf-uta-rfc6125bis" meaning that this is intended to
 be a revision of, and eventual replacement for, RFC6125.
 
 Writing clear specifications can be a bit of an art, particularly for people
-that don't have English as their native language. You can keep the
+who don't have English as their native language. You can keep the
 specification very short, with just a list of requirements, but that tends to
 cause implementors to take too much leeway. If you instead make the
 specification very wordy with lots of suggestions, implementors tend to miss
@@ -1612,9 +1565,7 @@ optimal specification is somewhere in between.
 One way to make it more likely that developers will create interoperable
 implementations of standards is to be clear about what's being mandated in a
 specification. Over time, the IETF has realized that defining a few words
-with specific meanings helps a great deal.
-<a href="https://www.rfc-editor.org/info/bcp79">BCP 14</a>
-defines about a dozen keywords that can be used to clarify what are
+with specific meanings helps a great deal. [BCP 14](https://www.rfc-editor.org/info/bcp79) defines about a dozen keywords that can be used to clarify what are
 requirements, as compared to what is purely informative.
 It defines the meaning of words like *MUST* and points out that it
 has to appear in all uppercase to its special meaning.
@@ -1642,8 +1593,7 @@ means that before a standard can move from Proposed to Internet Standard, all
 of the RFCs that appear as a normative reference must also be an Internet
 Standard. This rule gives implementors assurance that everything in a
 Internet standard is quite stable, even the things referenced outside the
-standard. This rule, and its exceptions, is described in
-<a href="https://www.rfc-editor.org/info/bcp97">BCP 97</a>.
+standard. This rule, and its exceptions, is described in [BCP 97](https://www.rfc-editor.org/info/bcp97).
 
 There is no hard-and-fast rule about what is an "open standard", but
 generally this means a stable standard that was made by a
@@ -1676,7 +1626,7 @@ registration requests, and so on.
 
 Anyone writing a draft that needs one or more registries, or adds values to
 existing registries must have an "IANA Considerations" section.  Authors
-should read <a href="https://www.rfc-editor.org/info/bcp26">BCP 26</a>,
+should read [BCP 26](https://www.rfc-editor.org/info/bcp26),
 "Guidelines for Writing an IANA Considerations Section in RFCs," which
 describes how to properly ask for IANA to make the changes requested in their
 draft. If there are no considerations, it is a good idea to have the section
@@ -1688,15 +1638,13 @@ exposed, and so on. It should also describe any strategies or mechanisms to
 mitigate them. When the security directorate (SECDIR) reviews your draft,
 this section will be one of their major focuses. Don't gloss over the
 section, or say things like "use TLS to get security" without explaining how
-the protocol uses TLS and what it provides. See
-<a href="https://www.rfc-editor.org/info/bcp72">BCP 72</a>, "Guidelines for
+the protocol uses TLS and what it provides. See [BCP 72](https://www.rfc-editor.org/info/bcp72), "Guidelines for
 Writing RFC Text on Security Considerations", for more information on writing
 good security considerations sections.
 
 Also, a draft might have a "Privacy Considerations" section.
 An Informational RFC,
-<a href="https://www.rfc-editor.org/info/rfc6973">RFC 6973:
-Privacy Considerations for Internet Protocols</a>, written by the
+[RFC 6973: Privacy Considerations for Internet Protocols](https://www.rfc-editor.org/info/rfc6973), written by the
 IAB, is intended to raise the general awareness of privacy on the
 Internet. It also provides advice for when a draft should have an
 explicit privacy section.
@@ -1707,7 +1655,7 @@ BCP 205: Improving Awareness of Running Code: The Implementation Status
 Section</a>. 
 
 More detail on the required content can be found
-<a href="https://www.ietf.org/how/ids/guidelines/#required-content">online</a>.
+[online](https://authors.ietf.org/en/required-content)</a>.
 
 <a id="6-4"></a>
 
@@ -1720,7 +1668,7 @@ Don't be surprised if a particular standard doesn't progress from Proposed
 Standard to Internet Standard. To become an Internet Standard, an RFC must
 have multiple interoperable implementations and the unused features in the
 Proposed Standard must be removed; there are additional requirements listed
-in <a href="https://www.rfc-editor.org/info/bcp9">BCP 9</a>. Most of the
+in [BCP 9](https://www.rfc-editor.org/info/bcp9). Most of the
 protocols in common use are Proposed standards and never move forward. This
 may be because no one took the time to try to get them to Internet Standard,
 or some of the normative references in the standard are still at Proposed
@@ -1747,8 +1695,7 @@ that looks like it might be standards-track material, but for which there are
 still unanswered questions.
 
 The IESG has created
-<a href="https://www.ietf.org/standards/process/informational-vs-experimental/">
-guidelines</a> that can help choose between Informational and Experimental
+[guidelines](https://www.ietf.org/standards/process/informational-vs-experimental/) that can help choose between Informational and Experimental
 classification. This is a short informal read, and if are not sure where
 your document fits, it is worth reading.
 
@@ -1820,9 +1767,9 @@ the IETF standards flourish. These companies are usually rewarded with
 positive publicity for the fact that they are not as greedy or short-sighted
 as other patent-holders.
 
-**Join:** The IETF has <a href="https://ietf.org/about/donors/">sponsorship
-opportunities</a> and
-<a href="https://www.ietf.org/endowment/donate-ietf-endowment/">an endowment</a>
+**Support:** The IETF has [sponsorship
+opportunities](https://ietf.org/about/donors/) and
+[an endowment](https://www.ietf.org/endowment/donate-ietf-endowment/)
 which can also take individual-sized donations.
 Become a member of ISOC. Urge any company that has
 benefited from the Internet to contribute, since this has the greatest
@@ -1833,7 +1780,7 @@ Internet as a whole.
 
 ## 8 IETF and the Outside World
 
-While many IETF participants would like to think otherwise, the IETF
+While some IETF participants would like to think otherwise, the IETF
 does not exist in a standards vacuum. This section discusses two important
 groups.
 
@@ -1842,7 +1789,7 @@ groups.
 ### 8.1 IETF and Other SDOs
 
 There are many other standards organizations whose decisions affect the
-Internet. Some of them ignored the Iternet for a long time and now want to
+Internet. Some of them ignored the Internet for a long time and now want to
 get a piece of the action. In general, the IETF tries to have cordial
 relationships with other SDOs. This isn't always easy, since they usually
 have different structures and processes than the IETF does, and the IETF is
@@ -1851,21 +1798,20 @@ than meet with representatives from other bodies. Even so, man SDOs make a
 great effort to interact well with the IETF despite the obvious cultural
 differences.
 
-As stated in <a href="https://www.rfc-editor.org/info/bcp39">BCP 39</a>,
+As stated in [BCP 39](https://www.rfc-editor.org/info/bcp39),
 the IAB Charter:
 "Liaisons are kept as informal as possible and must be of
 demonstrable value in improving the quality of IETF specifications." In
 practice, the IETF prefers liaisons to take place directly at the WG
 level, with formal relationships and liaison documents in a backup role. The
 best place to check to see whether the IETF has any formal liaison at all is
-the list of <a href="https://www.ietf.org/about/liaisons">IETF liaisons</a>.
+the list of [IETF liaisons](https://www.ietf.org/about/liaisons).
 
 At the time of this writing, the IETF has around two dozen liaisons. Some of
 these liaison tasks fall to the IESG, whereas others fall to the IAB.
 Full details about the processes for dealing with other SDOs can be
-found in
-<a href="https://www.rfc-editor.org/info/bcp102">BCP 102</a>
-and <a href="https://www.rfc-editor.org/info/bcp103">BCP 103</a>.
+found in [BCP 102](https://www.rfc-editor.org/info/bcp102)
+and [BCP 103](https://www.rfc-editor.org/info/bcp103).
 
 <a id="8-2"></a>
 
@@ -1891,9 +1837,9 @@ or inclination to do this kind of research.
 
 Reporters looking for information about the IETF, or pointers to IETF
 participants working on a particular topic relevant to the IETF, should send
-a message to <a href="#mailto:media@ietf.org">media@ietf.org</a>, and a full
+a message to [media@ietf.org](mailto:media@ietf.org), and a full
 page of contacts for a variety of needs is available
-<a href="https://www.ietf.org/contact/">online</a>. Replies are usually sent
+[online](https://www.ietf.org/contact/). Replies are usually sent
 within a day. Even if a direct answer to a particular query is not available,
 pointers to resources or people who can provide more information about a
 topic are often provided.
