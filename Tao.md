@@ -501,7 +501,7 @@ The RPC is contracted by the IETF LLC.
 There are a few people who are paid to support the IETF. The IETF
 Secretariat provides day-to-day logistical support, which mainly means
 coordinating face-to-face meetings and running the IETF presence on
-the web, including the [IETF web site](https://www.ietf.org),
+the web, including the <a href="https://www.ietf.org">IETF web site</a>,
 mailing lists, the repository for Internet-Drafts, and so on.
 The Secretariat also provides administrative assistance to the IESG
 and others.
@@ -557,6 +557,10 @@ draft before it is published as an RFC).
 
 Every Working Group has its own mailing list.
 
+Every IETF mailing list is archived. (Unfortunately, the archives for
+some lists from many years ago, when the IETF did not have its own
+servers, have been lost.)
+
 Even though the IETF mailing lists "represent" the IETF participants at
 large, it is important to note that attending an IETF meeting does not mean
 you'll be automatically added to any list; you'll have to "opt in"
@@ -609,7 +613,7 @@ The list of future meetings is available
 are also announced on the *ietf-announce* mailing list mentioned above.
 
 Note that COVID-19 disrupted the in-person meetings.
-After several virtual or online meetings, the IETF held its
+After several virtual or online meetings, the IETF tried its
 first hybrid meeting, in Vienna, in March 2022.
 
 <a id="3-1"></a>
@@ -696,6 +700,11 @@ a high-speed network throughout the hotel for the duration of the meeting,
 and there's no charge to use the "IETF wifi." This usually covers many places
 of the meeting venue (restaurants, coffee shops, and so on), so catching up
 on email when not in meetings is a fairly common task for IETFers.
+
+Note that many people use their laptops actively during meeting sessions
+for practical purposes such as consulting drafts. Power strips in all meeting
+rooms and hotel rooms will provide only the sockets permitted by local
+regulations, so ensure in advance that you have an appropriate travel adapter.
 
 <a id="3-3"></a>
 
@@ -1158,8 +1167,9 @@ but most IETF participants who have witnessed rough consensus after acrimonious
 debates feel that the delays often result in better protocols. (And, if you
 think about it, how could you have "voting" in a group that invites all
 interested individuals to participate, and when it's impossible to count the
-participants?) The common definition and practice of humming can be found in
-[RFC 7282: On Consensus and Humming in the IETF](https://www.rfc-editor.org/info/rfc7282).
+participants?) A common definition and practice of humming can be found in
+<a href="https://www.rfc-editor.org/info/rfc7282">RFC 7282: On Consensus and
+Humming in the IETF</a>.
 
 A related problem is that some people think that their topic should be discussed
 in the WG even when the WG chair believes it is outside the scope of the charter.
@@ -1285,7 +1295,7 @@ and you will often hear a WG chair say, "Let's take it to the list" to close a
 discussion.
 
 Every WG has a dedicated page on the datatracker site, and the "About" tab will
-point to mailing list subscription and archives. Every IETF list is archived.
+point to mailing list subscription and archives.
 
 <a id="4-6"></a>
 
@@ -1365,12 +1375,16 @@ hostname.
 
 Most RFCs in the IETF stream follow the same process, and the sections
 below discuss the process and some of the issues. Note that there are
-other ways to get an RFC published, particular if it is not intended
+<a href="https://www.ietf.org/about/participate/get-started/#officialdocuments">
+other ways to get an RFC published</a>, particularly if it is not intended
 for the standards track. For the sake of brevity, we will not mention
 those here. After all, this document is about "the Way of the IETF"
 and the main Way is "developing standards."
 
-If you are interested in learning more about how to author an Internet-Draft yourself, the [I-D Authors website](https://authors.ietf.org) has a lot of information and resources, including pointers to online tools that can help.
+If you are interested in learning more about how to author an Internet-Draft
+yourself, the <a href="https://authors.ietf.org">I-D Authors website</a>
+has a lot of information and resources, including pointers to online tools
+that can help.
 
 <a id="6-1"></a>
 
@@ -1505,17 +1519,29 @@ information, such as an incremental list of changes from previous versions of
 the draft, or pointers to online locations for raising issues and suggesting
 changes.
 
-For the past several years, the official canonical source of RFCs as [RFC 7991: The "xml2rfc" Version 3 Vocabulary](https://www.rfc-editor.org/info/rfc7991). Some people enjoy writing in XML, and some don't.
+For the past several years, the official canonical source of RFCs as <a
+href="https://www.rfc-editor.org/info/rfc7991">RFC 7991: The "xml2rfc"
+Version 3 Vocabulary</a>. Some people enjoy writing in XML, and some don't.
 An alternative for the second group is to use a specific dialect of markdown,
 which is then converted to XML as needed (and especially during the
 publication process). A recent trend is the increasing use of markdown, and
 hosting I-Ds on GitHub to attract a wider audience of Internet-savvy users.
 Some information on this can be found at
-[RFC 8874: Working Group GitHub Usage Guidance](https://www.rfc-editor.org/info/rfc8874)</a>.
+<a href="https://www.rfc-editor.org/info/rfc8874">RFC 8874:
+Working Group GitHub Usage Guidance</a>.
 
-The IETF has set up a new site, [https://authors.ietf.org](https://authors.ietf.org),
-that contains guides and online tools to help both new and
-experienced authors. You should feel free to use the site, and offer feedback. The site explains the naming conventions, formatting requirements,
+The IETF is setting up a new site,
+<a href="https://authors.ietf.org">https://authors.ietf.org</a>,
+to contain guides and online tools to help both new and
+experienced authors.
+As of this writing, it's still a draft but it does contain a great
+deal of useful content.
+You should feel free to use the site, and offer feedback.
+
+Outside of the formatting decision, the most important document you can
+read is <a href="https://www.ietf.org/how/ids/guidelines">Guidelines
+to Authors of Internet-Drafts</a>.
+That document explains the naming conventions, formatting requirements,
 required content, and details of how to submit (also called *post*) your
 draft.
 
@@ -1616,12 +1642,17 @@ the protocol uses TLS and what it provides. See [BCP 72](https://www.rfc-editor.
 Writing RFC Text on Security Considerations", for more information on writing
 good security considerations sections.
 
-Finally, a draft might include a "Privacy Considerations" section.
+Also, a draft might have a "Privacy Considerations" section.
 An Informational RFC,
 [RFC 6973: Privacy Considerations for Internet Protocols](https://www.rfc-editor.org/info/rfc6973), written by the
 IAB, is intended to raise the general awareness of privacy on the
 Internet. It also provides advice for when a draft should have an
 explicit privacy section.
+
+Some drafts benefit from having an "Implementation Status" section,
+as explained by <a href="https://www.rfc-editor.org/info/rfc7942">
+BCP 205: Improving Awareness of Running Code: The Implementation Status
+Section</a>. 
 
 More detail on the required content can be found
 [online](https://authors.ietf.org/en/required-content)</a>.
