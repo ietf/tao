@@ -39,7 +39,7 @@ document but an informal and informational overview.
 2.2.2 <a href="#2-2-2">Internet Engineering Steering Group (IESG)</a><br>
 2.2.3 <a href="#2-2-3">Internet Architecture Board (IAB)</a><br>
 2.2.4 <a href="#2-2-4">Internet Assigned Numbers Authority (IANA)</a><br>
-2.2.5 <a href="#2-2-5">RFC Editor and RFC Publication Center (RPC)r</a><br>
+2.2.5 <a href="#2-2-5">RFC Editor and RFC Publication Center (RPC)</a><br>
 2.2.6 <a href="#2-2-6">IETF Secretariat</a><br>
 2.2.7 <a href="#2-2-7">IETF Trust</a><br>
 2.3 <a href="#2-3">IETF Mailing Lists</a><br>
