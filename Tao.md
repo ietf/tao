@@ -393,7 +393,7 @@ just ask your questions.
 
 The entire IESG reviews each Internet-Draft (I-D or "draft") that is proposed to become an RFC
 and should be aware of general trends that can be gleaned from the collective
-work products of the IETF. As part of the document reviews, ADs place ballots
+work products of the IETF. For IETF produced RFCs, as part of the document reviews, ADs place ballots
 that may contain comments on documents.  The AD enters a position that may be
 *YES*, *NO OBJECTION*, *DISCUSS*, *ABSTAIN*, or *RECUSE* as the result of
 their review.  Any AD may record a *DISCUSS* ballot position against a draft
