@@ -740,15 +740,15 @@ chairs have very different styles, so it is impossible to generalize how a WG
 meeting will feel. All WGs have agendas, however, and most will follow the
 following approach.
 
-At the beginning of the meeting, the chair will pass around the *blue
-sheets*, which are paper forms on which everyone writes their name and their
-affiliation. These are archived and used for planning capacity needs for the
-next time the WG meets. In very rare cases, they have been used to indicate
-exactly who showed up. When you are handed the sheet, sign your name and
-pass it along in the same direction. If you arrive after the start, at the
-end of the meeting you can go up front and sign it then. For virtual
-attendance using the *MeetEcho* video conference system, attendance is
-handled by accessing the application.
+At the beginning of the meeting, the chair will make sure meeting attendance is 
+registered through *blue sheets*, which are electronic or paper forms on which 
+everyone's name and affiliation is registered. affiliation. These are archived 
+and used for planning capacity needs for the next time the WG meets. In very 
+rare cases, they have been used to indicate exactly who showed up. When you 
+are handed the sheet, sign your name and pass it along in the same direction. 
+If you arrive after the start, at the end of the meeting you can go up front 
+and sign it then. For virtual attendance using the *MeetEcho* video conference 
+system, attendance is handled by accessing the application.
 
 After the blue sheets, there are calls for volunteers to take minutes. More
 than one person can do so, and they are often done on a Web page using a
