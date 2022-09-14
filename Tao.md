@@ -1408,13 +1408,16 @@ adoption*. If consensus is to adopt the draft, you will be asked to submit
 it with the name `draft-ietf-WGNAME-brief-subject`; you can probably guess
 what *WGNAME* should be.
 
-At this point, the IETF, notably the IETF Trust, now owns the copyright
-on the document and the IETF owns the right of "change control."
-This means the WG, and the overall IETF, can make any changes to the
-document, the one you initially wrote, that they want. If you are not
-comfortable with this, then the IETF is not the place for your
-document. There are a few more details on this
-<a href="#copyright">below</a>.
+Note that as part of submitting an Internet Draft according to the rules, you 
+grant the IETF certain rights.  These rights give the IETF the ability to 
+reliably build upon the work you have brought forward. These rights are held 
+by the IETF Trust.
+
+Once a WG adopt a document, the WG as a whole has the right of "change 
+control." This means the WG, can make any changes to the document, the one 
+you initially wrote, that they want. If you are not comfortable with this, 
+then the IETF is not the place for your document. There are a few more 
+details on this <a href="#copyright">below</a>.
 
 The WG now "works on" the document. This will be a combination of
 mailing list discussion, perhaps agenda time at a meeting, and publishing
