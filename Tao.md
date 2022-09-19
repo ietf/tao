@@ -113,7 +113,7 @@ thought-provoking email messages.
 
 Of course, it's true that many IETF participants don't go to the face-to-face
 meetings at all - especially since the COVID-19 pandemic when meetings were
-completely online for a while. There also also many participants that solely
+completely online for a while. There also many participants that solely
 focus on the mailing lists of various IETF Working Groups. Since the inner
 workings of Working Groups can be hard for newcomers to understand, this
 document provides the mundane bits of information that newcomers will need in
@@ -307,7 +307,7 @@ throughout the world." One of the ways that ISOC does this is through
 support of the IETF.
 
 The [IETF Administration LLC](https://www.ietf.org/about/administration/) (IETF LLC) is a "disregarded entity" of ISOC, which means it is treated as
-as a branch or division for tax purposes. The IETF LLC has no role in the
+a branch or division for tax purposes. The IETF LLC has no role in the
 oversight or steering of the standards process, the appeal chain, the
 confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's
 memberships in other organizations. Rather, the IETF LLC, as overseen by its
@@ -1444,7 +1444,7 @@ Call comments that come from people who have just read the document for the
 first time can expose issues that IETF and WG regulars may have completely
 missed, which is why the discussion is open to everyone.
 
-Finally, the draft is given to the RPC Production Center (RPC), and prepared
+Finally, the draft is given to the RFC Publication Center (RPC), and prepared
 for publication. There might be other changes required, including  reviews by
 IANA for registrations and the like. The most common item you'll hear about
 this is *AUTH48* state, which means the document is in the final stages of
@@ -1797,7 +1797,7 @@ get a piece of the action. In general, the IETF tries to have cordial
 relationships with other SDOs. This isn't always easy, since they usually
 have different structures and processes than the IETF does, and the IETF is
 mostly run by volunteers who would probably prefer to write standards rather
-than meet with representatives from other bodies. Even so, man SDOs make a
+than meet with representatives from other bodies. Even so, many SDOs make a
 great effort to interact well with the IETF despite the obvious cultural
 differences.
 
