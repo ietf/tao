@@ -39,7 +39,7 @@ document but an informal and informational overview.
 2.2.2 <a href="#2-2-2">Internet Engineering Steering Group (IESG)</a><br>
 2.2.3 <a href="#2-2-3">Internet Architecture Board (IAB)</a><br>
 2.2.4 <a href="#2-2-4">Internet Assigned Numbers Authority (IANA)</a><br>
-2.2.5 <a href="#2-2-5">RFC Editor and RFC Publication Center (RPC)</a><br>
+2.2.5 <a href="#2-2-5">RFC Editor and RFC Production Center (RPC)</a><br>
 2.2.6 <a href="#2-2-6">IETF Secretariat</a><br>
 2.2.7 <a href="#2-2-7">IETF Trust</a><br>
 2.3 <a href="#2-3">IETF Mailing Lists</a><br>
@@ -463,7 +463,7 @@ about messing things up.
 
 <a id="2-2-5"></a>
 
-#### 2.2.5 RFC Editor and RFC Publication Center (RPC)
+#### 2.2.5 RFC Editor and RFC Production Center (RPC)
 
 The RPC edits, formats, and published RFC's. This used to be done by one
 person, which is why you will still see the term *RFC Editor*; IETFers are
@@ -1444,7 +1444,7 @@ Call comments that come from people who have just read the document for the
 first time can expose issues that IETF and WG regulars may have completely
 missed, which is why the discussion is open to everyone.
 
-Finally, the draft is given to the RFC Publication Center (RPC), and prepared
+Finally, the draft is given to the RFC Production Center (RPC), and prepared
 for publication. There might be other changes required, including  reviews by
 IANA for registrations and the like. The most common item you'll hear about
 this is *AUTH48* state, which means the document is in the final stages of
