@@ -39,7 +39,7 @@ document but an informal and informational overview.
 2.2.2 <a href="#2-2-2">Internet Engineering Steering Group (IESG)</a><br>
 2.2.3 <a href="#2-2-3">Internet Architecture Board (IAB)</a><br>
 2.2.4 <a href="#2-2-4">Internet Assigned Numbers Authority (IANA)</a><br>
-2.2.5 <a href="#2-2-5">RFC Editor and RFC Publication Center (RPC)</a><br>
+2.2.5 <a href="#2-2-5">RFC Editor and RFC Production Center (RPC)</a><br>
 2.2.6 <a href="#2-2-6">IETF Secretariat</a><br>
 2.2.7 <a href="#2-2-7">IETF Trust</a><br>
 2.3 <a href="#2-3">IETF Mailing Lists</a><br>
@@ -113,7 +113,7 @@ thought-provoking email messages.
 
 Of course, it's true that many IETF participants don't go to the face-to-face
 meetings at all - especially since the COVID-19 pandemic when meetings were
-completely online for a while. There also also many participants that solely
+completely online for a while. There also many participants that solely
 focus on the mailing lists of various IETF Working Groups. Since the inner
 workings of Working Groups can be hard for newcomers to understand, this
 document provides the mundane bits of information that newcomers will need in
@@ -307,7 +307,7 @@ throughout the world." One of the ways that ISOC does this is through
 support of the IETF.
 
 The [IETF Administration LLC](https://www.ietf.org/about/administration/) (IETF LLC) is a "disregarded entity" of ISOC, which means it is treated as
-as a branch or division for tax purposes. The IETF LLC has no role in the
+a branch or division for tax purposes. The IETF LLC has no role in the
 oversight or steering of the standards process, the appeal chain, the
 confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's
 memberships in other organizations. Rather, the IETF LLC, as overseen by its
@@ -463,7 +463,7 @@ about messing things up.
 
 <a id="2-2-5"></a>
 
-#### 2.2.5 RFC Editor and RFC Publication Center (RPC)
+#### 2.2.5 RFC Editor and RFC Production Center (RPC)
 
 The RPC edits, formats, and published RFC's. This used to be done by one
 person, which is why you will still see the term *RFC Editor*; IETFers are
@@ -1414,10 +1414,10 @@ reliably build upon the work you have brought forward. These rights are held
 by the IETF Trust. [BCP 78](https://www.rfc-editor.org/rfc/rfc5378.html) 
 explains the certain rights the IETF Trust takes on for submissions.
 
-Once a WG adopt a document, the WG as a whole has the right of "change 
-control." This means the WG, can make any changes to the document, the one 
-you initially wrote, that they want. If you are not comfortable with this, 
-then the IETF is not the place for your document. There are a few more 
+Once a WG adopt a document, the WG as a whole has the right of "change
+control." This means the WG, can make any changes to the document, the one
+you initially wrote, that they want. If you are not comfortable with this,
+then the IETF is not the place for your document. There are a few more
 details on this <a href="#copyright">below</a>.
 
 The WG now "works on" the document. This will be a combination of
@@ -1445,7 +1445,7 @@ Call comments that come from people who have just read the document for the
 first time can expose issues that IETF and WG regulars may have completely
 missed, which is why the discussion is open to everyone.
 
-Finally, the draft is given to the RPC Production Center (RPC), and prepared
+Finally, the draft is given to the RFC Production Center (RPC), and prepared
 for publication. There might be other changes required, including  reviews by
 IANA for registrations and the like. The most common item you'll hear about
 this is *AUTH48* state, which means the document is in the final stages of
@@ -1656,7 +1656,7 @@ explicit privacy section.
 Some drafts benefit from having an "Implementation Status" section,
 as explained by <a href="https://www.rfc-editor.org/info/rfc7942">
 BCP 205: Improving Awareness of Running Code: The Implementation Status
-Section</a>. 
+Section</a>.
 
 More detail on the required content can be found
 [online](https://authors.ietf.org/en/required-content)</a>.
@@ -1798,7 +1798,7 @@ get a piece of the action. In general, the IETF tries to have cordial
 relationships with other SDOs. This isn't always easy, since they usually
 have different structures and processes than the IETF does, and the IETF is
 mostly run by volunteers who would probably prefer to write standards rather
-than meet with representatives from other bodies. Even so, man SDOs make a
+than meet with representatives from other bodies. Even so, many SDOs make a
 great effort to interact well with the IETF despite the obvious cultural
 differences.
 

@@ -20,6 +20,7 @@ jobs:
           cat << EOF > .markdownlint.json
             {
               "default": true,
+              "MD013": false,
               "MD026": false,
               "MD029": {"style": "ordered" },
               "MD033": false,
