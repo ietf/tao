@@ -1408,10 +1408,11 @@ adoption*. If consensus is to adopt the draft, you will be asked to submit
 it with the name `draft-ietf-WGNAME-brief-subject`; you can probably guess
 what *WGNAME* should be.
 
-Note that as part of submitting an Internet Draft according to the rules, you
-grant the IETF certain rights.  These rights give the IETF the ability to
-reliably build upon the work you have brought forward. These rights are held
-by the IETF Trust.
+Note that as part of submitting an Internet Draft according to the rules, you 
+grant the IETF certain rights.  These rights give the IETF the ability to 
+reliably build upon the work you have brought forward. These rights are held 
+by the IETF Trust. [BCP 78](https://www.rfc-editor.org/rfc/rfc5378.html) 
+explains the certain rights the IETF Trust takes on for submissions.
 
 Once a WG adopt a document, the WG as a whole has the right of "change
 control." This means the WG, can make any changes to the document, the one
