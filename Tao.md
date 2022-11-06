@@ -5,7 +5,7 @@ The current version of this web page can always be found at
 To contribute to this document or to discuss its content, please join the
 [tao-discuss](https://www.ietf.org/mailman/listinfo/tao-discuss)
 mailing list.
-This document is maintained on-line at
+This document is maintained online at
 [https://github.com/ietf/tao](https://github.com/ietf/tao).
 The current editor is Niels ten Oever.
 
@@ -176,7 +176,7 @@ it is a loosely self-organized group of people who contribute to the
 engineering and evolution of Internet technologies. It is the principal body
 engaged in the development of new Internet standard specifications. The IETF
 is unusual in that it exists as a collection of meetings (both in-person
-online) and on-line activities (such as email and pull request discussions),
+and virtual) and online activities (such as email and pull request discussions),
 in which individuals voluntarily participate.
 
 The IETF welcomes all interested individuals: IETF participants come from all
