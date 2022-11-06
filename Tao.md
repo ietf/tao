@@ -250,7 +250,7 @@ operators, and equipment vendors, and it thus helps shape the trajectory of
 the development of the Internet. But in no way does the IETF control, or even
 patrol, the Internet. If your interest in the IETF is because you want to be
 part of the overseers, you may be badly disappointed by the IETF.
-A saying you will sometimes hear is "we are not the protocol police."
+A saying you will sometimes hear is, "we are not the protocol police."
 
 <a id="2-1"></a>
 
@@ -289,7 +289,7 @@ and [RFC 8719: High-Level Guidance for the Meeting Policy of the IETF](https://w
 
 Remote participation in IETF meetings has been growing significantly in the
 past few years, thanks in part to the ongoing effort to improve the tools and
-processes used to facilitate this mode participation.
+processes used to facilitate this mode of participation.
 
 <a id="2-2"></a>
 
@@ -303,10 +303,11 @@ The Internet Society (ISOC) is an international, non-profit, membership
 organization that supports and promotes the development of the Internet as a
 global technical infrastructure. The mission of ISOC is "to promote the open
 development, evolution, and use of the Internet for the benefit of all people
-throughout the world." One of the ways that ISOC does this is through
+throughout the world." One of the ways that ISOC does this is through financial
 support of the IETF.
 
-The [IETF Administration LLC](https://www.ietf.org/about/administration/) (IETF LLC) is a "disregarded entity" of ISOC, which means it is treated as
+The [IETF Administration LLC](https://www.ietf.org/about/administration/) (IETF LLC)
+is a "disregarded entity" of ISOC, which means it is treated as
 a branch or division for tax purposes. The IETF LLC has no role in the
 oversight or steering of the standards process, the appeal chain, the
 confirming bodies for existing IETF and IAB appointments, the IRTF, or ISOC's
@@ -340,15 +341,15 @@ than to give orders. The IESG gets WGs started and finished, ratifies or
 steers the output from the IETF's Working Groups (WGs), and makes sure that
 non-WG I-Ds that are about to become RFCs are correct.
 
-Check the [IESG web pages](https://www.ietf.org/about/groups/iesg) to find up-to-date information about IESG statements, I-Ds
-processed, RFCs published, and documents in Last Call, as well as the monthly
-IETF status reports.
+Check the [IESG web pages](https://www.ietf.org/about/groups/iesg) to find
+up-to-date information about IESG statements, I-Ds processed, RFCs published,
+and documents in Last Call, as well as the monthly IETF status reports.
 
 The IESG consists of the Area Directors (ADs), who are selected by the
 Nominations Committee (NomCom) and are appointed for two years. The process
 for choosing the members of the IESG is detailed in [BCP 10](https://www.rfc-editor.org/info/bcp10).
 
-The current Areas and abbreviations are shown below, and [more details](https://www.ietf.org/topics/areas/) are at
+The current Areas and abbreviations are shown below, and [more details](https://www.ietf.org/topics/areas/) are on
 the IETF web site.
 
 <div class="block-table">
@@ -385,11 +386,11 @@ have quite a bit of influence.  The ADs for a particular Area are expected to
 know more about the combined work of the WGs in that Area than anyone else.
 This is because the ADs actively follow the working groups for which they are
 responsible and assist working groups and chairs with charter and milestone
-reviews.  Some people therefore shy away from directly engaging with Area
-Directors. Don't be shy: they can be an important resource and help you find
-the person or the answer that you're looking for. They are often very busy
-during meetings, however, so an email to schedule a meeting can be useful, or
-just ask your questions.
+reviews.  Some people, therefore, shy away from directly engaging with Area
+Directors. Don't - they can be an important resource and help you find
+the person or the answer that you're looking for. They are, however, often
+very busy during meetings, and so an email to schedule a meeting can be
+useful, or just ask your questions.
 
 The entire IESG reviews each Internet-Draft (I-D or "draft") that is proposed to become an RFC
 and should be aware of general trends that can be gleaned from the collective
@@ -397,10 +398,11 @@ work products of the IETF. For IETF produced RFCs, as part of the document revie
 that may contain comments on documents.  The AD enters a position that may be
 *YES*, *NO OBJECTION*, *DISCUSS*, *ABSTAIN*, or *RECUSE* as the result of
 their review.  Any AD may record a *DISCUSS* ballot position against a draft
-if he or she has serious concerns and would like to discuss these concerns.
+if they have serious concerns and would like to discuss these concerns.
 It is common for documents to be approved with one or two *YES*
 ballots, and the majority of the remaining IESG balloting *NO OBJECTION*.  An
-[IETF blog post](https://www.ietf.org/blog/handling-iesg-ballot-positions/) gives advice on how draft authors could handle the various ballot
+[IETF blog post](https://www.ietf.org/blog/handling-iesg-ballot-positions/)
+provides advice on how draft authors could handle the various ballot
 positions.
 
 Another important job of the IESG is to watch over the output of all the WGs
