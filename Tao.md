@@ -467,7 +467,7 @@ about messing things up.
 
 #### 2.2.5 RFC Editor and RFC Production Center (RPC)
 
-The RPC edits, formats, and published RFC's. This used to be done by one
+The RPC edits, formats, and publishes RFC's. This used to be done by one
 person, which is why you will still see the term *RFC Editor*; IETFers are
 fond of their history. Also, if you are a document author, you will most
 commonly come in contact with people responsible for editing your draft.
@@ -543,7 +543,7 @@ The mailing list does have a
 [charter](https://www.rfc-editor.org/info/bcp45), however, which
 points out that it is not a place for companies or individuals to solicit or
 advertise.  As of this writing, the charter is being revised.  It is lightly
-moderated by two people appointed by the IETF Chair; they used to called the
+moderated by two people appointed by the IETF Chair; they used to be called the
 Sargent At Arms (SAA), and you might see that term sometimes.  There is also
 a process for banning persistent offenders from the list, but fortunately
 this is extremely rare.
@@ -1228,7 +1228,7 @@ write-up.
 The most important thing that **everyone** should do before coming to a
 face-to-face meeting is to read the Internet-Drafts and RFCs ahead of time. WG
 meetings are explicitly not for education: they are for developing the group's
-documents and often the documented is presented as a set of slides saying
+documents and often the document is presented as a set of slides saying
 "here's what changed since last meeting." Even if you do not plan to say
 anything in the meeting, you should read, or at least skim, the group's
 documents before attending so you can understand what is being said.
