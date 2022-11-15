@@ -949,9 +949,9 @@ would be worthwhile for your company or for the Working Groups.
 
 #### 3.12.2 Network Operators and ISPs
 
-Knowledge of how networks are run is indispensible for the development 
-of new (versions of) protocols. Especially if you work for the type of 
-network that is always using the very latest hardware and software, 
+Knowledge of how networks are run is indispensible for the development
+of new (versions of) protocols. Especially if you work for the type of
+network that is always using the very latest hardware and software,
 and you are already following the relevant Working Groups,
 you could certainly find participating in the IETF valuable.
 Note that the IETF has several WGs focused on operations, that might
