@@ -113,7 +113,7 @@ thought-provoking email messages.
 
 Of course, it's true that many IETF participants don't go to the face-to-face
 meetings at all - especially since the COVID-19 pandemic when meetings were
-completely online for a while. There also many participants that solely
+completely online for a while. There are also many participants who solely
 focus on the mailing lists of various IETF Working Groups. Since the inner
 workings of Working Groups can be hard for newcomers to understand, this
 document provides the mundane bits of information that newcomers will need in
@@ -130,7 +130,7 @@ replaced an email address for requesting some sort of action.
 Many types of IETF documentation are mentioned here.  The IETF publishes its
 technical documentation as RFCs, still known by their historical term
 *Requests for Comments*.  (Sometimes people joke that it stands for
-*Request for Compliance*.) STDs are RFCs identified as "standards"
+*Request for Compliance*.) STDs are RFCs identified as "standards",
 and BCPs are RFCs that represent thoughts on Best Current Practices in the
 Internet. Both STDs and BCPs are also RFCs.  For example, [BCP 9](https://www.rfc-editor.org/info/bcp9) points to a collection
 of RFCs that describe the IETF's standardization processes.
@@ -477,10 +477,10 @@ Another important role is to provide [one definitive repository](https://www.rfc
 
 A common misconception is that all RFCs are the work of the IETF.  In fact,
 there are four sources of RFCs: the IETF, the IAB, the IRTF, and Independent
-streams. (Soon there is likely to be a fifth, which is for documents on the RFC
-series itself.) Only documents coming directly from the IETF through Working
-Groups or sponsored by ADs are can have IETF consensus and be described as
-IETF specifications or standards.
+streams. It is likely that there will soon be fifth source, which will be for
+documents on the RFC series itself. Only documents coming directly from the
+IETF through Working Groups, or sponsored by ADs, can have IETF consensus
+and be described as IETF specifications or standards.
 
 Once an RFC is published, it is never revised.  If the specification it
 describes changes, the standard will be re-published in another RFC that
