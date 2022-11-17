@@ -477,7 +477,7 @@ Another important role is to provide [one definitive repository](https://www.rfc
 
 A common misconception is that all RFCs are the work of the IETF.  In fact,
 there are four sources of RFCs: the IETF, the IAB, the IRTF, and Independent
-streams. It is likely that there will soon be fifth source, which will be for
+streams. It is likely that there will soon be a fifth source, which will be for
 documents on the RFC series itself. Only documents coming directly from the
 IETF through Working Groups, or sponsored by ADs, can have IETF consensus
 and be described as IETF specifications or standards.
