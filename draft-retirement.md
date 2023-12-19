@@ -115,7 +115,7 @@ We acknowledge all of the past "Tao of the IETF" editors:
 
 We also acknowledge all the work of the translators that made the Tao accessible to many different audiences. 
 
-Last Edition of the Tao
+Annex 1: Last Edition of the Tao
 =======================
 
 For archival purposes, the last edition of the Tao as published under the process described in RFC6722 is included below. Note that links to the Tao and archives below may not work in the future.
