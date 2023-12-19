@@ -54,7 +54,7 @@ informative:
 
 --- abstract
 
-This document retires the Tao of the IETF as an IETF-maintained document. It includes the rationale for the retirement and the last edition of the Tao as published via the process described in {{RFC6722}}. The updated content of the Tao will continue to be updated on the website in a more accessible manner. 
+This document retires the Tao of the IETF as an IETF-maintained document. It includes the rationale for the retirement and the last edition of the Tao as published via the process described in {{RFC6722}}. Information that new participants need to engage in the work of the IETF will continue to be updated on the IETF website in a more timely and accessible manner. 
 
 --- middle
 
@@ -69,9 +69,10 @@ Reasons for Retirement
 In short, the breadth of topics covered in the Tao, the unpredictable and different schedule for updates to the topics, and the high overhead for revising and reviewing the content did not match the needs or preferences of the intended audience of the Tao.
 
 Infrequent updates
-==================
+------------------
 
 The Tao was originally published as {{RFC1391}} in January 1993. In the following 17 years, four additional versions of the Tao were published as RFCs: {{RFC1539}} in October 1998, {{RFC1718}} in November 1994, {{RFC3160}} in August 2001, and {{RFC4677}} in September 2006. In August 2012, {{RFC4677}} was published to document the process for publishing the Tao as a webpage so that it "can be updated more easily". However, in the subsequent 11 years, only four additional versions were published. The length of the Tao meant that review and approval of the entire document took considerable effort and time, leading to very infrequent updates.
+
 
 Unwieldly format
 ================
@@ -79,21 +80,28 @@ Unwieldly format
 The large, consolidated document format of the Tao made for a heavy investment by readers, in addition to the difficulty editors faced keeping pace with the changes required to keep it current. For example, the emergence of IETF Hackathon popularity with new participants prompted an update. However, that content was effectively buried in an already long document.
 
 Changing participation modes
-============================
+----------------------------
 
 The original Tao aimed to welcome new participants to IETF meetings, as attendance grew rapidly along with the growth of the Internet in the 1990s. As other avenues for initial participation in the IETF emerged over the ensuing decades, the main focus of the Tao remained on in-person meeting participation. For example, remote participation in IETF meetings has become a much more significant aspect in the past few years.
 
+Going forward
+=============
+
+The content of the Tao has already been integrated into the website of the IETF, which is the main channel of communication for IETF newcomers and a general audience. The content is continuously kept up to date with a variety of media to serve different audiences. The IETF seeks to ensure that the website continues to address the needs of our ever-evolving community and potential newcomers. 
+
+Last Edition of the Tao
+-----------------------
+
+For archival purposes, the last edition of the Tao as published under the process described in RFC6722 is included below. Note that links to the Tao and archives below may not work in the future.
+
+[Insert from here: https://github.com/ietf/tao/blob/main/Tao.md]
+
 New communications opportunities
-================================
+--------------------------------
 
 - More focused guides, for example on IETF Hackathon participation, starting new work
 - Alternative formats, e.g. multiple shorter documents, on-demand video
 - New channels for communications, e.g. blog posts, improved Datatracker, podcasts, Slack, etc. 
-
-Going forward plan
-==================
-
-The content of the Tao has already been integrated into the website of the IETF, which is the main channel of communication for IETF newcomers and a general audience. The content is continuously kept up to date with a variety of media to serve different audiences. The IETF seeks to ensure that the website continues to address the needs of our ever-evolving community and potential newcomers. 
 
 Conclusion
 ==========
@@ -114,14 +122,6 @@ We acknowledge all of the past "Tao of the IETF" editors:
 - Niels ten Oever
 
 We also acknowledge all the work of the translators that made the Tao accessible to many different audiences. 
-
-Last Edition of the Tao
-=======================
-
-For archival purposes, the last edition of the Tao as published under the process described in RFC6722 is included below. Note that links to the Tao and archives below may not work in the future.
-
-[Insert from here: https://github.com/ietf/tao/blob/main/Tao.md]
-
 
 Security Considerations
 =======================
