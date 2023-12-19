@@ -71,24 +71,24 @@ In short, the breadth of topics covered in the Tao, the unpredictable and differ
 Infrequent updates
 ==================
 
-The Tao was originally published as {{RFC1391}} in January 1993. In the following 17 years, four additional versions of the Tao were published as RFCs: {{RFC1539}} in October 1998, {{RFC1718}} in November 1994, {{RFC3160}} in August 2001, and {{RFC4677}} in September 2006. In August 2012, {{RFC4677}} was published to document the process for publishing the Tao as webpage so that it "can be updated more easily". However, in the subseqent 11 years, only four additional versions were published. The length of the Tao meant that review and approval of the entire document took considerable effort and time, leading to very infrequent updates.
+The Tao was originally published as {{RFC1391}} in January 1993. In the following 17 years, four additional versions of the Tao were published as RFCs: {{RFC1539}} in October 1998, {{RFC1718}} in November 1994, {{RFC3160}} in August 2001, and {{RFC4677}} in September 2006. In August 2012, {{RFC4677}} was published to document the process for publishing the Tao as a webpage so that it "can be updated more easily". However, in the subsequent 11 years, only four additional versions were published. The length of the Tao meant that review and approval of the entire document took considerable effort and time, leading to very infrequent updates.
 
-Unweildly format
+Unwieldly format
 ================
 
-The large, consolidated document format of the Tao made for a heavy investment by readers, in addition to the difficulty editors faced keeping pace with the changes required to keep it current. For example, the emergence of IETF Hackathons popularity with new participants prompted an update, however, that content was effectively buried in an already long document.
+The large, consolidated document format of the Tao made for a heavy investment by readers, in addition to the difficulty editors faced keeping pace with the changes required to keep it current. For example, the emergence of IETF Hackathon popularity with new participants prompted an update. However, that content was effectively buried in an already long document.
 
 Changing participation modes
 ============================
 
-The original Tao aimed to welcome new participants to IETF meetings, as attendance grew rapidly along with the growth of the Internet in the 1990s. Other avenues for initial participation in the IETF emerged over the ensuing decades, the main focus of the Tao remained on in-person meeting participation. For example, remote participation in IETF meetings has become a much more significant aspect in the past few years.
+The original Tao aimed to welcome new participants to IETF meetings, as attendance grew rapidly along with the growth of the Internet in the 1990s. As other avenues for initial participation in the IETF emerged over the ensuing decades, the main focus of the Tao remained on in-person meeting participation. For example, remote participation in IETF meetings has become a much more significant aspect in the past few years.
 
 New communications opportunities
 ================================
 
 - More focused guides, for example on IETF Hackathon participation, starting new work
 - Alternative formats, e.g. multiple shorter documents, on-demand video
-- New channels for communications, e.g. blog posts, improved Datatracker, podcasts, slack, etc. 
+- New channels for communications, e.g. blog posts, improved Datatracker, podcasts, Slack, etc. 
 
 Going forward plan
 ==================
@@ -103,9 +103,9 @@ In short, the Tao coverage of a wide range of topics, the unpredictable and diff
 Acknowledgements
 ================
 
-The next phase of work to welcome new participants to the IETF builds on and gratefully acknowledges, everyone who has contributed to the Tao, and other efforts to help newcomers to the IETF become engaged and productive participants.
+The next phase of work to welcome new participants to the IETF builds on and gratefully acknowledges everyone who has contributed to the Tao, and other efforts to help newcomers to the IETF become engaged and productive participants.
 
-We acknowledgements of all past Tao of the IETF editors:
+We acknowledge all of the past "Tao of the IETF" editors:
 
 - Gary Scott Malkin
 - Sue Harris
