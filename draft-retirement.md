@@ -108,7 +108,7 @@ The next phase of work to welcome new participants to the IETF builds on and gra
 We acknowledge all of the past "Tao of the IETF" editors:
 
 - Gary Scott Malkin
-- Sue Harris
+- Susan R. Harris
 - Paul Hoffman
 - Kathleen Moriarty
 - Niels ten Oever
