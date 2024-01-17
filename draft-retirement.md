@@ -1690,7 +1690,7 @@ Full details about the processes for dealing with other SDOs can be
 found in [BCP 102](https://www.rfc-editor.org/info/bcp102)
 and [BCP 103](https://www.rfc-editor.org/info/bcp103).
 
-##f# 8.2 Press Coverage of the IETF
+### 8.2 Press Coverage of the IETF
 
 Given that the IETF is one of the best-known bodies that is helping move the
 Internet forward, it's natural for the media to cover its actions. But it can
