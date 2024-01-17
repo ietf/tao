@@ -86,14 +86,14 @@ The content of the Tao has already been integrated into the website of the IETF,
 
 ## New communications opportunities
 
-- More focused guides, for example on IETF Hackathon participation, starting new work, etc
-- Alternative formats, e.g. multiple shorter documents, on-demand video, podcasts, etc
+- More focused guides, for example on IETF Hackathon participation, starting new work, etc.
+- Alternative formats, e.g. multiple shorter documents, on-demand video, podcasts, etc.
 - New channels for communications, e.g. blog posts, improved Datatracker,  Slack, etc. 
 
 Conclusion
 ==========
 
-The coverage of a wide range of topics, the unpredictable and different schedule for updates to the topics, and the high overhead for revising and reviewing the content, means that the Taorequired a lot of effort to maintain and was commonly out-of-date, and thus did not serve its intended purpose of informing the community and new-comers. Therefore, this document is the end of the road for "Tao of the IETF", the document is now retired. For archival reasons, the last version of the Tao can be found in the annex below.
+The coverage of a wide range of topics, the unpredictable and different schedule for updates to the topics, and the high overhead for revising and reviewing the content, means that the Tao required a lot of effort to maintain and was commonly out-of-date, and thus did not serve its intended purpose of informing the community and newcomers. Therefore, this document is the end of the road for "Tao of the IETF", the document is now retired. For archival reasons, the last version of the Tao can be found in the annex below.
 
 Acknowledgements
 ================
