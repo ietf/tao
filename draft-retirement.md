@@ -112,6 +112,8 @@ We acknowledge all of the past "Tao of the IETF" editors:
 
 We also acknowledge all the work of the translators that made the Tao accessible to many different audiences. 
 
+Finally, we also want to acknowledge the work of countless contributors over the years. 
+
 Annex 1: Last Edition of the Tao
 ================================
 
@@ -1688,7 +1690,7 @@ Full details about the processes for dealing with other SDOs can be
 found in [BCP 102](https://www.rfc-editor.org/info/bcp102)
 and [BCP 103](https://www.rfc-editor.org/info/bcp103).
 
-### 8.2 Press Coverage of the IETF
+##f# 8.2 Press Coverage of the IETF
 
 Given that the IETF is one of the best-known bodies that is helping move the
 Internet forward, it's natural for the media to cover its actions. But it can
