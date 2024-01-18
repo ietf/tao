@@ -3,7 +3,7 @@ title: Retiring the Tao of the IETF
 abbrev: Retiring the Tao of the IETF
 docname: draft-tenoever-tao-retirement-01
 category: info
-updates: 6722, 3160, 1718, 1539, 1391
+obsoletes: 6722
 
 
 ipr: trust200902
@@ -46,23 +46,19 @@ author:
 normative:
 
 informative:
-  RFC1391:
-  RFC1539:
-  RFC1718:
-  RFC3160:
   RFC4677:
   RFC6722:
 
 --- abstract
 
-This document retires the Tao of the IETF as an IETF-maintained document. It includes the rationale for the retirement and the last edition of the Tao as published via the process described in {{RFC6722}}. Information that new participants need to engage in the work of the IETF will continue to be updated on the IETF website in a more timely and accessible manner. 
+This document retires and obsoletes the Tao of the IETF as an IETF-maintained document. It includes the rationale for the retirement and the last edition of the Tao as published via the process described in RFC 6722. Information that new participants need to engage in the work of the IETF will continue to be updated on the IETF website in a more timely and accessible manner. This is the way.  
 
 --- middle
 
 Introduction
 ============
 
-Since its publication as {{RFC1391}} in 1993, The "Tao of the IETF" ("Tao") has described the inner workings of IETF meetings and Working Groups, discussed organizations related to the IETF, and introduced the working processes to new participants. The Tao never was a formal IETF process document, but rather a community-developed and maintained informational overview. After the Tao was published as an RFC for 13 years, it was published as a webpage for over a decade following the process described in {{RFC6722}}. However, the Tao did not keep up with the changes in the processes of the community and the organization, and thereby ceased to be a reliable source of information. We gratefully want to acknowledge all the individuals who contributed to the Tao over the years. The changing nature of IETF participation, a better understanding of how to most effectively convey information to new participants, and experience with publishing the Tao as a webpage all suggest a new approach to collecting, updating, and communicating the information new participants need to engage in the work of the IETF successfully. This document formally retires the "Tao of the IETF" as a single standalone document.
+Since its publication as {{RFC1391}} in 1993, The "Tao of the IETF" ("Tao") has described the inner workings of IETF meetings and Working Groups, discussed organizations related to the IETF, and introduced the working processes to new participants. The Tao never was a formal IETF process document, but rather a community-developed and maintained informational overview. After the Tao was published as an RFC for 13 years, it was published as a webpage for over a decade following the process described in {{RFC6722}}. However, the Tao did not keep up with the changes in the processes of the community and the organization, and thereby ceased to be a reliable source of information. We gratefully want to acknowledge all the individuals who contributed to the Tao over the years. The changing nature of IETF participation, a better understanding of how to most effectively convey information to new participants, and experience with publishing the Tao as a webpage all suggest a new approach to collecting, updating, and communicating the information new participants need to engage in the work of the IETF successfully. This document formally retires and obsoletes the "Tao of the IETF" as a single standalone document.
 
 Reasons for Retirement
 ======================
