@@ -1,7 +1,7 @@
 ---
 title: Retiring the Tao of the IETF
 abbrev: Retiring the Tao of the IETF
-docname: draft-tenoever-tao-retirement-01
+docname: draft-tenoever-tao-retirement-03
 category: info
 obsoletes: 6722
 
@@ -46,8 +46,13 @@ author:
 normative:
 
 informative:
+  RFC1391:
+  RFC1718:
+  RFC1539:
+  RFC3160:
   RFC4677:
   RFC6722:
+  
 
 --- abstract
 
@@ -67,7 +72,7 @@ In short, the breadth of topics covered in the Tao, the unpredictable and differ
 
 ## Infrequent updates
 
-The Tao was originally published as {{RFC1391}} in January 1993. In the following 17 years, four additional versions of the Tao were published as RFCs: {{RFC1539}} in October 1998, {{RFC1718}} in November 1994, {{RFC3160}} in August 2001, and {{RFC4677}} in September 2006. In August 2012, {{RFC4677}} was published to document the process for publishing the Tao as a webpage so that it "can be updated more easily". However, in the subsequent 11 years, only four additional versions were published. The length of the Tao meant that review and approval of the entire document took considerable effort and time, leading to very infrequent updates.
+The Tao was originally published as {{RFC1391}} in January 1993. In the following 17 years, four additional versions of the Tao were published as RFCs: {{RFC1539}} in October 1993, {{RFC1718}} in November 1994, {{RFC3160}} in August 2001, and {{RFC4677}} in September 2006. In August 2012, {{RFC6722}} was published to document the process for publishing the Tao as a webpage so that it "can be updated more easily". However, in the subsequent 11 years, only four additional versions were published. The length of the Tao meant that review and approval of the entire document took considerable effort and time, leading to very infrequent updates.
 
 ## Unwieldly format
 
